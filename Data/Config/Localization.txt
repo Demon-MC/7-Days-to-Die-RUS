@@ -5618,7 +5618,7 @@ whetstoneDesc,items,Item,KgNone,"Используется для ремонта 
 canUnlabeled,items,Food,KgNone,"Немеченому Can",,,,
 canUnlabeledDesc,items,Food,KgNone,"Это может пищи уже давно утратила свою метку, в результате чего содержимое может тайной. Он может заполнить вас или это может сделать вас больным. Вы достаточно голодны, чтобы рискнуть?",,,,
 
-toolHeadIronAxe,items,Item,KgNone,"железный (Верх)ор",,,,
+toolHeadIronAxe,items,Item,KgNone,"Топорище из железа",,,,
 toolHeadSteelAxe,items,Item,KgNone,"Стальной (Верх)ор",,,,
 toolHeadAxesDesc,items,Item,KgNone,"Эта головка инструмент используется в обработке осей. Железо разблокирован с 10-го уровня кузнечного и стали разблокируется на 80 уровне.",,,,
 toolHeadIronPickaxe,items,Item,KgNone,"Железный топор",,,,
