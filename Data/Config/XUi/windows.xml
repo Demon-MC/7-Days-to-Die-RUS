@@ -657,7 +657,7 @@
 			
 			<rect pos="350,0" name="requiredToolOverlay">
 				<sprite size="24,24" depth="2" name="requiredToolCheckmark" pos="0,-8" sprite="ui_game_symbol_check" color="[red]"/>
-				<label depth="2" pos="35,-8" name="requiredToolText" width="200" height="32" text="Необходимо" text_key="xuiRequired" font_size="32" upper_case="true" justify="left"/>
+				<label depth="2" pos="35,-8" name="requiredToolText" width="200" height="32" text="Required" text_key="xuiRequired" font_size="32" upper_case="true" justify="left"/>
 			</rect>
 		</panel>
 		

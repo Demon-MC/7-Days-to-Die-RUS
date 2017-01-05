@@ -225,7 +225,7 @@
 			<add skill_level="3" value="0.3"/>
 		</effect>
 	</perk>
-	<action_skill name="Mining Tools" exp_to_level="500" icon="mining" description_key="miningToolsDesc" title_key="miningTools" group="tools">
+	<action_skill name="Mining Tools" exp_to_level="500" icon="mining" description_key="miningToolsDesc" title_key="miningTools" text_key="Горный инструмент" group="tools">
 		<effect name="BlockDamage">
 			<multiply skill_level="1,10" value="1.00,1.32"/>
 			<multiply skill_level="10,20" value="1.32,1.45"/>

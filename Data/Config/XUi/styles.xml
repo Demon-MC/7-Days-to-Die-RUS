@@ -150,12 +150,12 @@
 	<!--LABELS-->
 	<style type="label">
 		<style_entry name="color" value="[labelColor]"/>
-				<style_entry name="font_face" value="font_header_caps" />
-		<style_entry name="font_size" value="28" />
-		<style_entry name="justify" value="left" />
-		<style_entry name="effect" value="none" />
-		<style_entry name="pivot" value="topleft" />
-		<style_entry name="text" value="" />
+		<style_entry name="font_face" value="AgencyB"/>
+		<style_entry name="font_size" value="28"/>
+		<style_entry name="justify" value="left"/>
+		<style_entry name="effect" value="none"/>
+		<style_entry name="pivot" value="topleft"/>
+		<style_entry name="text" value=""/>
 		<style_entry name="upper_case" value="true" />
 	</style>
 	
@@ -403,7 +403,7 @@
 		<style_entry name="sprite" value="ui_game_symbol_hammer"/>
 		<style_entry name="width" value="32"/>
 		<style_entry name="height" value="32"/>
-		<style_entry name="tooltip" value="CRAFTING" />
+		<style_entry name="tooltip" value="xuiCrafting" />
 		<style_entry name="tooltip_key" value="xuiCrafting" />
 		<style_entry name="hoverscale" value="1.25" />
 		<style_entry name="pivot" value="center" />
@@ -417,7 +417,7 @@
 		<style_entry name="sprite" value="ui_game_symbol_character"/>
 		<style_entry name="width" value="32"/>
 		<style_entry name="height" value="32"/>
-		<style_entry name="tooltip" value="CHARACTER" />
+		<style_entry name="tooltip" value="xuiCharacter" />
 		<style_entry name="tooltip_key" value="xuiCharacter" />
 		<style_entry name="hoverscale" value="1.25" />
 		<style_entry name="pivot" value="center" />
@@ -431,7 +431,7 @@
 		<style_entry name="sprite" value="ui_game_symbol_map"/>
 		<style_entry name="width" value="32"/>
 		<style_entry name="height" value="32"/>
-		<style_entry name="tooltip" value="MAP" />
+		<style_entry name="tooltip" value="xuiMap" />
 		<style_entry name="tooltip_key" value="xuiMap" />
 		<style_entry name="hoverscale" value="1.25" />
 		<style_entry name="pivot" value="center" />
@@ -445,7 +445,7 @@
 		<style_entry name="sprite" value="ui_game_symbol_skills"/>
 		<style_entry name="width" value="32"/>
 		<style_entry name="height" value="32"/>
-		<style_entry name="tooltip" value="SKILLS" />
+		<style_entry name="tooltip" value="xuiSkills" />
 		<style_entry name="tooltip_key" value="xuiSkills" />
 		<style_entry name="hoverscale" value="1.25" />
 		<style_entry name="pivot" value="center" />
@@ -459,7 +459,7 @@
 		<style_entry name="sprite" value="ui_game_symbol_quest"/>
 		<style_entry name="width" value="32"/>
 		<style_entry name="height" value="32"/>
-		<style_entry name="tooltip" value="QUESTS" />
+		<style_entry name="tooltip" value="xuiQuests" />
 		<style_entry name="tooltip_key" value="xuiQuests" />
 		<style_entry name="hoverscale" value="1.25" />
 		<style_entry name="pivot" value="center" />
@@ -473,7 +473,7 @@
 		<style_entry name="sprite" value="ui_game_symbol_pen"/>
 		<style_entry name="width" value="32"/>
 		<style_entry name="height" value="32"/>
-		<style_entry name="tooltip" value="JOURNAL" />
+		<style_entry name="tooltip" value="xuiJournal" />
 		<style_entry name="tooltip_key" value="xuiJournal" />
 		<style_entry name="hoverscale" value="1.25" />
 		<style_entry name="pivot" value="center" />
@@ -487,7 +487,7 @@
 		<style_entry name="sprite" value="ui_game_symbol_players"/>
 		<style_entry name="width" value="32"/>
 		<style_entry name="height" value="32"/>
-		<style_entry name="tooltip" value="PLAYERS" />
+		<style_entry name="tooltip" value="xuiPlayers" />
 		<style_entry name="tooltip_key" value="xuiPlayers" />
 		<style_entry name="hoverscale" value="1.25" />
 		<style_entry name="pivot" value="center" />
@@ -501,7 +501,7 @@
 		<style_entry name="sprite" value="ui_game_symbol_lightbulb"/>
 		<style_entry name="width" value="32"/>
 		<style_entry name="height" value="32"/>
-		<style_entry name="tooltip" value="CREATIVE" />
+		<style_entry name="tooltip" value="xuiCreative" />
 		<style_entry name="tooltip_key" value="xuiCreative" />
 		<style_entry name="hoverscale" value="1.25" />
 		<style_entry name="pivot" value="center" />
