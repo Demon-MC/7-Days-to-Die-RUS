@@ -4482,7 +4482,7 @@ bowlFruitDesc,items,Item Food,,"Эта ваза с фруктами может �
 
 cornbreadJam,items,Item Food,,"Cornbread и вареньем",,,,
 cornbreadJamDesc,items,Item Food,,"Этот Cornbread был смазывается с хорошим слоем черничного варенья.",,,,
-
+bread,items,Item Food,,"хлеб",,,,
 warmBowlDesc,items,Item Food,,"Эта чаша пищи была нагрета до более вкусной и наполнения.",,,,
 
 soupChunkyBeef,items,Item Food,,"Коренастый суп из говядины",,,,
@@ -4912,7 +4912,7 @@ bridgeDesc,blocks,Block Building,,"Использование пульта ДУ 
 autoWallDesc,blocks,Block Building,,"При размещении на земле эти блоки будут автоматически расти в стек 5 блоков высотой.",,,,
 autoFloorDesc,blocks,Block Building,,"Эти блоки будут автоматически влить в области как вода.",,,
 BreweryDesc,blocks,Block Building,,"Эта рабочая станция используется для изготовления алкогольных варок.",,,,
-workstationArmory,blocks,Block Building,,"оружейный",,,,
+workstationArmory,blocks,Block Building,,"оружейный стол",,,,
 ArmoryDesc,blocks,Block Building,,"Эта рабочая станция используется для изготовления панцирей.",,,,
 dyeStation,blocks,Block Building,,"Краситель станция",,,,
 dyeStationDesc,blocks,Block Building,,"Эта рабочая станция используется для умирающих ваших панцири.",,,,
@@ -5045,15 +5045,15 @@ cntCorpseJason,blocks,Loot Container,,"Обезумев Тесак Лут",,,,
 
 
 challengeSticky,items,Zombie Challenge Note,,"Прикрепленное предложение",,,,
-challengeClassMiner,items,Zombie Challenge Note,,"Класс - Шахтёр",,,,
-challengeClassHunter,items,Zombie Challenge Note,,"Класс - Охотник",,,,
-challengeClassBuilder,items,Zombie Challenge Note,,"Класс - Строитель",,,,
-challengeClassRifleman,items,Zombie Challenge Note,,"Класс - Стрелок",,,,
-challengeClassпреступник,items,Zombie Challenge Note,,"Класс - Бандит",,,,
-challengeClassVeteran,items,Zombie Challenge Note,,"Класс - Ветеран",,,,
-challengeClassSurvivor,items,Zombie Challenge Note,,"Класс - Оставшийся в живых",,,,
-challengeClassBruiser,items,Zombie Challenge Note,,"Класс - Борец",,,,
-challengeClassMedic,items,Zombie Challenge Note,,"Класс - Медик",,,,
+ClassMiner,items,Zombie Challenge Note,,"Класс - Шахтёр",,,,
+ClassHunter,items,Zombie Challenge Note,,"Класс - Охотник",,,,
+ClassBuilder,items,Zombie Challenge Note,,"Класс - Строитель",,,,
+ClassRifleman,items,Zombie Challenge Note,,"Класс - Стрелок",,,,
+ClassGunman,items,Zombie Challenge Note,,"Класс - Бандит",,,,
+ClassVeteran,items,Zombie Challenge Note,,"Класс - Ветеран",,,,
+ClassSurvivor,items,Zombie Challenge Note,,"Класс - Оставшийся в живых",,,,
+ClassBruiser,items,Zombie Challenge Note,,"Класс - Борец",,,,
+ClassMedic,items,Zombie Challenge Note,,"Класс - Медик",,,,
 challengeBigBadBosses,items,Zombie Challenge Note,,"Big Bad Boss вызов",,,,
 challengeAnkleBitters,items,Zombie Challenge Note,,"Голенос(Верх)ного Bitter вызов",,,,
 challengeAnimalловушки,items,Zombie Challenge Note,,"Animal Trap Вызова",,,,
@@ -5128,12 +5128,10 @@ skillbookLockpickDesc,items,Item Book,,"Эта книга добавляет к 
 
 
 classHunterDesc,blocks,Block Building,,"Хантер начнем с винтовкой и знаниями в области винтовок, ловушек и кожевенном.",,,,
-
 classHunterDesc2,blocks,Block Building,,"Хантер начнем с луком и навыками в дубления кожи, стрельба из лука, ловушки животных и охотничий нож.",,,,
 
 
-classBuilderDesc,blocks,Block Building,,"Builder начнем с запасом древесины,Деревяннаяframes и пистолет. Они начинают с навыками в столярной, кузнечного инструмента и строительства.",,,,
-
+classBuilder,blocks,Block Building,,"Builder начнем с запасом древесины,Деревяннаяframes и пистолет. Они начинают с навыками в столярной, кузнечного инструмента и строительства.",,,,
 classBuilderDesc2,blocks,Block Building,,"Builder начнем с запасом древесины,Деревяннаяframes и пистолет. Они начинают с навыками быстрее крафта, инструмента кузнечного, молоток, верстаке и строительные инструменты.",,,,
 
 
@@ -5142,11 +5140,11 @@ classRiflemanDesc,blocks,Block Building,,"Стрелок начинается с
 
 classVeteranDesc,blocks,Block Building,,"Ветеран начинается с армейскими одежды и SMG.",,,,
 
-classVeteranDesc2,blocks,Block Building,,"Ветеран начинается с армейскими одежды и штурмовая винтовка. Имеет превосходное мастерство в винтовок и пистолета кузнечного.",,,,
+classBuilderDesc,blocks,Block Building,,"сТРОИТЕЛЬ НАЧИНАЕТ С СТРОЙматерьялами, верстаком, молотком и необходимыми навыками строительства.",,,,
 
 classBruiserDesc,blocks,Block Building,,"Bruiser начинается с игольчатым клуба и обрез. Квалифицированные с оружием ближнего боя и дробовиков для повышающего близких столкновений.",,,,
 
-classпреступникDesc,blocks,Block Building,,"Стрелявший начинается с 44Magnum и мастерством в пистолетах.",,,,
+classGunmanDesc,blocks,Block Building,,"Стрелявший начинается с 44Magnum и мастерством в пистолетах.",,,,
 
 classMinerDesc,blocks,Block Building,,"Miner начинается с киркой и пистолетом. Квалифицированные в кирпичной кладке, горного инструмента и кузнечного.",,,,
 
@@ -5325,7 +5323,7 @@ workstationMerchantDesc,blocks,Block Building,,"Эта рабочая станц
 
 workstationQuest,blocks,Block Building,,"Совет Quest",,,,
 workstationQuestDesc,blocks,Block Building,,"Этот квест плата может быть использована для покупки различных квестов.",,,,
-
+soap,items,Item,,"Мыло",,,,
 soapDesc,items,Item,,"В зависимости от того, где вы нашли это, вы можете использовать его быстро, чтобы вымыть руки.",,,,
 
 cabinetFiller2Block,blocks,Block,,"Красный блок",,,,
@@ -5671,3 +5669,4 @@ toolHeadHammerDesc,items,Item,KgNone,"Это используется для и�
 
 mechanicalKit,items,Item,KgNone,"Механический комплект",,,,
 mechanicalKitDesc,items,Item,KgNone,"Механик комплекты используются для ремонта Machanical предметов, моторизованные инструменты, транспортные средства и многое другое.",,,,
+backpack,blocks,Container,KgNone,"P¶KÒAK",,,,
