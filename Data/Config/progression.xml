@@ -577,7 +577,7 @@
 		</effect>
 	</perk>
 	
-	<action_skill name="Assault Rifles" exp_to_level="150" icon="rifle" description_key="assaultRiflesDesc" title_key="assaultRifles" group="firearms">
+	<action_skill name="Assault Rifles" exp_to_level="150" icon="rifle" description_key="assaultriflesDesc" title_key="assaultrifles" group="firearms">
 		<effect name="EntityDamage">
 			<multiply perk_level="0" value="1"/>
 			<multiply skill_level="1,5" value="1,1.04" />
