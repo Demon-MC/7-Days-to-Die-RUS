@@ -576,7 +576,7 @@
 		</effect>
 	</perk>
 	
-	<action_skill name="Assault Rifles" exp_to_level="150" icon="rifle" description_key="Do more damage with assault weapons and reduce the quality loss from repairs. Level 20 unlocks unlocks the SMG. Level 40 unlocks Assault Rifle." title_key="Assault Rifles" group="firearms">
+	<action_skill name="Assault Rifles" exp_to_level="150" icon="rifle" description_key="assaultriflesDesc" title_key="assaultrifles" group="firearms">
 		<effect name="EntityDamage">
 			<multiply perk_level="0" value="1"/>
 			<multiply skill_level="1,5" value="1,1.04" />
@@ -676,7 +676,7 @@
 		<recipe name="crossbowRepeater" unlock_level="50"/>
 	</action_skill>
 
-	<perk name="Master Archer" icon="archery" description_key="Each level in perk raises your damage with bows and crossbows." title_key="Master Archer" max_level="3" skill_point_cost_multiplier="0" skill_point_cost_per_level="10" group="weapons">
+	<perk name="Master Archer" icon="archery" description_key="archerDesc" title_key="masterarcher" max_level="3" skill_point_cost_multiplier="0" skill_point_cost_per_level="10" group="weapons">
 		<requirement perk_level="1" required_skill_name="Archery" required_skill_level="10"/>
 		<requirement perk_level="2" required_skill_name="Archery" required_skill_level="30"/>
 		<requirement perk_level="3" required_skill_name="Archery" required_skill_level="50"/>
@@ -1104,7 +1104,7 @@
 		<recipe name="steelGloves" unlock_level="50"/>
 	</crafting_skill>
 	
-	<crafting_skill name="Mechanical" icon="misc_crafting" description_key="This skill levels the more you work with electronics and mechanical gear. Level 10/15/25 unlocks the chainsaw/nailgun/auger. Level 30 unlocks gear mechanicsm and mechanical parts. Level 50 unlocks minibike." title_key="Mechanical Skills" group="crafting">
+	<crafting_skill name="Mechanical" icon="misc_crafting" description_key="mechanicalskillsDesc" title_key="mechanicalskills" group="crafting">
 		<effect name="CraftingTime">
 			<multiply skill_level="1,5" value="1,.931" />
 			<multiply skill_level="5,11" value=".931,.871" />
@@ -1184,7 +1184,7 @@
 		<recipe name="minibikeHandlebars" unlock_level="50"/>
 	</crafting_skill>
 	
-	<crafting_skill name="Traps" exp_to_level="230" icon="misc_crafting" description_key="Learn how to craft improvised traps. Every ten levels unlocks a new tier. Level 20 unlocks explosive traps. Level 30 unlocks fire traps." title_key="Traps" group="tools">
+	<crafting_skill name="Traps" exp_to_level="230" icon="misc_crafting" description_key="trapsDesc" title_key="traps" group="tools">
 		<effect name="CraftingTime">
 			<multiply skill_level="1,5" value="1,.931" />
 			<multiply skill_level="5,11" value=".931,.871" />
@@ -1271,7 +1271,7 @@
 
 	</crafting_skill>
 	
-	<crafting_skill name="Blacksmith" icon="forge" description_key="Level this skill up by crafting various items and blocks in the forge. Levels 10, 15, 20, 25, 30, 50 and 80 all unlock new recipes." title_key="Blacksmith" group="crafting">
+	<crafting_skill name="Blacksmith" icon="forge" description_key="blacksmithDesc" title_key="blacksmith" group="crafting">
 		<effect name="CraftingTime">
 			<multiply skill_level="1,5" value="1,.931" />
 			<multiply skill_level="5,11" value=".931,.871" />
@@ -1322,7 +1322,7 @@
 		<recipe name="glassBusinessBlock" unlock_level="15"/>
 	</crafting_skill>
 
-	<crafting_skill name="Carpentry" icon="forge" description_key="Level this skill up to unlock more wood-related recipes such as woodframes and carpenter kits. Level 10 unlocks woodframe crafting." title_key="Carpentry" group="crafting">
+	<crafting_skill name="Carpentry" icon="forge" description_key="ñarpentryDesc" title_key="carpentry" group="crafting">
 		<effect name="CraftingTime">
 			<multiply skill_level="1,5" value="1,.931" />
 			<multiply skill_level="5,11" value=".931,.871" />
@@ -1354,7 +1354,7 @@
 		<recipe name="cntEPSGasPump" unlock_level="20"/>
 	</crafting_skill>
 
-	<crafting_skill name="Cooking" exp_to_level="130" icon="run" description_key="The higher your skill in cooking the faster you can craft meals. You also gradually unlock new cooking recipes as you level." title_key="Cooking" group="crafting">
+	<crafting_skill name="Cooking" exp_to_level="130" icon="run" description_key="cookingDesc" title_key="cooking" group="crafting">
 		<effect name="CraftingTime">
 			<multiply skill_level="1,5" value="1,.931" />
 			<multiply skill_level="5,11" value=".931,.871" />
@@ -1675,33 +1675,33 @@
 		</effect>
 	</perk>
 
-	<perk name="Gun Rocket" icon="rifle" description_key="Max out this perk to learn how to assemble a rocket launcher." title_key="Gun: Rocket Launcher" max_level="30" skill_point_cost_multiplier="0" skill_point_cost_per_level="1" group="firearms">
+	<perk name="Gun Rocket" icon="rifle" description_key="gunrocketDesc" title_key="gunrocket" max_level="30" skill_point_cost_multiplier="0" skill_point_cost_per_level="1" group="firearms">
 		<recipe name="gunRocketLauncher" unlock_level="30"/>
 		<recipe name="rocket" unlock_level="30"/>
 		<recipe name="rocketCasing" unlock_level="30"/>
 		<recipe name="rocketTip" unlock_level="30"/>
 	</perk>
 	
-	<perk name="Electric Lights" icon="misc_crafting" description_key="Max out this perk to learn how to craft electric lights at the decor artisan station." title_key="Electrician" max_level="12" skill_point_cost_multiplier="0" skill_point_cost_per_level="1" group="crafting">
+	<perk name="Electric Lights" icon="misc_crafting" description_key="electricianDesc" title_key="electrician" max_level="12" skill_point_cost_multiplier="0" skill_point_cost_per_level="1" group="crafting">
 		<requirement perk_level="12" required_skill_name="Mechanical" required_skill_level="10"/>
 		<recipe name="electricToolkit" unlock_level="12"/>
 		<recipe name="flashlight02" unlock_level="12"/>
 	</perk>
 
-	<perk name="Plumbing" icon="misc_crafting" description_key="Max out this perk to learn how to craft plumbing kits to repair sinks for a clean source of drinking water." title_key="Plumbing" max_level="15" skill_point_cost_multiplier="0" skill_point_cost_per_level="1" group="crafting">
+	<perk name="Plumbing" icon="misc_crafting" description_key="plumbingDesc" title_key="plumbing" max_level="15" skill_point_cost_multiplier="0" skill_point_cost_per_level="1" group="crafting">
 		<requirement perk_level="15" required_skill_name="Mechanical" required_skill_level="15"/>
 		<recipe name="plumbingKit" unlock_level="15"/>
 		<recipe name="workingCabinetSink" unlock_level="15"/>
 		<recipe name="workingGranitSink" unlock_level="15"/>
 	</perk>
 	
-	<perk name="Oven Repair" icon="misc_crafting" description_key="Max out this perk to learn how to craft Oven Repair kits to repair ovens for cooking without needing fuel." title_key="Oven Repair" max_level="15" skill_point_cost_multiplier="0" skill_point_cost_per_level="1" group="crafting">
+	<perk name="Oven Repair" icon="misc_crafting" description_key="ovenrepairDesc" title_key="ovenrepair" max_level="15" skill_point_cost_multiplier="0" skill_point_cost_per_level="1" group="crafting">
 		<requirement perk_level="15" required_skill_name="Mechanical" required_skill_level="15"/>
 		<recipe name="ovenKit" unlock_level="15"/>
 		<recipe name="workstationOven" unlock_level="15"/>
 	</perk>
 
-	<perk name="Security" icon="misc_crafting" description_key="Max this perk to learn how to craft very durable gun safes, advanced doors, drawbridges and hidden walls." title_key="Security Measures" max_level="20" skill_point_cost_multiplier="0" skill_point_cost_per_level="1" group="crafting">
+	<perk name="Security" icon="misc_crafting" description_key="securitymeasuresDesc" title_key="securitymeasures" max_level="20" skill_point_cost_multiplier="0" skill_point_cost_per_level="1" group="crafting">
 		<requirement perk_level="20" required_skill_name="Carpentry" required_skill_level="20"/>
 		<requirement perk_level="20" required_skill_name="Mechanical" required_skill_level="20"/>
 		<recipe name="ironDoor1_v1" unlock_level="20"/>
@@ -1720,13 +1720,13 @@
 		<recipe name="Remote" unlock_level="20"/>
 	</perk>
 
-	<perk name="Skinning Knife" icon="knife" description_key="Learn how to craft a skinning knife. These knives are useful for getting extra hides from skinning animals." title_key="Skinning Knife" max_level="1" skill_point_cost_per_level="10" group="weapons">
+	<perk name="Skinning Knife" icon="knife" description_key="skinningknifeDesc" title_key="skinningknife" max_level="1" skill_point_cost_per_level="10" group="weapons">
 		<requirement perk_level="1" required_skill_name="Leatherworking" required_skill_level="80"/>
 		<requirement perk_level="1" required_skill_name="Blade Weapons" required_skill_level="80"/>
 		<recipe name="skinningKnife" unlock_level="1"/>
 	</perk>
 	
-	<perk name="Butcher Knife" icon="knife" description_key="Learn how to craft a butcher knife. These knives are useful for getting extra meat from animals." title_key="Butcher Knife" max_level="1" skill_point_cost_per_level="10" group="weapons">
+	<perk name="Butcher Knife" icon="knife" description_key="butcherknifeDesc" title_key="butcherknife" max_level="1" skill_point_cost_per_level="10" group="weapons">
 		<requirement perk_level="1" required_skill_name="Cooking" required_skill_level="80"/>
 		<requirement perk_level="1" required_skill_name="Blade Weapons" required_skill_level="80"/>
 		<recipe name="butcherKnife" unlock_level="1"/>

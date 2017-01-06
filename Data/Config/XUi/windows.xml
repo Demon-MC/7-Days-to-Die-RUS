@@ -248,7 +248,7 @@
 			<rect width="400" height="43">
 				<sprite name="SMXDayTimeBG" pos="-20,12" size="214,148" depth="1" atlas="itemiconatlas" sprite="smxuf1extra" globalopacitymod="1.0" />
 
-				<label depth="2" pos="25,-50" width="60" height="43" text="Day {day|always}" color="[white]" font_size="22" effect="outline" upper_case="true" justify="left" />
+				<label depth="2" pos="25,-50" width="60" height="43" text="День {day|always}" color="[white]" font_size="22" effect="outline" upper_case="true" justify="left" />
 			</rect>
 
 			<rect>
