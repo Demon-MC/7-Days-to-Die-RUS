@@ -61,8 +61,6 @@ SiegeShell,items,Item Gun,,Siege Shell,,
 shotgunShellINC,items,Item Gun,,Shotgun Incendiary Shell,,
 blunderbussAmmoShredder,items,Item Gun,,Blunderbuss Shredder Ammo,,
 HollowTip,items,Item Gun,,Hollow Tip,,
-
-
 tankTopBLKRED,items,Item Clothes,,Black and Red Top,,
 tankTopREDBLK,items,Item Clothes,,Red and Black Top,,
 tankTopBLKGRY,items,Item Clothes,,Black and Gray Top,,
@@ -108,8 +106,6 @@ winterPants,items,Item Clothes,,Winter Pants,,
 shirtPurple,items,Item Clothes,,Purple Shirt,,
 steelToeBoots,items,Item Clothes,,Steeltoe Boots,,
 steelToeBootsDesc,items,Item Clothes,,Not very comfortable but they do save you from stubbed toes.,,
-
-
 HelmetLightDesc,items,Item Clothes,,This helmet has a flashlight taped to its side to double as a headlamp.,,
 ironHelmetLight,items,Item Clothes,,Iron Helmet (Light),,
 militaryHelmetLight,items,Item Clothes,,Military Helmet (Light),,
@@ -119,7 +115,6 @@ steelHelmetLight,items,Item Clothes,,Steel Helmet (Light),,
 ledAviatorGoggles,items,Item Clothes,,Mole Goggles,,
 ledGoggles,items,Item Clothes,,LED Goggles,,
 LEDHelmetDesc,items,Item Clothes,,Wear this to be able to toggle on the LED light.,,
-
 bowlDesc,items,Item Food,,Use clay bowls for cooking stews and other various foods.,,
 bowl,items,Item Food,,Clay Bowl,,
 bowlMurkyDesc,items,Item Food,,This bowl is full of murky water. Boil it or use purification tablets to clean it.,,
@@ -127,30 +122,22 @@ bowlMurkyWater,items,Item Food,,Bowl of Murky Water,,
 bowlWaterDesc,items,Item Food,,A bowl of clean water. Great for making food but could be drunk if in a pinch.,,
 bowlWater,items,Item Food,,Bowl of Water,,
 dinnerPlateDesc,items,Item Food,,Use dinner plates to make delicious meals.,,
-
-
 blueberryJam,items,Item Food,,Blueberry Jam,,
 blueberryJamDesc,items,Item Food,,Delicious blueberry jam.,,
-
 cannedFoodDesc,items,Item Food,,This quickly canned stew is great for hiding the smell of food from nearby zombies.,,
 canChunkyMeatStew,items,Item Food,,Canned Chunky Meat Stew,,
 canMeatStew,items,Item Food,,Canned Meat Stew,,
 canVegetableStew,items,Item Food,,Canned Vegetable Stew,,
 canLokiStew,items,Item Food,,Canned Loki Stew,,
-
 canPetfood,items,Item Food,,Canned Pet Food,,
 canPetfoodDesc,items,Item Food,,"A can of generic brand pet food. A cat or dog might love this, but it probably wouldn't be tasty for you...",,
-
 stewChunkyMeatDesc,items,Item Food,,This stew is full of chunky meats making it very fulfilling if not very healthy.,,
 stewChunkyMeat,items,Item Food,,Chunky Meat Stew,,
 bowlFruit,items,Item Food,,Bowl of Fruit,,
 bowlFruitDesc,items,Item Food,,This bowl of fruit may not be very filling but its very healthy for you.,,
-
 cornbreadJam,items,Item Food,,Cornbread and Jam,,
 cornbreadJamDesc,items,Item Food,,This cornbread has been smeared with a nice layer of blueberry jam.,,
-
 warmBowlDesc,items,Item Food,,This bowl of food has been heated up to be more delicious and filling.,,
-
 soupChunkyBeef,items,Item Food,,Chunky Beef Soup,,
 soupChicken,items,Item Food,,Chicken Soup,,
 soupLamb,items,Item Food,,Lamb Soup,,
@@ -174,10 +161,8 @@ warmbowlSoup,items,Item Food,,Warm Soup,,
 warmbowlStock,items,Item Food,,Warm Bowl of Stock,,
 honeyHam,items,Item Food,,Honey Ham,,
 scrambledEggs,items,Item Food,,Scrambled Eggs,,
-
 drinkEnergy,items,Item Food,,Energy Drink,,
 drinkEnergyDesc,items,Item Food,,While not delicious this drink will reinvigorate your energy.,,
-
 baconEggSandwich,items,Item Food,,Bacon Egg Sandwich,,
 applePie,items,Item Food,,Apple Pie,,
 appleCider,items,Item Food,,Apple Cider,,
@@ -197,11 +182,8 @@ colddrinkEnergy,items,Item Food,,Cold Energy Drink,,
 coldwaterPurified,items,Item Food,,Cold Purified Water,,
 flour,items,Item Food,,Flour,,
 flourDesc,items,Item Food,,"Flour is a key ingredient to making pies, biscuits and bread.",,
-
 dinnerPlate,items,Item Food,,Dinner Plate,,
-
 soupDesc,items,Item Food,,Originally from a can this soup offers a more rewarding taste now that you're eating it properly.,,
-
 PeroxideDesc,items,Item Medical,,Pour it over a cloth to make a medicated bandage to fight off stage 1 infection.,,
 drinkHealth,items,Item Medical,,Health Drink,,
 drinkHealthDesc,items,Item Medical,,The advertisements all promised these drinks were healthy for human consumption so they must be,,
@@ -213,58 +195,43 @@ medicalSplint,items,Item Medical,,Medical Splint,,
 medicalSplintDesc,items,Item Medical,,This splint is medically certified to send you down the path of recovery quicker than just using sticks and cloth.,,
 disinfectantBandage,items,Item Medical,,Disinfectant Bandage,,
 disinfectantBandageDesc,items,Item Medical,,This bandage has been soaked in peroxide to cure stage 1 infection when applied to bites or scratches.,,
-
 weedCleaver,items,Item Tool,,Weed Cleaver,,
 weedCleaverDesc,items,Item Tool,,"This tool excels at clearing up grass - but not much else. JaxTeller Brand",,
-
-
 chemicalAgent,items,Item Gun,,Chemical Agent,,
 chemicalAgentDesc,items,Item Gun,,Mix this in a syringe to make a chemical dart.,,
 healingAgent,items,Item Gun,,Healing Agent,,
 healingAgentDesc,items,Item Gun,,Mix this in a syringe to make a healing dart or use it to heal yourself.,,
 SyringeDesc,items,Item Gun,,Craft darts either by extracting blood from corpses or by mixing in chemical or healing agents.,,
-
 animalFeed,items,Item Food,,Animal Feed,,
 animalFeedDesc,items,Item Food,,Animal feed is used in crafting animal snares and chicken coops.,,
-
 maniacPowder,items,Item Food,,Maniac Powder,,
 maniacPowderDesc,items,Item Food,,A dangerous drug that can temporarily make you a fearless killing machine.,,
-
 RemoteDesc,items,Item Tool,,These are used to toggle hidden doors by clicking on them.,,
-
 survivorNotes,items,Item Tool,,Survivor Notes,,
 survivorNotesDesc,items,Item Tool,,Gather enough of these to craft skill books at the Study Desk.,,
 survivorNotes2Desc,items,Item Tool,,These can be read to gain a skill point.,,
 survivorCombination,items,Item Tool,,Survivor's Combination,,
 survivorCombinationDesc,items,Item Tool,,This can be used to unlock a survivor's briefcase.,,
-
 survivorNoteCollection,items,Item Tool,,Collection of Survivor Notes,,
 survivorNoteCollectionDesc,items,Item Tool,,This an assorted collection of various notes left behind from a survivor. Read them to gain some skill points.,,
-
 LightbulbDesc,items,Item Tool,,These are essential to crafting electric lights in Decor Artisan Station.,,
-
 classKey,items,Item Tool,,Class Key,,
 classKeyDesc,items,Item Tool,,Use this to unlock your chosen class briefcase.,,
 classSelection,items,Item Tool,,Class Selection,,
 classSelectionDesc,items,Item Tool,,Craft this item into the class you wish to start as.,,
-
-
 tantalizingMagazine,items,Item Medical,,Tantalizing Magazine,,
 tantalizingMagazineDesc,items,Item Medical,,Some of these pages are stuck together.,,
-
 ClingwrapDesc,items,Item Food,,You can turn clingwrap into strips to seal up raw meat to preserve it and hide the smell.,,
 stripsClingwrap,items,Item Food,,Clingwrap Strips,,
 stripsClingwrapDesc,items,Item Food,,You can use these to seal up raw meat to preserve it and mask the smell.,,
 sealedMeat,items,Item Food,,Sealed Meat,,
 sealedMeatDesc,items,Item Food,,This raw meat has been sealed with clingfilm to preserve it and mask the smell.,,
-
 gearMechanism,items,Item Tool,,Gear Mechanism,,
 gearMechanismDesc,items,Item Tool,,"These gears are required for making hidden doors, bridges, vaults and safes.",,
 electricalWires,items,Item Tool,,Electrical Wires,,
 electricalWiresDesc,items,Item Tool,,These wires are required for making electric lights.,,
 electricToolkit,items,Item Tool,,Electric Toolkit,,
 electricToolkitDesc,items,Item Tool,,This toolkit is used in the Decor Artisan Station for crafting electric lights.,,
-
 improvisedWeaponsSchematic,items,Item Book,,Improvised Weapons,,
 improvisedWeaponsSchematicDesc,items,Item Book,,"This schematic teaches you how ot make clubs, shivs and the blunderbuss.",,
 recipebookMasonry,items,Item Book,,Masonry,,
@@ -285,7 +252,6 @@ recipebookGlass,items,Item Book,,Glassworking 101,,
 recipebookGlassDesc,items,Item Book,,"This book teaches you how to craft blocks out of glass, empty jars and syringes.",,
 recipebookMetal,items,Item Book,,Metal Working 101,,
 recipebookMetalDesc,items,Item Book,,This book teaches you how to craft blocks made out of metal and iron.,,
-
 recipebookPottery,items,Item Book,,Pottery,,
 recipebookPotteryDesc,items,Item Book,,This book will teach you how to make clay bowls and plates.,,
 schematicFireaxe,items,Item Book,,Fireaxe Schematic,,
@@ -308,7 +274,6 @@ schematicOilRefiner,items,Item Book,,Oil Refiner Schematic,,
 schematicOilRefinerDesc,items,Item Book,,This schematic teaches you how to craft a Oil Refiner for processing oil.,,
 schematicForge,items,Item Book,,Forge Schematic,,
 schematicForgeDesc,items,Item Book,,This schematic teaches you how to craft a Forge.,,
-
 recipebookSinks,items,Item Book,,Plumbing 101,,
 recipebookSinksDesc,items,Item Book,,This book teaches you how to craft working sinks.,,
 recipebookSecurity2,items,Item Book,,Security Measures,,
@@ -319,154 +284,126 @@ sprayPaint,items,Item,,Spray Paint,,
 sprayPaintDesc,items,Item,,This can be used with Decor Steel to change appearances.,,
 assortedDyes,items,Item,,Assorted Dyes,,
 assortedDyesDesc,items,Item,,This can be useful at a Dye Station for coloring fabric armors.,,
-
-
 leatherHoodRed,items,Item Clothes,,Leather Hood (Red),,
 leatherJacketRed,items,Item Clothes,,Leather Chest Armor (Red),,
 leatherPantsRed,items,Item Clothes,,Leather Pants (Red),,
 leatherBootsRed,items,Item Clothes,,Leather Boots (Red),,
 leatherGlovesRed,items,Item Clothes,,Leather Gloves (Red),,
-
 leatherHoodBlue,items,Item Clothes,,Leather Hood (Blue),,
 leatherJacketBlue,items,Item Clothes,,Leather Chest Armor (Blue),,
 leatherPantsBlue,items,Item Clothes,,Leather Pants (Blue),,
 leatherBootsBlue,items,Item Clothes,,Leather Boots (Blue),,
 leatherGlovesBlue,items,Item Clothes,,Leather Gloves (Blue),,
-
 leatherHoodGreen,items,Item Clothes,,Leather Hood (Green),,
 leatherJacketGreen,items,Item Clothes,,Leather Chest Armor (Green),,
 leatherPantsGreen,items,Item Clothes,,Leather Pants (Green),,
 leatherBootsGreen,items,Item Clothes,,Leather Boots (Green),,
 leatherGlovesGreen,items,Item Clothes,,Leather Gloves (Green),,
-
 leatherHoodPurple,items,Item Clothes,,Leather Hood (Purple),,
 leatherJacketPurple,items,Item Clothes,,Leather Chest Armor (Purple),,
 leatherPantsPurple,items,Item Clothes,,Leather Pants (Purple),,
 leatherBootsPurple,items,Item Clothes,,Leather Boots (Purple),,
 leatherGlovesPurple,items,Item Clothes,,Leather Gloves (Purple),,
-
 leatherHoodYellow,items,Item Clothes,,Leather Hood (Yellow),,
 leatherJacketYellow,items,Item Clothes,,Leather Chest Armor (Yellow),,
 leatherPantsYellow,items,Item Clothes,,Leather Pants (Yellow),,
 leatherBootsYellow,items,Item Clothes,,Leather Boots (Yellow),,
 leatherGlovesYellow,items,Item Clothes,,Leather Gloves (Yellow),,
-
 leatherHoodOrange,items,Item Clothes,,Leather Hood (Orange),,
 leatherJacketOrange,items,Item Clothes,,Leather Chest Armor (Orange),,
 leatherPantsOrange,items,Item Clothes,,Leather Pants (Orange),,
 leatherBootsOrange,items,Item Clothes,,Leather Boots (Orange),,
 leatherGlovesOrange,items,Item Clothes,,Leather Gloves (Orange),,
-
 leatherJacketBlack,items,Item Clothes,,Leather Chest Armor (Black),,
 leatherPantsBlack,items,Item Clothes,,Leather Pants (Black),,
 leatherBootsBlack,items,Item Clothes,,Leather Boots (Black),,
 leatherGlovesBlack,items,Item Clothes,,Leather Gloves (Black),,
-
 leatherDusterRed,items,Item Clothes,,Leather Duster (Red),,
 leatherDusterBlue,items,Item Clothes,,Leather Duster (Blue),,
 leatherDusterGreen,items,Item Clothes,,Leather Duster (Green),,
 leatherDusterPurple,items,Item Clothes,,Leather Duster (Purple),,
 leatherDusterLime,items,Item Clothes,,Leather Duster (Lime),,
 leatherDusterOrange,items,Item Clothes,,Leather Duster (Orange),,
-
 ironHelmetRed,items,Item Clothes,,Iron Helmet (Red),,
 ironChestArmorRed,items,Item Clothes,,Iron Chest Armor (Red),,
 ironLegArmorRed,items,Item Clothes,,Iron Leg Armor (Red),,
 ironBootsRed,items,Item Clothes,,Iron Boots (Red),,
 ironGlovesRed,items,Item Clothes,,Iron Gloves (Red),,
-
-
-
 scrapHelmetRed,items,Item Clothes,,Scrap Helmet (Red),,
 scrapChestArmorRed,items,Item Clothes,,Scrap Chest Armor (Red),,
 scrapLegArmorRed,items,Item Clothes,,Scrap Leg Armor (Red),,
 scrapBootsRed,items,Item Clothes,,Scrap Boots (Red),,
 scrapGlovesRed,items,Item Clothes,,Scrap Gloves (Red),,
-
 clothHatRed,items,Item Clothes,,Cloth Head Armor (Red),,
 clothJacketRed,items,Item Clothes,,Cloth Chest Armor (Red),,
 clothPantsRed,items,Item Clothes,,Cloth Leg Armor (Red),,
 clothBootsRed,items,Item Clothes,,Cloth Boots (Red),,
 clothGlovesRed,items,Item Clothes,,Cloth Gloves (Red),,
-
 animalHideHoodRed,items,Item Clothes,,Animal Hide Hood (Red),,
 animalHideJacketRed,items,Item Clothes,,Animal Hide Jacket (Red),,
 animalHidePantsRed,items,Item Clothes,,Animal Hide Pants (Red),,
 animalHideBootsRed,items,Item Clothes,,Animal Hide Boots (Red),,
 animalHideGlovesRed,items,Item Clothes,,Animal Hide Gloves (Red),,
-
 ironHelmetBlue,items,Item Clothes,,Iron Helmet (Blue),,
 ironChestArmorBlue,items,Item Clothes,,Iron Chest Armor (Blue),,
 ironLegArmorBlue,items,Item Clothes,,Iron Leg Armor (Blue),,
 ironBootsBlue,items,Item Clothes,,Iron Boots (Blue),,
 ironGlovesBlue,items,Item Clothes,,Iron Gloves (Blue),,
-
 scrapHelmetBlue,items,Item Clothes,,Scrap Helmet (Blue),,
 scrapChestArmorBlue,items,Item Clothes,,Scrap Chest Armor (Blue),,
 scrapLegArmorBlue,items,Item Clothes,,Scrap Leg Armor (Blue),,
 scrapBootsBlue,items,Item Clothes,,Scrap Boots (Blue),,
 scrapGlovesBlue,items,Item Clothes,,Scrap Gloves (Blue),,
-
 clothHatBlue,items,Item Clothes,,Cloth Head Armor (Blue),,
 clothJacketBlue,items,Item Clothes,,Cloth Chest Armor (Blue),,
 clothPantsBlue,items,Item Clothes,,Cloth Leg Armor (Blue),,
 clothBootsBlue,items,Item Clothes,,Cloth Boots (Blue),,
 clothGlovesBlue,items,Item Clothes,,Cloth Gloves (Blue),,
-
 animalHideHoodBlue,items,Item Clothes,,Animal Hide Hood (Blue),,
 animalHideJacketBlue,items,Item Clothes,,Animal Hide Jacket (Blue),,
 animalHidePantsBlue,items,Item Clothes,,Animal Hide Pants (Blue),,
 animalHideBootsBlue,items,Item Clothes,,Animal Hide Boots (Blue),,
 animalHideGlovesBlue,items,Item Clothes,,Animal Hide Gloves (Blue),,
-
 ironHelmetGreen,items,Item Clothes,,Iron Helmet (Green),,
 ironChestArmorGreen,items,Item Clothes,,Iron Chest Armor (Green),,
 ironLegArmorGreen,items,Item Clothes,,Iron Leg Armor (Green),,
 ironBootsGreen,items,Item Clothes,,Iron Boots (Green),,
 ironGlovesGreen,items,Item Clothes,,Iron Gloves (Green),,
-
 scrapHelmetGreen,items,Item Clothes,,Scrap Helmet (Green),,
 scrapChestArmorGreen,items,Item Clothes,,Scrap Chest Armor (Green),,
 scrapLegArmorGreen,items,Item Clothes,,Scrap Leg Armor (Green),,
 scrapBootsGreen,items,Item Clothes,,Scrap Boots (Green),,
 scrapGlovesGreen,items,Item Clothes,,Scrap Gloves (Green),,
-
 clothHatGreen,items,Item Clothes,,Cloth Head Armor (Green),,
 clothJacketGreen,items,Item Clothes,,Cloth Chest Armor (Green),,
 clothPantsGreen,items,Item Clothes,,Cloth Leg Armor (Green),,
 clothBootsGreen,items,Item Clothes,,Cloth Boots (Green),,
 clothGlovesGreen,items,Item Clothes,,Cloth Gloves (Green),,
-
 animalHideHoodGreen,items,Item Clothes,,Animal Hide Hood (Green),,
 animalHideJacketGreen,items,Item Clothes,,Animal Hide Jacket (Green),,
 animalHidePantsGreen,items,Item Clothes,,Animal Hide Pants (Green),,
 animalHideBootsGreen,items,Item Clothes,,Animal Hide Boots (Green),,
 animalHideGlovesGreen,items,Item Clothes,,Animal Hide Gloves (Green),,
-
 ironHelmetPurple,items,Item Clothes,,Iron Helmet (Purple),,
 ironChestArmorPurple,items,Item Clothes,,Iron Chest Armor (Purple),,
 ironLegArmorPurple,items,Item Clothes,,Iron Leg Armor (Purple),,
 ironBootsPurple,items,Item Clothes,,Iron Boots (Purple),,
 ironGlovesPurple,items,Item Clothes,,Iron Gloves (Purple),,
-
 scrapHelmetPurple,items,Item Clothes,,Scrap Helmet (Purple),,
 scrapChestArmorPurple,items,Item Clothes,,Scrap Chest Armor (Purple),,
 scrapLegArmorPurple,items,Item Clothes,,Scrap Leg Armor (Purple),,
 scrapBootsPurple,items,Item Clothes,,Scrap Boots (Purple),,
 scrapGlovesPurple,items,Item Clothes,,Scrap Gloves (Purple),,
-
 clothHatPurple,items,Item Clothes,,Cloth Head Armor (Purple),,
 clothJacketPurple,items,Item Clothes,,Cloth Chest Armor (Purple),,
 clothPantsPurple,items,Item Clothes,,Cloth Leg Armor (Purple),,
 clothBootsPurple,items,Item Clothes,,Cloth Boots (Purple),,
 clothGlovesPurple,items,Item Clothes,,Cloth Gloves (Purple),,
-
 animalHideHoodPurple,items,Item Clothes,,Animal Hide Hood (Purple),,
 animalHideJacketPurple,items,Item Clothes,,Animal Hide Jacket (Purple),,
 animalHidePantsPurple,items,Item Clothes,,Animal Hide Pants (Purple),,
 animalHideBootsPurple,items,Item Clothes,,Animal Hide Boots (Purple),,
 animalHideGlovesPurple,items,Item Clothes,,Animal Hide Gloves (Purple),,
-
 ironHelmetLime,items,Item Clothes,,Iron Helmet (Lime),,
 ironChestArmorLime,items,Item Clothes,,Iron Chest Armor (Lime),,
 ironLegArmorLime,items,Item Clothes,,Iron Leg Armor (Lime),,
@@ -487,7 +424,6 @@ animalHideJacketLime,items,Item Clothes,,Animal Hide Jacket (Lime),,
 animalHidePantsLime,items,Item Clothes,,Animal Hide Pants (Lime),,
 animalHideBootsLime,items,Item Clothes,,Animal Hide Boots (Lime),,
 animalHideGlovesLime,items,Item Clothes,,Animal Hide Gloves (Lime),,
-
 ironHelmetOrange,items,Item Clothes,,Iron Helmet (Orange),,
 ironChestArmorOrange,items,Item Clothes,,Iron Chest Armor (Orange),,
 ironLegArmorOrange,items,Item Clothes,,Iron Leg Armor (Orange),,
@@ -528,7 +464,6 @@ animalHideJacketBlack,items,Item Clothes,,Animal Hide Jacket (Black),,
 animalHidePantsBlack,items,Item Clothes,,Animal Hide Pants (Black),,
 animalHideBootsBlack,items,Item Clothes,,Animal Hide Boots (Black),,
 animalHideGlovesBlack,items,Item Clothes,,Animal Hide Gloves (Black),,
-
 steelHelmetRed,items,Item Clothes,,Steel Helmet (Red),,
 steelChestplateRed,items,Item Clothes,,Steel Chest Armor (Red),,
 steelLegsRed,items,Item Clothes,,Steel Leg Armor (Red),,
@@ -592,8 +527,6 @@ workstationDecor,blocks,Block Building,,Decorative Artisan Station,,
 workstationDecorDesc,blocks,Block Building,,This workstation is used for crafting decorative blocks such as couches or tables.,,
 workstationCombine,blocks,Block Building,,Combine Station,,
 workstationCombineDesc,blocks,Block Building,,This workstation is only used to combine items and serves no other function.,,
-
-
 cntEPSMunitionsBox,blocks,Loot Container,,Munitions Box,,
 cntEPSLockers,blocks,Loot Container,,Lockers,,
 cntEPSFileCabinet,blocks,Loot Container,,File Cabinet,,
@@ -610,7 +543,6 @@ cntEPSWallSafe,blocks,Loot Container,,Wall Safe,,
 cntEPSCoffin,blocks,Loot Container,,Coffin,,
 cntEPSGasPump,blocks,Loot Container,,Gas Pump,,
 cntEPSDrawer,blocks,Loot Container,,Wall Drawer,,
-
 workstationOven,blocks,Block Building,,Working Oven,,
 workstationOvenDesc,blocks,Block Building,,This working oven can be used to cook many different recipes without using a fuel source.,,
 WorkingSinkDesc,blocks,Block Building,,This working can be used as a source of clean water. Fill your jars or bowls with water by left-clicking with them.,,
@@ -663,31 +595,23 @@ cntSurvivorsBreifcase,blocks,Block Building,,Survivor's Briefcase (Locked),,
 cntSurvivorsBreifcaseDesc,blocks,Block Building,,Place this on the ground and unlock it with a survivor's combination which can be found on corpses. You can tell it is rigged to destroy the contents inside if you try to break into it any other way.,,
 cntSuspiciousStump,blocks,Block,,Suspicious Stump,,
 cntDeadMiner,blocks,Block,,Dead Miner,,
-
 combatAxeSchematic,items,Item Book,,Combat Axe Schematic,,
 combatAxeSchematicDesc,items,Item Book,,Teaches how to make a combat axe.,,
-
 SteelArmorTitle,progression,Skill,,Steel Armor,,
 steelArmorPerkDesc,progression,Skill,,Learn how to craft steel armor.,,
-
 ttScrapVeggies,UI,Tooltip,,Dice this veggie up.,,
-
 turd2Desc,items,Item,,You can use this as fertilzer to make any earth block fertile.,,
 metalSmithing,progression,Skill,,Metal Smithing,,
 metalSmithingDesc,progression,Skill,,"Level 1 unlocks Iron smithing for forged iron, welding torch, iron arrow heads and iron bars. Level 2 unlocks forged steel and steel tools. Level 3 unlocks Mechanical Parts.",,
-
 AutoWall_Wood,blocks,Block,,AutoWall Wood,,
 AutoWall_Concrete,blocks,Block,,AutoWall Concrete,,
 AutoWall_Reinforced_Concrete,blocks,Block,,AutoWall Reinforced Concrete,,
-
 chisel,items,Item Tool,,Chisel,,
 chiselDesc,items,Item Tool,,"This tool is required in the Cement Mixer for crafting many stone-related recipes.",,
 handSaw,items,Item Tool,,Handsaw,,
 handSawDesc,items,Item Tool,,"This tool is required in the workbench for crafting many wood-related recipes.",,
 bulletTumbler,items,Item Tool,,Bullet Tumbler,,
 bulletTumblerDesc,items,Item Tool,,"This tool can be used within the Armory to craft and convert ammunition.",,
-
-
 9mmBulletCasing,items,Item Tool,,9mm Bullet Casing,,
 9mmBulletCasingDesc,items,Item Tool,,"These casings can be used to craft 9mm bullets.",,
 10mmBulletCasing,items,Item Tool,,10mm Bullet Casing,,
@@ -698,8 +622,6 @@ bulletTumblerDesc,items,Item Tool,,"This tool can be used within the Armory to c
 762mmBulletCasingDesc,items,Item Tool,,"These casings can be used to craft 762mm bullets.",,
 shotgunShellCasing,items,Item Tool,,Shotgun Shell Casing,,
 shotgunShellCasingDesc,items,Item Tool,,"These casings can be used to craft shotgun shells.",,
-
-
 cntZombie,blocks,Loot Container,,Zombie Loot,,
 cntZombieFeral,blocks,Loot Container,,Feral Zombie Loot,,
 cntZombieMoe,blocks,Loot Container,,Bloated Zombie Loot,,
@@ -712,7 +634,6 @@ cntZombieFemale,blocks,Loot Container,,Zombie Loot,,
 cntZombieBurnt,blocks,Loot Container,,Zombie Loot,,
 cntCorpseJason,blocks,Loot Container,,Crazed Slasher Loot,,
 cntCorpseJasonAxe,blocks,Loot Container,,Crazed Slasher Loot,,
-
 challengeSticky,items,Zombie Challenge Note,,A Sticky Offer,,
 challengeClassMiner,items,Zombie Challenge Note,,Class Quest - Miner,,
 challengeClassHunter,items,Zombie Challenge Note,,Class Quest - Hunter,,
@@ -754,7 +675,6 @@ challengeCigarettes,items,Zombie Challenge Note,,Challenge - Cancerous Addiction
 challengeArtist,items,Zombie Challenge Note,,Challenge - Misunderstood Artist,,
 challengeSoap,items,Zombie Challenge Note,,Challenge - Cleanliness Equals Godliness,,
 challengeBong,items,Zombie Challenge Note,,Challenge - Up in Smoke,,
-
 questItemRing,items,Item,,[Q] Diamond Wedding Ring,,
 questItemRingDesc,items,Item,,[Quest Item] This is a brilliant and beautiful diamond ring and the only proof of a love that once was.,,
 questItemRing2,items,Item,,[Q] Wedding Band,,
@@ -785,55 +705,30 @@ questItemColoringBook,items,Item,,[Q] Coloring Book,,
 questItemColoringBookDesc,items,Item,,"[Quest Item] A coloring book with only a few of the pages already used. This would make a good gift for a child.",,
 questItemBong,items,Item,,[Q] Bong,,
 questItemBongDesc,items,Item,,"[Quest Item] Shocking this is in pretty good condition, though it shows clear signs that it recieved rigorous use. Used for tobacco paraphernalia. Someone might like this..",,
-
 fuelLog,items,Item,,Fuel Log,,
 fuelLogDesc,items,Item,,This log is coated with special chemicals to prolong its burn time.,,
-
 snowHarvested,blocks,Block,,Harvested Snow,,
-
 LockpickDesc,items,Item,,"Can be used to crack into safes. Note: Doesn't work on doors.",,
 recipebookLockpick,items,Item Book,,Lockpicking,,
 recipebookLockpickDesc,items,Item Book,,"This book teaches you how to create and use lockpicks for safecracking.",,
-
-
 classHunterDesc,blocks,Block Building,,"Hunter's start off with a rifle and knowledge in rifles, traps and leatherworking.",,
-
 classHunterDesc2,blocks,Block Building,,"Hunter's start off with a bow and skills in leather tanning, archery, animal traps and a hunting knife.",,
-
-
 classBuilderDesc,blocks,Block Building,,"Builder's start off with a supply of wood, woodframes and a pistol.  They start with skills in carpentry, tool smithing and construction.",,
-
 classBuilderDesc2,blocks,Block Building,,"Builder's start off with a supply of wood, woodframes and a pistol. They start with skills in quicker crafting, tool smithing, hammer, workbench and construction tools.",,
-
-
-
 classRiflemanDesc,blocks,Block Building,,"The Rifleman starts off with a bolt rifle. He has superior skill in rifles.",,
-
 classVeteranDesc,blocks,Block Building,,"The Veteran starts off with army clothes and an Assault Rifle. Recipes: Assault Rifle, Explosives",,
-
 classVeteranDesc2,blocks,Block Building,,"The Veteran starts off with army clothes and an Assault Rifle. Has superior skill in rifles and gun smithing.",,
-
 classBruiserDesc,blocks,Block Building,,"The Bruiser starts off with a spiked club and a sawed off shotgun. Skilled with melee weapons and shotguns for up-close encounters.",,
-
 classGunmanDesc,blocks,Block Building,,"The Gunman starts off with a 44Magnum. Skilled in gun smithing, pistols and bartering.",,
-
 classMinerDesc,blocks,Block Building,,"The Miner starts off with an pickaxe and pistol. Skilled in masonry, mining tools, forge and explosives.",,
-
 classMinerDesc2,blocks,Block Building,,"The Miner starts off with a pickaxe and pistol. Skilled in mining tools, armor smithing and auger.",,
-
 classSurvivorDesc,blocks,Block Building,,"The survivor starts off with a crossbow and more food supplies. Skilled in archery, lockpicks and tool smithing.",,
-
 classSurvivorDesc2,blocks,Block Building,,"The survivor starts off with an iron crossbow and more food supplies. Skilled in archery, lockpicks, scavenging and tool smithing.",,
-
 classMedicDesc,blocks,Block Building,,"The medic starts off with extra medical supplies and a pistol. Skilled in medicine, science and chemistry.",,
 classMedicDesc2,blocks,Block Building,,"The medic starts off with extra medical supplies and a pistol. Skilled in medicine, science and first aid.",,
-
 classWildcardDesc,blocks,Block Building,,"The wildcard class starts with only skill points and no specifically tailored gear. You can then build this class to match your preferences.",,
-
 clubBurning,items,Item Melee,,Burning Club,,
 clubBurningDesc,items,Item Melee,,A wooden club set on fire at a campfire. Won't last long but useful for a primitive weapon.,,
-
-
 legendaryClubSpiked,items,Item Melee,,Legendary Spiked Club,,
 legendaryClubSpikedDesc,items,Item Melee,,If the stories are to be believed this weapon was once used by Kalrath during his quest that lead to the great zombie purge in Northen York.,,
 legendaryMachete,items,Item Melee,,Legendary Machete,,
@@ -848,24 +743,17 @@ legendaryWrench,items,Item Melee,,Legendary Wrench,,
 legendaryWrenchDesc,items,Item Melee,,"The name Freeman is carved into the handle. You have a feeling this wrench has been used very unconventionally if the blood stains are any indication",,
 legendaryChainsaw,items,Item Tool,,Legendary Chainsaw,,
 legendaryChainsawDesc,items,Item Tool,,"The remains of flesh hanging from the chain make it clear what this chainsaw was used for. The disturbing thing is that the flesh looks too fresh to be from the undead.",,
-
-
 trapSteelSpikeDesc,blocks,Traps,,"Steel spike traps can damage, cripple, even kill enemies and last longer than their wooden variants. Can be upgraded further with gascans.",,
 trapSteelFireSpikeDesc,blocks,Traps,,"These steel spike traps have been fueled with gasoline and set up to ignite anyone or anything that comes into contact with them.",,
-
 MeadDesc,items,Item Food,,"Gain stamina, bravado and a big ego all in one bottle of this tasty home brewed mead. Just like grandpa used to make.",,
 meadBlueberryDesc,items,Item Food,,"Gain stamina, bravado and a big ego all in one bottle of this tasty home brewed mead. Flavored with blueberries.",,
 appleCiderDesc,items,Item Food,,"Gain stamina, bravado and a big ego all in one bottle of this tasty home brewed cider made from fresh apples.",,
-
 crossbowRepeater,items,Item Gun,,Repeater Crossbow,,
 crossbowRepeaterDesc,items,Item Gun,,This crossbow is rigged to fire one bolt after another to a maximum of three bolts before requiring a reload.,,
-
 MasterArcher,progression,Skill,,Master Archer,,
 archerDesc,progression,Skill,,"Learn how to craft an iron bow, iron crossbow and crossbow repeater.",,
-
 fletching,progression,Skill,,Fletching,,
 fletchingDesc,progression,Skill,,"Level this by crafting arrows and bolts to speed up your crafting.",,
-
 expGainDesc,items,Item,,Read this to gain a skill point in the relevant category.,,
 expWeaponSmithing,items,Item,,Experience - Weapon Smithing,,
 expConstructionTools,items,Item,,Experience - Construction Tools,,
@@ -887,29 +775,21 @@ expRifles,items,Item,,Experience - Rifles,,
 expAthletics,items,Item,,Experience - Athletics,,
 expScavenging,items,Item,,Experience - Scavenging,,
 expMiscCrafting,items,Item,,Experience - Misc Crafting,,
-
 woodCNRRound,blocks,Block,,Wood Round Corner,,
 flagstoneCNRRound,blocks,Block,,Flagstone Round Corner,,
 cobblestoneCNRRound,blocks,Block,,Cobblestone Round Corner,,
-
-
-
 butcherKnife,items,Item,,Butcher's Knife,,
 butcherKnifeDesc,items,Item,,This knife is great for harvesting meat from animals.,,
 skinningKnife,items,Item,,Skinning Knife,,
 skinningKnifeDesc,items,Item,,This knife is great for harvesting hide from animals.,,
-
 plantSeed,blocks,Block,,Plant Seed,,
 plantSeedDesc,blocks,Block,,You're not sure what plant these seeds are for. Plant these seeds in fertile earth to see what grows.,,
 seedPack,items,Item Farming,,Pack of Plant Seed,,
 seedPackDesc,items,Item Farming,,Craft this into the plant seed you want.,,
-
 recipebookLoki,items,Item Book,,Loki's Survival Guide,,
 recipebookLokiDesc,items,Item Book,,"Written by an author who was surviving off the grid long before the outbreak even began, it should provide some useful tricks and insight to get by in todays harsh world.",,
-
 recipebookLokiWeapons,items,Item Book,,Loki's Survival Weapons,,
 recipebookLokiWeaponsDesc,items,Item Book,,"Written by an author who was surviving off the grid long before the outbreak even began, it should provide some useful tricks and insight to get by in todays harsh world.",,
-
 skillbookAthletics,items,Item Book,,Mad Muscles Magazine,,
 skillbookAthleticsDesc,items,Item Book,,"Do you even bench, bro? This magazine teaches you how to tone your bod with Joel's workout routine.",,
 skillbookBuilding,items,Item Book,,Magoli Compo Magazine,,
@@ -920,18 +800,13 @@ skillbookBarter,items,Item Book,,Merchant Catalog,,
 skillbookBarterDesc,items,Item Book,,"Reading through this might teach you a thing or too about bartering.",,
 skillbookArchery,items,Item Book,,Robin Hood's Adventures,,
 skillbookArcheryDesc,items,Item Book,,This classic novel tells the story of Robin Hood and his many adventures.,,
-
 axesTitle,progression,Skill,,Axes,,
 axesDesc,progression,Skill,,Do more damage with axes and harvest resources faster. Gain skill by using items from this group.,,
-
 unarmedTitle,progression,Skill,,Unarmed,,
 unarmedDesc,progression,Skill,,Do more damage with your fists.,,
-
 gardenToolsTitle,progression,Skill,,Garden Tools,,
 gardenToolsDesc,progression,Skill,,Gardening takes less stamina.,,
-
 barterTitle,progression,Skill,,Bartering,,
-
 lokiStew,items,Item Food,,Loki's Meat Stew,,
 lokiStewDesc,items,Item Food,,"Crafted with care and consideration, without letting any go to waste, this stew is delicious".,,
 lokiWater,items,Item Food,,Loki's Filtered Water,,
@@ -939,12 +814,8 @@ lokiWaterDesc,items,Item Food,,"This water has been filtered for taste and purit
 coldlokiWater,items,Item Food,,Cold Filtered Water,,
 moleSandwich,items,Item Food,,Mole Sandwich,,
 moleSandwichDesc,items,Item Food,,"You're not really considering eating this filth, are you?",,
-
 lokiBow,items,Item,,Loki Bow,,
 lokiBowDesc,items,Item,,More durable than your average wooden bow. Good for hunting and killing zombies. Uses arrows for ammunition. Hold reload to use alternate ammo.,,
-
-
-
 perkClassDesc,items,Item,,Read this to gain skills relevant to your class.,,
 perkSurvivor,items,Item,,Survivor Perks,,
 perkMiner,items,Item,,Miner Perks,,
@@ -956,69 +827,46 @@ perkRifleman,items,Item,,Rifleman Perks,,
 perkVeteran,items,Item,,Veteran Perks,,
 perkBuilder,items,Item,,Builder Perks,,
 perkWildcard,items,Item,,Wildcard Perks,,
-
 lokiShell,items,Item Gun,,Chemical Shell,,
 lokiShellDesc,items,Item Gun,,These shells have been filled with a chemical agent that melts through flesh on contact.,,
-
-
 carpenterKit,items,Item,,Carpenter Kit,,
 carpenterKitDesc,items,Item,,"A carpenter kit is used to upgrade or reinforce wood blocks. Can only be crafted if you read the Handyman Carpenter book.",,
-
 crudeNail,items,Item,,Crude Nail,,
 crudeNailDesc,items,Item,,"Crude Nails can be used in the place of traditional nails in crafting carpenter kits which are used for upgrading wooden blocks.",,
-
-
 plumbingKit,items,Item,,Plumbing Kit,,
 plumbingKitDesc,items,Item,,This kit when used with with a wrench can upgrade broken sinks into working variants for a fresh source of water if you left-click them with an empty jar or bowl.,,
-
-
 ovenKit,items,Item,,Oven Repair Kit,,
 ovenKitDesc,items,Item,,This kit can used to upgrade broken ovens into new working variants with a wrench. Requires electric wires which are taught by Tesla Electronics.,,
-
 cntPurse01Desc,blocks,Loot Container,,"While it offers little in terms of inventory space this is simple container to craft if you need someplace quickly to store items.",,
-
 rangerHat,items,Item Clothes,,Ranger Hat,,
 rangerHatDesc,items,Item Clothes,,This hat has an led light attached that you can toggle on or off with the F key,,
-
 coolGloves,items,Item Clothes,,Cool Gloves,,
 coolGlovesDesc,items,Item Clothes,,These gloves are specially tailored to let you stay cool when worn.,,
-
 militaryRation,items,Item Food,,Military Ration,,
 militaryRationDesc,items,Item Food,,"The taste is actually pretty bland but its loaded with protein and nutrients.",,
-
 lokiMeat,items,Item Food,,Loki's Lamb Meat,,
 lokiMeatDesc,items,Item Food,,"It's certainly better than dog food, regardless of its name.",,
-
 workstationMerchant,blocks,Block Building,,Merchant Delivery Box,,
 workstationMerchantDesc,blocks,Block Building,,This workstation can be used to exchange casino coins for various goods.,,
-
 workstationQuest,blocks,Block Building,,Quest Board,,
 workstationQuestDesc,blocks,Block Building,,This quest board can be used to purchase various quests.,,
-
 soapDesc,items,Item,,"Depending on where you found this you might want to use it quickly to wash your hands.",,
-
 aloeLotion,buffs,Buff,,Aloe Lotion,,
 aloeLotionDesc,buffs,Buff,,A nice layer of lotion helps keep your skin cool.,,
 aloeLotionTooltip,buffs,Buff,,You feel cooler.,,
-
 berserk,buffs,Buff,,Berserk,,
 berserkDesc,buffs,Buff,,KILL!,,
 berserkTooltip,buffs,Buff,,KILL!,,
-
 crashing,buffs,Buff,,Crashing,,
 crashingDesc,buffs,Buff,,"You're crashing hard.",,
 crashingDescTooltip,buffs,Buff,,"You're crashing hard.",,
-
 speedPill,items,Item,,Stims,,
 speedPillDesc,items,Item,,Just what the doctor ordered.,,
 speedBoost,buffs,Buff,,Adrenaline Rush,,
 speedBoostDesc,buffs,Buff,,"You can barely stand still, your legs just want to move.",,
 speedBoostTooltip,buffs,Buff,,"Andale, Andale! Arriba, arriba!",,
-
 kickzBoots,items,Item Clothes,,Kickz Boots,,
 kickzBootsDesc,items,Item Clothes,,"These Kickz brand shoes were tailored to let you stay cool and were designed for activities that revolve around kicking of spheres.",,
-
-
 decorSteelDesc,blocks,Block,,These steel blocks can been painted to give them another texture. Use spray paint to change the texture.,,
 decorSteel,blocks,Block,,Decor Steel,,
 decorSteelWood,blocks,Block,,Decor Steel - Wood,,
@@ -1032,7 +880,6 @@ decorSteelRConcrete,blocks,Block,,Decor Steel - Reinforced Concrete,,
 decorSteelConcreteBricks,blocks,Block,,Decor Steel - Concrete Bricks,,
 decorSteelBricks,blocks,Block,,Decor Steel - Bricks,,
 decorSteelDarkConcrete,blocks,Block,,Decor Steel - Black Concrete,,
-
 peculiarTaste,buffs,Buff,,Peculiar Taste,,
 peculiarTasteDesc,buffs,Buff,,"You're not sure what you just ate but it didn't taste like chicken.",,
 peculiarTasteTooltip,buffs,Buff,,A peculiar taste...,,
@@ -1040,7 +887,6 @@ mysteryMeat,items,Item,,Mystery Meat,,
 mysteryMeatDesc,items,Item,,"It doesn't smell terrible but you don't know how much faith you should put in Hotrod.",,
 mysteryMeatCrafted,items,Item,,Mystery Meat,,
 mysteryMeatCraftedDesc,items,Item,,"It's an aquired taste...",,
-
 bagChips,items,Item,,Bag of Chips,,
 bagChipsDesc,items,Item,,"A bag of crispy salted potato chips.",,
 bagChipsHot,items,Item,,Bag of Spicy Chips,,
@@ -1050,15 +896,11 @@ ramenNoodles,items,Item,,Ramen Noodles,,
 ramenNoodlesDesc,items,Item,,"A bag of ramen noodles. These have kept many college students alive during harsh times.",,
 bowlRamenNoodles,items,Item,,Bowl of Ramen,,
 bowlRamenNoodlesDesc,items,Item,,"A nice warm bowl of ramen noodles. Shame you have no crackers.",,
-
 charcoalChips,items,Item,,Charcoal Chips,,
 charcoalChipsDesc,items,Item,,"These serve little purpose other than filtering water if you knew how.",,
-
 scytheDesc,items,Item Melee,,"What was once a simple tool for farming is now a great zombie-killer.",,
-
 paperRack,items,Item,,Paper Rack,,
 paperRackDesc,items,Item,,"This tool can be used in the workbench to craft paper.",,
-
 merchantOrderAmmoDesc,items,Item,,"This shipment order contains 30 ammunition of the selected type.",,
 merchantOrder9MM,items,Item,,Merchant Order - 9MM Bullets,,
 merchantOrder10MM,items,Item,,Merchant Order - 10MM Bullets,,
@@ -1067,7 +909,6 @@ merchantOrder44MagBullet,items,Item,,Merchant Order - 44Mag Bullets,,
 merchantOrderShotgunShell,items,Item,,Merchant Order - Shotgun Shells,,
 merchantOrderArrows,items,Item,,Merchant Order - Arrows,,
 merchantOrderBolts,items,Item,,Merchant Order - Crossbow Bolts,,
-
 merchantOrderWeaponDesc,items,Item,,"This shipment order contains the selected weapon.",,
 merchantOrderPistol,items,Item,,Merchant Order - Pistol,,
 merchantOrder44Magnum,items,Item,,Merchant Order - 44 Magnum,,
@@ -1079,7 +920,6 @@ merchantOrderSniperRifle,items,Item,,Merchant Order - Sniper Rifle,,
 merchantOrderHuntingRifle,items,Item,,Merchant Order - Hunting Rifle,,
 merchantOrderBow,items,Item,,Merchant Order - Bow,,
 merchantOrderCrossbow,items,Item,,Merchant Order - Crossbow,,
-
 merchantOrderToolDesc,items,Item,,"This shipment order contains the selected tool.",,
 merchantOrderHammer,items,Item,,Merchant Order - Hammer,,
 merchantOrderWrench,items,Item,,Merchant Order - Wrench,,
@@ -1089,33 +929,23 @@ merchantOrderFirstAidKitDesc,items,Item,,"This shipment order contains a single 
 merchantOrderFirstAidKit,items,Item,,Merchant Order - First Aid Kit,,
 merchantOrderAntibioticsDesc,items,Item,,"This shipment order contains a single antibiotic.",,
 merchantOrderAntibiotics,items,Item,,Merchant Order - Antibiotics,,
-
 fiberPulp,items,Item,,Fiber Pulp,,
 fiberPulpDesc,items,Item,,This pulp can be used in the workbench with a paper rack to craft paper.,,
-
-
 trussingSpike,blocks,Traps,,Trussing Spike,,
 trussingSpikeDesc,blocks,Traps,,"These spike traps can damage, cripple, even kill enemies. Place them using the secondary action. They can't be upgraded and can be shot through with weapons.",,
-
 trussingWallSpike,blocks,Traps,,Trussing Wall Spike,,
 trussingWallSpikeDesc,blocks,Traps,,"These spike traps can damage, cripple, even kill enemies. Place them using the secondary action. They can't be upgraded and can be shot through with weapons. This wall variant can be mounted on a wall.",,
-
-
 challengeKickz,items,Zombie Challenge Note,,Kickz Shoe Sponsorship,,
 challengeKickzDesc,items,Zombie Challenge Note,,"The slow do not survive.",,
-
 clayBucketDesc,items,Item,,"This is specifically designed for water filtration in the chemistry station. Crafted in the campfire."
 clayBucket,items,Item,,Clay Amphora,,
 waterFilterDesc,items,Item,,"This can be used in the chemistry station for water filtration."
 waterFilter,items,Item,,Water Filter,,
 workstationChemistry,blocks,Block Building,,Chemistry Station,,
 workstationChemistryDesc,blocks,Block Building,,"This workstation can be used to mix various chemicals or perform other science-related tasks.",,
-
 tunaSandwich,items,Item Food,,Tunafish Sandwich,,
 fishPie,items,Item Food,,Fish Pie,,
-
 woodFrameVMODesc,blocks,Block,,"Used for bases. Upgrade with carpenter kits & repaired with wood with a construction tool. Upgrade more with scrap iron, concrete mix & forged steel.",,
-
 genericAmmoBox,items,Item Gun,,Ammo Supply Box,,
 genericAmmoBoxDesc,items,Item Gun,,This box of munition can be used to get ammunition for your weapons,,
 ammoSupplyDesc,items,Item Gun,,This supply of ammo can be gained from an ammo supply box.,,
@@ -1124,42 +954,30 @@ ammoSupply10mm,items,Item Gun,,Ammo Supply - 10mm Bullets,,
 ammoSupply44Mag,items,Item Gun,,Ammo Supply - 44Mag Bullets,,
 ammoSupply762mm,items,Item Gun,,Ammo Supply - 762mm Bullets,,
 ammoSupplyShotgun,items,Item Gun,,Ammo Supply - Shotgun Shells,,
-
 dismantleammo,items,Item Gun,,"Dismantle your ammo down into its base components.",,
 dismantle10mmBullets,items,Item Gun,,Dismantle - 10mm Bullets,,
 dismantle44MagBullets,items,Item Gun,,Dismantle - 44Mag Bullets,,
 dismantle9mmBullets,items,Item Gun,,Dismantle - 9mm Bullets,,
 dismantle762mmBullets,items,Item Gun,,Dismantle - 762mm Bullets,,
 dismantleShotgunShells,items,Item Gun,,Dismantle - Shotgun Shells,,
-
 dismantle10mmBullets30,items,Item Gun,,Dismantle - 10mm Bullets (30),,
 dismantle44MagBullets30,items,Item Gun,,Dismantle - 44Mag Bullets (30),,
 dismantle9mmBullets30,items,Item Gun,,Dismantle - 9mm Bullets (30),,
 dismantle762mmBullets30,items,Item Gun,,Dismantle - 762mm Bullets (30),,
 dismantleShotgunShells30,items,Item Gun,,Dismantle - Shotgun Shells (30),,
-
 campfire2Desc,blocks,Station,,"Useful to cook food and warm up. Unlock more recipes by adding a cooking pot, cooking grill or bowl of water.",,
 campfire3Desc,blocks,Station,,"Useful to cook food and warm up. Unlock more recipes by adding a cooking pot, cooking grill, beaker or bowl of water.",,
-
 moldyBread2Desc,items,Item Food,,Eat at your own risk. Can be used to craft antibiotics at a Chemistry Station with a beaker.,,
-
 oilShale2Desc,items,Item,,Oil shale can be crafted into oil or gas at the chemistry station.,,
 grainAlcohol2Desc,items,Item,,Grain alcohol can be made in a Chemistry Station. Useful for homemade gas and first aid kits. ,,
-
 beaker2Desc,items,Item,,A cooking utensil used in the Chemistry Station to unlock recipes.,,
-
 antibiotics2Desc,items,Item,,Antibiotics can cure infections and dysentery. Can be crafted in the chemistry station.,,
-
 gunskillbookDesc,items,Item Book,,"A gun enthusiast book.",,
-
 macDyverBook2Desc,items,Item Book,,"Read MacDyver's adventures as he finds improvised and clever ways to escape tricky situations.",,
-
 cntGarbageDisposal,blocks,Loot Container,,Garbage Disposal,,
 cntGarbageDisposalDesc,blocks,Block,,"The garbage disposal can can be used to get rid of trash items. Fill it with the trash you want to dispose of and right click it with a Trash Bag. You will then have to wait to use it again. Warning: This will delete all the items inside.",,
 trashbag,items,Item,,Trash Bag,,
 trashbagDesc,items,Item,,Hold this in hand and right-click on a Garbage Disposal to dispose of the contents within the garbage disposal.,,
-
-
 skillbookTools,items,Item Book,,Primitive Tools,,
 skillbookToolsDesc,items,Item Book,,"A brief history of the primitive tools used older eras.",,
 skillbookBlunt,items,Item Book,,History Of Clubs,,
@@ -1209,42 +1027,30 @@ skillbookMining,items,Item Book,,Mining Engineering,,
 skillbookMiningDesc,items,Item Book,,"An educational book that explains various mining techniques.",,
 skillbookHunter,items,Item Book,,Turok Comic,,
 skillbookHunterDesc,items,Item Book,,"This comic book fantasy follows the adventures of a indian tribe as they fight for survival in a world full of dangerous beasts.",,
-
-
 simpleForge,blocks,Station,,Simple Forge,,
 simpleForgeDesc,blocks,Station,,"Used to smelt metals into tools and weapons. Unlock more recipes by adding an anvil, calipers or tool and die set. The Simple forge has a limited number of recipes compared to the normal forge in order to help improve performance.",,
-
 trapFall,blocks,Traps,,Fall Trap,,
 trapFallDesc,blocks,Traps,,This block looks solid but will give way the moment you walk on it. Very handy for making pitfall traps,,
-
 concreteMixing2Desc,progression,Perk,,Unlocks the ability to make concrete and cement.,,
-
 theOutlawDesc2,progression,Perk,KgNone,"You're no Josey Wales, but your Magnum sure packs a punch.",,
-
 theGunman,progression,Perk,KgNone,The Gunman,,
 theGunmanDesc,progression,Perk,KgNone,You broke the laws of logic. Your pistol does more damage with every rank.,,
-
 deadShotDesc2,progression,Perk,KgNone,Shoot them dead with style!  Increase your handgun's chance to blow off heads and limbs with every rank.,Tuez-les avec classe ! Améliorez vos chances d'exploser des têtes et des membres avec votre pistolet au fil des rangs.,"Erschieße sie mit Stil! Erhöhe die Chance deiner Pistole, mit jedem Rang Köpfe und Gliedmaßen abzuschießen.",,¡Mátalos con estilo! Aumenta las posibilidades de que el revólver haga que los sesos y las extremidades de los enemigos salgan volando con nada nivel.
-
 sniper,progression,Skill,KgNone,Rifles,Fusils,Gewehre,,Sniper Rifle
 sniperDesc,progression,Perk,KgNone,Do more damage with Snipers. Gain skill by using items from this group.,,
 riflesDesc2,progression,Skill,KgNone,Do more damage with hunting or bolt rifles. Gain skill by using items from this group. Level up to 20 to be able to assemble them. Level 30 unlocks silencer.,Infligez davantage de dégâts avec les fusils et fusils d'assaut. Obtenez cette compétence en utilisant des objets de ce groupe.,"Verursache mehr Schaden mit Gewehren und Sturmgewehren. Erhalte die Fertigkeit, indem du Waffen aus dieser Kategorie benutzt.",,Inflige más daño con rifles y rifles de asalto. Mejora tu habilidad usando objetos de este grupo.
 hitman,progression,Perk,KgNone,The Hitman,,
 hitmanDesc,progression,Perk,GrChanged,"You're an aspiring hitman. Your sniper does more damage with every rank.",,
-
 assaultrifles,progression,Skill,KgNone,Rifles,Fusils,Gewehre,,Assault Rifles
 assaultriflesDesc,progression,Skill,KgNone,Do more damage with assault rifles.,,
 gijoe,progression,Perk,KgNone,"G.I. Joe",,
 gijoeDesc,progression,Perk,GrChanged,Your smg and assault rifle does more damage with every rank.,,
-
 smg,progression,Skill,KgNone,Rifles,Fusils,Gewehre,,Submachine Guns
 smgDesc,progression,Skill,KgNone,Do more damage with submachine guns.,,
 smgPerk,progression,Perk,KgNone,"Spray and Pray",,
 smgPerkDesc,progression,Perk,GrChanged,Your SMG does more damage with every rank. Level up to 20 to be able to assemble them. Level 30 unlocks silencer.,,
-
 lumberjack,progression,Perk,KgNone,"Lumberjack",,
 lumberjackDesc,progression,Perk,GrChanged,"Do 20% more block damage with axes and use 10% less stamina per swing per rank.",,
-
 ZombieRaveReaper,entityclasses,Entity,,Rave Reaper,,
 ZombieBigBitch,entityclasses,Entity,,Rotting Marge,,
 ZombieClarice,entityclasses,Entity,,Decayed Wife,,
@@ -1267,9 +1073,7 @@ ZombieChildFemale,entityclasses,Entity,,Infected Youth,,
 ZombieChildMale,entityclasses,Entity,,Infected Youth,,
 ZombieJason,entityclasses,Entity,,Crazed Slasher,,
 ZombieRegen,entityclasses,Entity,,Radiated Regenerator,,
-
 coldDrinkDesc,items,Food,KgNone,This drink has been chilled. Left-Click on a fridge or cooler to make it warmer.,,
-
 scrapIronShiv,items,Item Melee,,Scrap Iron Shiv,,
 scrapIronShivDesc,items,Item Melee,,"This crude shiv was craft from a random piece of scrap iron with its handle wrapped in duct tape. Hope you've had your tetanus shots...",,
 scrapIronShovel,items,Item Melee,,Scrap Iron Shovel,,
@@ -1278,12 +1082,10 @@ scrapIronPickaxe,items,Item Melee,,Scrap Iron Pickaxe,,
 scrapIronPickaxeDesc,items,Item Melee,,"This crude pickaxe was crafted with various scrap metal and wood. Serves its purpose but degrades twice as fast.",,
 scrapIronAxe,items,Item Melee,,Scrap Iron Axe,,
 scrapIronAxeDesc,items,Item Melee,,"This crude axe was crafted with scrap and wood. Its not as durable as stone but makes up for it by being a bit sharper.",,
-
 ironRingsRivets,items,Item,KgNone,Iron Rings and Rivets,,,
 ironRingsRivetsDesc,items,Item,KgNone,"These rings and rivets are required for crafting iron armor. You can craft these in the forge if you have a high enough Blacksmithing.",,
 steelRingsRivets,items,Item,KgNone,Steel Rings and Rivets,,,
 steelRingsRivetsDesc,items,Item,KgNone,"These rings and rivets are required for crafting steel armor. You can craft these in the forge if you have a high enough Blacksmithing.",,
 whetstoneDesc,items,Item,KgNone,"Used to repair weapons or tools that have sharp edges such as a hunting knife, axe or pickaxe.","Composant courant, les petites pierres servent notamment à fabriquer des haches de pierre, des feux de camp et des flèches. Elles peuvent aussi être jetées pour distraire les zombies et représentent une ressource de base pour forger.","Wird in vielen Rezepten benutzt, darunter Steinäxte, Lagerfeuer und Pfeile. Er kann geworfen werden, um Zombies abzulenken, und ist ein Grundrohstoff beim Schmieden.",,"Se usa en muchas recetas, como hachas de piedra, fogatas o flechas. También se pueden lanzar para distraer a los zombis y son un recurso de forja básico."
-
 canUnlabeled,items,Food,KgNone,Unlabeled Can,,,
 canUnlabeledDesc,items,Food,KgNone,"This can of food has long since lost its label, leaving the contents of the can a mystery. It could fill you up or it could make you sick. Are you hungry enough to chance it?",,,
