@@ -990,6 +990,10 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	<ingredient name="concreteMix" count="10"/>
 </recipe>
 
+<recipe name="concreteBricksBlock" count="1" craft_area="cementMixer" craft_tool="chisel" >
+	<ingredient name="concreteMix" count="10"/>
+</recipe>
+
 <recipe name="concreteArrowSlitHalf" count="1" craft_area="cementMixer" craft_tool="chisel">
 	<ingredient name="concreteMix" count="10"/>
 </recipe>
@@ -2946,8 +2950,8 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	<ingredient name="unit_clay" count="10"/>
 </recipe>
 <recipe name="beaker" count="1" craft_area="forge" material_based="true">
-	<ingredient name="unit_glass" count="10"/>
-	<ingredient name="unit_clay" count="1"/>
+	<ingredient name="unit_glass" count="20"/>
+	<ingredient name="unit_clay" count="10"/>
 </recipe>
 <recipe name="mechanicalKit" count="1">
 	<ingredient name="forgedIron" count="1"/>
@@ -4598,10 +4602,12 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	<ingredient name="woodFrameBlock" count="1"/>
 </recipe>
 <recipe name="drywallBlock" count="1" craft_area="workstationDecor" craft_tool="handSaw">
+	<ingredient name="nail" count="4"/>
 	<ingredient name="wood" count="10"/>
 </recipe>
 <recipe name="drywallWhiteBlock" count="1" craft_area="workstationDecor" craft_tool="handSaw">
 	<ingredient name="wood" count="10"/>
+	<ingredient name="nail" count="4"/>
 </recipe>
 <recipe name="orangeDrywallBlock" count="1" craft_area="cementMixer" craft_tool="chisel">
 	<ingredient name="stone" count="4"/>
