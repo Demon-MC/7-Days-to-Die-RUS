@@ -287,12 +287,12 @@
 <data name="error.something_went_wrong" xml:space="preserve"><value>Blorp Blorp. Что-то пошло не так</value></data>
 <data name="user.in_world" xml:space="preserve"><value>В Мире</value></data>
 <data name="user.online" xml:space="preserve"><value>Онлайн</value></data>
-<data name="world.joining" xml:space="preserve"><value>Вступление Мира</value></data>
+<data name="world.joining" xml:space="preserve"><value>Подключение к миру</value></data>
 <data name="game_tip_1" xml:space="preserve"><value>Избивают? Попробуйте создать какие-нибудь доспехи!</value></data>
 <data name="game_tip_2" xml:space="preserve"><value>Рецепты, купленные в магазине, нельзя найти в мире или разблокированы с помощью любых других средств!</value></data>
 <data name="game_tip_3" xml:space="preserve"><value>Использование экстракторов для сбора ценных материалов из узлов, например угля и обсидиана.</value></data>
 <data name="game_tip_4" xml:space="preserve"><value>Pigsies являются хорошим источником кожи и костей и содержат дневную порцию витамина С.</value></data>
-<data name="game_tip_5" xml:space="preserve"><value> Лиственника обычно тусуются в тени гигантских Cragwood деревья в лесу. Они легко обгораешь.</value></data>
+<data name="game_tip_5" xml:space="preserve"><value> Лиственника обычно тусуются в тени гигантских Утесное дерево деревья в лесу. Они легко обгораешь.</value></data>
 <data name="game_tip_6" xml:space="preserve"><value>Ночь, когда всех злодеев вышли играть. На "играть", мы имеем в виду 'ужас'.</value></data>
 <data name="game_tip_7" xml:space="preserve"><value>Дополнительно экстрактор может быть труднее ремесло, но это удваивает выход!</value></data>
 <data name="game_tip_8" xml:space="preserve"><value>Сундуки с сокровищами могут иметь аккуратные-o специальные рецепты в них! Узнать их из вашего инвентаря.</value></data>
@@ -419,7 +419,7 @@
 <data name="item.cornerstone_temple_large" xml:space="preserve"><value>Величественные Скрытые Закладки Краеугольного Камня Храма</value></data>
 <data name="item.cornerstone_temple_small" xml:space="preserve"><value>Скрытые Закладки Краеугольного Камня Храма</value></data>
 <data name="item.cornerstone_bunker" xml:space="preserve"><value>Железо Бункер Краеугольный Камень</value></data>
-<data name="item.cornerstone_keep" xml:space="preserve"><value>Cragwood Держать Камень</value></data>
+<data name="item.cornerstone_keep" xml:space="preserve"><value>Утесное дерево Держать Камень</value></data>
 <data name="item.cornerstone_estate" xml:space="preserve"><value>Сад Краеугольным Камнем Имуществом</value></data>
 <data name="item.cornerstone_longhouse" xml:space="preserve"><value>Лонгхаус Краеугольный Камень</value></data>
 <data name="item.cornerstone_coop" xml:space="preserve"><value>Chizzard Курятник Краеугольный Камень</value></data>
@@ -446,7 +446,7 @@
 <data name="item.door_mayan" xml:space="preserve"><value>Скрытые Двери Храма</value></data>
 <data name="item.throne_mayan" xml:space="preserve"><value>Скрытый Храм Престол</value></data>
 <data name="item.table_mayan" xml:space="preserve"><value>Скрытый Храм Таблице</value></data>
-<data name="item.torch_mayan" xml:space="preserve"><value>Скрытый Храм Факел</value></data>
+<data name="item.torch_mayan" xml:space="preserve"><value>Скрытый мая Факел</value></data>
 <data name="item.altar_mayan" xml:space="preserve"><value>Скрытые Храма Алтарь</value></data>
 <data name="item.goblet_mayan" xml:space="preserve"><value>Скрытый Храм Кубок</value></data>
 <data name="item.chest_mayan" xml:space="preserve"><value>Скрытый Храм Грудь</value></data>
@@ -783,23 +783,23 @@
 <data name="item.pebble_pebble" xml:space="preserve"><value>Галечный галечный</value></data>
 <data name="item.resist_poison_basic" xml:space="preserve"><value>Яд Зелье Сопротивления</value></data>
 <data name="item.bomb_poison" xml:space="preserve"><value>Яд Бомба</value></data>
-<data name="item.leaves_autumnwood_yellow" xml:space="preserve"><value>Цитрусовые Autumnwood Листья</value></data>
-<data name="item.leaves_autumnwood_red" xml:space="preserve"><value>Корица Autumnwood Листья</value></data>
-<data name="item.leaves_autumnwood_brown" xml:space="preserve"><value>Мокко Autumnwood Листья</value></data>
+<data name="item.leaves_Осеннее дерево_yellow" xml:space="preserve"><value>Цитрусовые Осеннее дерево Листья</value></data>
+<data name="item.leaves_Осеннее дерево_red" xml:space="preserve"><value>Корица Осеннее дерево Листья</value></data>
+<data name="item.leaves_Осеннее дерево_brown" xml:space="preserve"><value>Мокко Осеннее дерево Листья</value></data>
 <data name="item.wood_palm" xml:space="preserve"><value>Шорвуде</value></data>
 <data name="item.wood_jungle" xml:space="preserve"><value>Уайлдвуд</value></data>
-<data name="item.wood_willow" xml:space="preserve"><value>Weepwood</value></data>
-<data name="item.wood_autumn" xml:space="preserve"><value>Autumnwood</value></data>
+<data name="item.wood_willow" xml:space="preserve"><value>Ива</value></data>
+<data name="item.wood_autumn" xml:space="preserve"><value>Осеннее дерево</value></data>
 <data name="item.wood_palm_husk" xml:space="preserve"><value>Лузга Шорвуде</value></data>
-<data name="item.wood_jungle_vines" xml:space="preserve"><value>Лозы</value></data>
+<data name="item.wood_jungle_vines" xml:space="preserve"><value>Лоза</value></data>
 <data name="item.wood_willow_moss" xml:space="preserve"><value>Мох</value></data>
-<data name="item.log_willow" xml:space="preserve"><value>Weepwood Журнала</value></data>
-<data name="item.log_willow_moss" xml:space="preserve"><value>Замшелые Weepwood Журнала</value></data>
+<data name="item.log_willow" xml:space="preserve"><value>Ива Журнала</value></data>
+<data name="item.log_willow_moss" xml:space="preserve"><value>Замшелые Ива Журнала</value></data>
 <data name="item.leaves_palm" xml:space="preserve"><value>Шорвуде Листья</value></data>
 <data name="item.leaves_jungle" xml:space="preserve"><value>Уайлдвуд Листья</value></data>
-<data name="item.leaves_willow" xml:space="preserve"><value>Weepwood Листья</value></data>
+<data name="item.leaves_willow" xml:space="preserve"><value>Ива Листья</value></data>
 <data name="item.leaves_jungle_flower" xml:space="preserve"><value>Уайлдвуд Цветок</value></data>
-<data name="item.leaves_willow_flower" xml:space="preserve"><value>Weepwood Цветок</value></data>
+<data name="item.leaves_willow_flower" xml:space="preserve"><value>Ива Цветок</value></data>
 <data name="item.cactus" xml:space="preserve"><value>Кактус</value></data>
 <data name="item.cactus_flower" xml:space="preserve"><value>Цветок кактуса</value></data>
 <data name="item.under_brush" xml:space="preserve"><value>Подлеска</value></data>
@@ -813,14 +813,14 @@
 <data name="item.weeds" xml:space="preserve"><value>Сорняки</value></data>
 <data name="item.tall_grass" xml:space="preserve"><value>Трава</value></data>
 <data name="item.grass_savannah" xml:space="preserve"><value>Саванна Травы</value></data>
-<data name="item.leaves_savannah" xml:space="preserve"><value>Parchwood Листья</value></data>
-<data name="item.wood_savannah" xml:space="preserve"><value>Parchwood</value></data>
+<data name="item.leaves_savannah" xml:space="preserve"><value>Порча Листья</value></data>
+<data name="item.wood_savannah" xml:space="preserve"><value>Порча</value></data>
 <data name="item.tallgrass_savannah" xml:space="preserve"><value>Высокотравные Саванны</value></data>
 <data name="item.ground_jungle" xml:space="preserve"><value>Детрит</value></data>
 <data name="item.water_plant" xml:space="preserve"><value>Рогоза</value></data>
 <data name="item.water_bog_item" xml:space="preserve"><value>Болотные Воды</value></data>
 <data name="item.grass_dead" xml:space="preserve"><value>Мертвую Траву</value></data>
-<data name="item.flower_autumnwood" xml:space="preserve"><value>Autumnwood Цветок</value></data>
+<data name="item.flower_Осеннее дерево" xml:space="preserve"><value>Осеннее дерево Цветок</value></data>
 <data name="item.mountain_stone" xml:space="preserve"><value>Peakstone</value></data>
 <data name="item.ground_pine" xml:space="preserve"><value>Слипшиеся Иглы</value></data>
 <data name="item.drift_wood" xml:space="preserve"><value>Коряги</value></data>
@@ -902,9 +902,9 @@
 <data name="item.torch_arctek_02" xml:space="preserve"><value>Великий Факел Arctek</value></data>
 <data name="item.lantern_arctek_01" xml:space="preserve"><value>Arctek Фонарь</value></data>
 <data name="item.lantern_arctek_02" xml:space="preserve"><value>Гранд Arctek Фонарь</value></data>
-<data name="item.oak_sapling_item" xml:space="preserve"><value>Саженец Cragwood</value></data>
-<data name="item.aspen_sapling_item" xml:space="preserve"><value>Саженец Ashenwood</value></data>
-<data name="item.evergreen_sapling_item" xml:space="preserve"><value>Элдервуд Саженец</value></data>
+<data name="item.oak_sapling_item" xml:space="preserve"><value>Саженец Утесное дерево</value></data>
+<data name="item.aspen_sapling_item" xml:space="preserve"><value>Саженец Ясеневое дерево</value></data>
+<data name="item.evergreen_sapling_item" xml:space="preserve"><value>Старое дерево Саженец</value></data>
 <data name="item.queen_bee_item" xml:space="preserve"><value>Королева</value></data>
 <data name="item.healing_beacon" xml:space="preserve"><value>Исцеление Маяк</value></data>
 <data name="item.fan_item" xml:space="preserve"><value>Вентилятор</value></data>
@@ -914,18 +914,18 @@
 <data name="item.deathstatue" xml:space="preserve"><value>Статуя Смерти</value></data>
 <data name="item.dirt_item" xml:space="preserve"><value>Грязь</value></data>
 <data name="item.sandstone_smooth_item" xml:space="preserve"><value>Гладкий Песчаник</value></data>
-<data name="item.wood_sequoia_item" xml:space="preserve"><value>Элдервуд</value></data>
-<data name="item.wood_aspen_item" xml:space="preserve"><value>Ashenwood</value></data>
-<data name="item.wood_oak_item" xml:space="preserve"><value>Cragwood</value></data>
+<data name="item.wood_sequoia_item" xml:space="preserve"><value>Старое дерево</value></data>
+<data name="item.wood_aspen_item" xml:space="preserve"><value>Ясеневое дерево</value></data>
+<data name="item.wood_oak_item" xml:space="preserve"><value>Утесное дерево</value></data>
 <data name="item.grass_item" xml:space="preserve"><value>Трава</value></data>
 <data name="item.stone_item" xml:space="preserve"><value>Камень</value></data>
 <data name="item.bedrock_item" xml:space="preserve"><value>Бедрок</value></data>
 <data name="item.sandstone_item" xml:space="preserve"><value>Песчаник</value></data>
 <data name="item.aquamarine_item" xml:space="preserve"><value>Алевролит</value></data>
-<data name="item.leaves_aspen_corrupted_item" xml:space="preserve"><value>Повреждены Ashenwood Листья</value></data>
-<data name="item.leaves_sequoia_corrupted_item" xml:space="preserve"><value>Поврежденные Листья Элдервуд</value></data>
-<data name="item.wood_aspen_corrupted_item" xml:space="preserve"><value>Повреждены Ashenwood</value></data>
-<data name="item.wood_sequoia_corrupted_item" xml:space="preserve"><value>Повреждены Элдервуд</value></data>
+<data name="item.leaves_aspen_corrupted_item" xml:space="preserve"><value>Повреждены Ясеневое дерево Листья</value></data>
+<data name="item.leaves_sequoia_corrupted_item" xml:space="preserve"><value>Поврежденные Листья Старое дерево</value></data>
+<data name="item.wood_aspen_corrupted_item" xml:space="preserve"><value>Повреждены Ясеневое дерево</value></data>
+<data name="item.wood_sequoia_corrupted_item" xml:space="preserve"><value>Повреждены Старое дерево</value></data>
 <data name="item.dirt_corrupted_item" xml:space="preserve"><value>Повреждены Грязи</value></data>
 <data name="item.grass_corrupted_item" xml:space="preserve"><value>Повреждены Травы</value></data>
 <data name="item.leaves_corrupted_item" xml:space="preserve"><value>Поврежденные Листья</value></data>
@@ -935,9 +935,9 @@
 <data name="item.ice_item" xml:space="preserve"><value>Лед</value></data>
 <data name="item.igneous_rock_item" xml:space="preserve"><value>Магматическая Горная Порода</value></data>
 <data name="item.lava_item" xml:space="preserve"><value>Лава</value></data>
-<data name="item.leaves_aspen_item" xml:space="preserve"><value>Ashenwood Листья</value></data>
-<data name="item.leaves_oak_item" xml:space="preserve"><value>Cragwood Листья</value></data>
-<data name="item.leaves_sequoia_item" xml:space="preserve"><value>Элдервуд Листья</value></data>
+<data name="item.leaves_aspen_item" xml:space="preserve"><value>Ясеневое дерево Листья</value></data>
+<data name="item.leaves_oak_item" xml:space="preserve"><value>Утесное дерево Листья</value></data>
+<data name="item.leaves_sequoia_item" xml:space="preserve"><value>Старое дерево Листья</value></data>
 <data name="item.limestone_item" xml:space="preserve"><value>Известняк</value></data>
 <data name="item.mud_item" xml:space="preserve"><value>Грязи</value></data>
 <data name="item.salt_rock_item" xml:space="preserve"><value>Saltrock</value></data>
@@ -964,35 +964,35 @@
 <data name="item.iron_bar" xml:space="preserve"><value>Железо Бар</value></data>
 <data name="item.diamond" xml:space="preserve"><value>Алмаз</value></data>
 <data name="item.obsidian" xml:space="preserve"><value>Обсидиан</value></data>
-<data name="item.slab_wood" xml:space="preserve"><value>Древесных Плит</value></data>
-<data name="item.slab_stone" xml:space="preserve"><value>Сляб Камня</value></data>
-<data name="item.slab_iron" xml:space="preserve"><value>Железо Плиты</value></data>
-<data name="item.slab_obsidian" xml:space="preserve"><value>Обсидиан Плиты</value></data>
-<data name="item.slab_diamond" xml:space="preserve"><value>Алмазный Плиты</value></data>
-<data name="item.slab_lumite_item" xml:space="preserve"><value>Сляб Люмит</value></data>
-<data name="item.rod_stone" xml:space="preserve"><value>Каменный Стержень</value></data>
-<data name="item.rod_iron" xml:space="preserve"><value>Железный Прут</value></data>
+<data name="item.slab_wood" xml:space="preserve"><value>Древесная плита</value></data>
+<data name="item.slab_stone" xml:space="preserve"><value>Каменная плита</value></data>
+<data name="item.slab_iron" xml:space="preserve"><value>Железная плита</value></data>
+<data name="item.slab_obsidian" xml:space="preserve"><value>Обсидиановая плита</value></data>
+<data name="item.slab_diamond" xml:space="preserve"><value>Алмазная плита</value></data>
+<data name="item.slab_lumite_item" xml:space="preserve"><value>Люмитовая плита</value></data>
+<data name="item.rod_stone" xml:space="preserve"><value>Каменный стержень</value></data>
+<data name="item.rod_iron" xml:space="preserve"><value>Железный прут</value></data>
 <data name="item.rod_obsidian" xml:space="preserve"><value>Обсидиановый Стержень</value></data>
 <data name="item.rod_diamond" xml:space="preserve"><value>Алмазный Стержень</value></data>
 <data name="item.coal" xml:space="preserve"><value>Уголь</value></data>
 <data name="item.potion_basic" xml:space="preserve"><value>Базовые Зелья Здоровья</value></data>
 <data name="item.recipe_potion_basic_quick" xml:space="preserve"><value>Быстрая Базового Медицинского Рецепта Зелье</value></data>
 <data name="item.potion_basic_quick" xml:space="preserve"><value>Быстрая Базовые Зелья Здоровья</value></data>
-<data name="item.focus_stone" xml:space="preserve"><value>Камень Горно Клетки</value></data>
-<data name="item.focus_iron" xml:space="preserve"><value>Добыча Железных Клеток</value></data>
-<data name="item.focus_obsidian" xml:space="preserve"><value>Обсидиан Горно Клетки</value></data>
-<data name="item.focus_diamond" xml:space="preserve"><value>Добыча Алмазов Сотовый</value></data>
+<data name="item.focus_stone" xml:space="preserve"><value>Каменная добывающая перчатка</value></data>
+<data name="item.focus_iron" xml:space="preserve"><value>Железная добывающая перчатка</value></data>
+<data name="item.focus_obsidian" xml:space="preserve"><value>Обсидиановая добывающая перчатка</value></data>
+<data name="item.focus_diamond" xml:space="preserve"><value>Алмазная добывающая перчатка</value></data>
 <data name="item.door_wood" xml:space="preserve"><value>Деревянные Двери</value></data>
 <data name="item.default_stick" xml:space="preserve"><value>Прутик</value></data>
 <data name="item.sword_wood" xml:space="preserve"><value>Деревянный Меч</value></data>
-<data name="item.station_sawyer" xml:space="preserve"><value>Процессор</value></data>
+<data name="item.station_sawyer" xml:space="preserve"><value>ыРазделитель</value></data>
 <data name="item.station_armory" xml:space="preserve"><value>Верстак</value></data>
 <data name="item.station_loom" xml:space="preserve"><value>Станок</value></data>
 <data name="item.rough_block_wood" xml:space="preserve"><value>Грубый Деревянный Блок</value></data>
 <data name="item.leather" xml:space="preserve"><value>Кожа</value></data>
 <data name="item.bone" xml:space="preserve"><value>Кость</value></data>
 <data name="item.stick_wood" xml:space="preserve"><value>Деревянная Штанга</value></data>
-<data name="item.vines" xml:space="preserve"><value>Лозы</value></data>
+<data name="item.vines" xml:space="preserve"><value>Лоза</value></data>
 <data name="item.twine" xml:space="preserve"><value>Шпагат</value></data>
 <data name="item.thread" xml:space="preserve"><value>Нить</value></data>
 <data name="item.sinew" xml:space="preserve"><value>Сухожилия</value></data>
@@ -1079,21 +1079,21 @@
 <data name="item.breastplate_lumite" xml:space="preserve"><value>Нагрудник Люмит</value></data>
 <data name="item.leggings_lumite" xml:space="preserve"><value>Леггинсы Люмит</value></data>
 <data name="item.helmet_lumite" xml:space="preserve"><value>Люмит Наплечник</value></data>
-<data name="item.focus_lumite" xml:space="preserve"><value>Люмит Горно Клетки</value></data>
-<data name="item.sword_lumite" xml:space="preserve"><value>Люмит Меч</value></data>
+<data name="item.focus_lumite" xml:space="preserve"><value>Люмитовая добывающая перчатка</value></data>
+<data name="item.sword_lumite" xml:space="preserve"><value>Люмитовый Меч</value></data>
 <data name="item.armguards_obsidian" xml:space="preserve"><value>Обсидиан Armguards</value></data>
 <data name="item.breastplate_obsidian" xml:space="preserve"><value>Обсидиановый Нагрудник</value></data>
 <data name="item.leggings_obsidian" xml:space="preserve"><value>Леггинсы Обсидиан</value></data>
 <data name="item.helmet_obsidian" xml:space="preserve"><value>Обсидиан Наплечник</value></data>
 <data name="item.sword_obsidian" xml:space="preserve"><value>Обсидиановый Меч</value></data>
 <data name="item.sword_stone" xml:space="preserve"><value>Каменный Меч</value></data>
-<data name="item.focus_wood" xml:space="preserve"><value>Древесина Горного Клетки</value></data>
+<data name="item.focus_wood" xml:space="preserve"><value>Деревянная добывающая перчатка</value></data>
 <data name="item.focus_wood_charged" xml:space="preserve"><value>Заряженные Древесины Добыча Клетки</value></data>
 <data name="item.recipe_focus_wood_charged" xml:space="preserve"><value>Заряженные Древесины Горного Рецепта Сотового</value></data>
-<data name="item.station_forge" xml:space="preserve"><value>Фордж</value></data>
+<data name="item.station_forge" xml:space="preserve"><value>Печь</value></data>
 <data name="item.station_alchemy" xml:space="preserve"><value>Алхимия Таблица</value></data>
 <data name="item.station_tool" xml:space="preserve"><value>Скамья Инструмент</value></data>
-<data name="item.station_furniture" xml:space="preserve"><value>Фордж</value></data>
+<data name="item.station_furniture" xml:space="preserve"><value>Печь</value></data>
 <data name="item.extractor" xml:space="preserve"><value>Экстрактор</value></data>
 <data name="item.fence_iron" xml:space="preserve"><value>Железный Забор</value></data>
 <data name="item.gate_iron" xml:space="preserve"><value>Железные Ворота</value></data>
@@ -1222,7 +1222,7 @@
 <data name="item.table_iron" xml:space="preserve"><value>Железо Стол</value></data>
 <data name="item.table_diamond" xml:space="preserve"><value>Алмаз стол</value></data>
 <data name="item.table_lumite" xml:space="preserve"><value>Таблица Люмит</value></data>
-<data name="item.lamp_wood" xml:space="preserve"><value>Горит Лампа Вуда</value></data>
+<data name="item.lamp_wood" xml:space="preserve"><value>Деревянная Лампа</value></data>
 <data name="item.ladder_stone" xml:space="preserve"><value>Каменная Лестница</value></data>
 <data name="item.planter_wood_double" xml:space="preserve"><value>Деревянные Двойные Плантатор</value></data>
 <data name="item.planter_wood_triple" xml:space="preserve"><value>Дерево Тройной Плантатор</value></data>
@@ -1254,7 +1254,7 @@
 <data name="item.extractor_advanced" xml:space="preserve"><value>Продвинутый Экстрактор</value></data>
 <data name="item.recipe_super_extractor" xml:space="preserve"><value>Рецепт: Супер Экстрактор</value></data>
 <data name="item.extractor_super" xml:space="preserve"><value>Супер Экстрактор</value></data>
-<data name="item.beacon_red" xml:space="preserve"><value>Красного Маяка</value></data>
+<data name="item.beacon_red" xml:space="preserve"><value>Красный маяк</value></data>
 <data name="item.beacon_blue" xml:space="preserve"><value>Синий Маяк</value></data>
 <data name="item.beacon_yellow" xml:space="preserve"><value>Желтый Маяк</value></data>
 <data name="item.beacon_white" xml:space="preserve"><value>Белый Маяк</value></data>
@@ -1337,8 +1337,8 @@
 <data name="item.datafile_20" xml:space="preserve"><value>Старый чип с данными</value></data>
 <data name="item.moss" xml:space="preserve"><value>Мох</value></data>
 <data name="item.mold" xml:space="preserve"><value>Плесень</value></data>
-<data name="item.log" xml:space="preserve"><value>Журнал Cragwood</value></data>
-<data name="item.log_aspen_item" xml:space="preserve"><value>Журнал Ashenwood</value></data>
+<data name="item.log" xml:space="preserve"><value>Журнал Утесное дерево</value></data>
+<data name="item.log_aspen_item" xml:space="preserve"><value>Журнал Ясеневое дерево</value></data>
 <data name="item.potion_stamina" xml:space="preserve"><value>Зелье Выносливости</value></data>
 <data name="item.sword_wood_hardened" xml:space="preserve"><value>Закаленные Деревянный Меч</value></data>
 <data name="item.wall_adobe_bricks" xml:space="preserve"><value>Сырцового Кирпича</value></data>
@@ -1718,9 +1718,9 @@
 <data name="item_description.pebble_pebble" xml:space="preserve"><value>Галька растирает его когтями по гладкой поверхности, когда он волнуется. Упала на гальку. Найден в прибрежных районах мира.</value></data>
 <data name="item_description.resist_poison_basic" xml:space="preserve"><value>Сопротивляться воздействию яда! Тип повреждения не группа.Эффекты: - Уменьшить воздействие на окружающую среду на 90% - Уменьшить ДОТ урон на 50% </value></data>
 <data name="item_description.bomb_poison" xml:space="preserve"><value>Взрывчатое вещество контейнер с токсичными материалами. Держите из достигаемости детей.</value></data>
-<data name="item_description.leaves_autumnwood_yellow" xml:space="preserve"><value>Эти листья на вкус как лимон! Рода. Подстраховаться, что лимоны опять же на вкус? Это было некоторое время.</value></data>
-<data name="item_description.leaves_autumnwood_red" xml:space="preserve"><value>Какой пряный протяжный звук! Фуу. На самом деле, там была ошибка на тот лист. Это был пряный дело?</value></data>
-<data name="item_description.leaves_autumnwood_brown" xml:space="preserve"><value>Листья, которые пахнут, как кофе! Вы думаете, что они делают, по крайней мере. Вы здесь уже давно, ты знаешь.</value></data>
+<data name="item_description.leaves_Осеннее дерево_yellow" xml:space="preserve"><value>Эти листья на вкус как лимон! Рода. Подстраховаться, что лимоны опять же на вкус? Это было некоторое время.</value></data>
+<data name="item_description.leaves_Осеннее дерево_red" xml:space="preserve"><value>Какой пряный протяжный звук! Фуу. На самом деле, там была ошибка на тот лист. Это был пряный дело?</value></data>
+<data name="item_description.leaves_Осеннее дерево_brown" xml:space="preserve"><value>Листья, которые пахнут, как кофе! Вы думаете, что они делают, по крайней мере. Вы здесь уже давно, ты знаешь.</value></data>
 <data name="item_description.wood_palm" xml:space="preserve"><value>Я шорвуд, как использовать это для построения моего кабана! </value></data>
 <data name="item_description.wood_jungle" xml:space="preserve"><value>Ок, это дерево нарочно пытается меня пугать? *мурашки по коже* </value></data>
 <data name="item_description.wood_willow" xml:space="preserve"><value>Если это измельчают в опилки и прыснул в глаза, это заставит вас плакать. </value></data>
@@ -1731,7 +1731,7 @@
 <data name="item_description.leaves_jungle" xml:space="preserve"><value>Эти дикие листья без вашего "правила", человек. Бесплатные листом!</value></data>
 <data name="item_description.leaves_willow" xml:space="preserve"><value>Известно для просмотра фильмов глупо и безудержно хвастливый на диване. Будьте осторожны.</value></data>
 <data name="item_description.leaves_jungle_flower" xml:space="preserve"><value>Чрезвычайно опасно или опасно вкусный. Я забываю, что теперь, когда я думаю об этом :/</value></data>
-<data name="item_description.leaves_willow_flower" xml:space="preserve"><value>Эти цветы пытаются развеселить Weepwood, будучи живенько и оптимистично.</value></data>
+<data name="item_description.leaves_willow_flower" xml:space="preserve"><value>Эти цветы пытаются развеселить Ива, будучи живенько и оптимистично.</value></data>
 <data name="item_description.cactus" xml:space="preserve"><value>Природный иглотерапевт.</value></data>
 <data name="item_description.cactus_flower" xml:space="preserve"><value>Кактус надевает их на свою голову в надежде быть обнаружен как следующая супермодель.</value></data>
 <data name="item_description.under_brush" xml:space="preserve"><value>Под где? Ха! Ты сказала "белье"! 8Р </value></data>
@@ -1752,7 +1752,7 @@
 <data name="item_description.water_plant" xml:space="preserve"><value>Кошки должны быть под водой? </value></data>
 <data name="item_description.water_bog_item" xml:space="preserve"><value>Не смотри на это под микроскопом, если Вы не хотите кошмаров.</value></data>
 <data name="item_description.grass_dead" xml:space="preserve"><value>Вы можете ожидать от вашей Ассоциации домовладельцев, если Вы не позаботитесь об этом, и быстро. </value></data>
-<data name="item_description.flower_autumnwood" xml:space="preserve"><value>Цветок сливают всех свой цвет, коварное дерево Autumnwood. Было бы печально, если бы не так красиво.</value></data>
+<data name="item_description.flower_Осеннее дерево" xml:space="preserve"><value>Цветок сливают всех свой цвет, коварное дерево Осеннее дерево. Было бы печально, если бы не так красиво.</value></data>
 <data name="item_description.mountain_stone" xml:space="preserve"><value>Этот камень на самом деле боится высоты, но тектоника плит сделали свое дело и теперь в безвыходном положении.</value></data>
 <data name="item_description.ground_pine" xml:space="preserve"><value> Пружинистые-просмотр почвопокровные. Вы боитесь прыгнуть на него, опасаясь ямы-ловушки.</value></data>
 <data name="item_description.drift_wood" xml:space="preserve"><value>Просто посмотрите на эти журналы. Неужели они думают, они просто плывут по течению жизни? Более похоже на Vagabondwood, чем коряги, если вы спросите меня.</value></data>
@@ -1853,13 +1853,13 @@
 <data name="item_description.sandstone_smooth_item" xml:space="preserve"><value>Ты трешь о том, что песчаник слишком долго, если вы спросите меня.</value></data>
 <data name="item_description.wood_sequoia_item" xml:space="preserve"><value>Дерево это пришло из древнего, величественного, возвышенного, но он был в свой путь, так что. </value></data>
 <data name="item_description.wood_aspen_item" xml:space="preserve"><value>Белый, как снег. Сложно, как, ну, дерево.</value></data>
-<data name="item_description.wood_oak_item" xml:space="preserve"><value>Запахнет Cragwood на носу, затхлый запах Cragwood на языке, и затяжным послевкусием Cragwood. Это Cragwood! </value></data>
+<data name="item_description.wood_oak_item" xml:space="preserve"><value>Запахнет Утесное дерево на носу, затхлый запах Утесное дерево на языке, и затяжным послевкусием Утесное дерево. Это Утесное дерево! </value></data>
 <data name="item_description.grass_item" xml:space="preserve"><value>Природный ковер. Она может сделать вас снять обувь. </value></data>
 <data name="item_description.stone_item" xml:space="preserve"><value>Любит тяжелые разговоры. Угнетает иногда.</value></data>
 <data name="item_description.bedrock_item" xml:space="preserve"><value>Не спать на ней, если у вас есть гипсокартон пригодится.</value></data>
 <data name="item_description.sandstone_item" xml:space="preserve"><value>Оба родители думают, что это выглядит на самом деле их больше.</value></data>
 <data name="item_description.aquamarine_item" xml:space="preserve"><value>Камень создан из слоев экскременты рыб, остатки растений и грязи. Ужас!</value></data>
-<data name="item_description.leaves_aspen_corrupted_item" xml:space="preserve"><value>Дерево Ashenwood была вполне довольна жизнью, пока ты не испортил с азартными играми и плохая гигиена!</value></data>
+<data name="item_description.leaves_aspen_corrupted_item" xml:space="preserve"><value>Дерево Ясеневое дерево была вполне довольна жизнью, пока ты не испортил с азартными играми и плохая гигиена!</value></data>
 <data name="item_description.leaves_sequoia_corrupted_item" xml:space="preserve"><value>Даже самая старшая из нас всех подвержены коррупции.</value></data>
 <data name="item_description.wood_aspen_corrupted_item" xml:space="preserve"><value>Он даже не знал, что ударил его.</value></data>
 <data name="item_description.wood_sequoia_corrupted_item" xml:space="preserve"><value>По крайней мере, это было до долгую жизнь, ну, вы знаете-</value></data>
@@ -1917,21 +1917,21 @@
 <data name="item_description.hearthstone_white_item" xml:space="preserve"><value>Отличный способ найти ваш дом, когда ты удалился слишком далеко. Нажмите клавишу T, чтобы перейти ощутимое. Размещение оселок удаляет последний один вы разместили.</value></data>
 <data name="item_description.portcrystal_white_item" xml:space="preserve"><value>Этот несуществующий кусок мусора является результатом изменения дизайна от разработчиков. Я имею в виду - этот камень, кажется, были оставлены в спешке; какие тайны он скрывает?**Сейф, чтобы выбросить, если вы хотите!</value></data>
 <data name="item_description.station_sawyer" xml:space="preserve"><value>Ваши зубы будут вам только до сих пор; использовать эту станцию для обработки материалов в более удобной для пользования. Это очень важно для многих изделий.</value></data>
-<data name="item_description.rough_block_wood" xml:space="preserve"><value>'Вау, это очень грубо.' Блок, который. Не факт, что есть Bosshog за вами. Ну, может быть, оба. Сделано в процессоре.</value></data>
+<data name="item_description.rough_block_wood" xml:space="preserve"><value>'Вау, это очень грубо.' Блок, который. Не факт, что есть Bosshog за вами. Ну, может быть, оба. Сделано в Разделителье.</value></data>
 <data name="item_description.diamond" xml:space="preserve"><value>Источник невообразимого богатства нашли глубоко в горячее слои мира. К сожалению, Валюта имеет смысла здесь. Нашли недалеко от жары.</value></data>
 <data name="item_description.lumite" xml:space="preserve"><value>Чрезвычайно редкий минерал обладает прочностью, долговечностью и очаровательной личности. Скрыт очень глубокий в мире.</value></data>
 <data name="item_description.obsidian" xml:space="preserve"><value>Похоже, сколько более черный это может быть? Ответа нет. Нет больше черного. Изысканный из обсидиана руды в кузнице.</value></data>
-<data name="item_description.vines" xml:space="preserve"><value>Часто называют растение-змей за их спинами, они используются для связывания и ткачества. Они хотели обнять своих лучших друзей, Cragwood деревьев.</value></data>
+<data name="item_description.vines" xml:space="preserve"><value>Часто называют растение-змей за их спинами, они используются для связывания и ткачества. Они хотели обнять своих лучших друзей, Утесное дерево деревьев.</value></data>
 <data name="item_description.adobe_brick" xml:space="preserve"><value>Я полагаю, что здесь тебя изобретательный. Ты даже придумал использовать для грязи! Сделанные в кузнице.</value></data>
-<data name="item_description.adobe_shingles" xml:space="preserve"><value>Хорошо выглядеть во время выхода солнца. Сделано в процессоре.</value></data>
+<data name="item_description.adobe_shingles" xml:space="preserve"><value>Хорошо выглядеть во время выхода солнца. Сделано в Разделителье.</value></data>
 <data name="item_description.bed_frame" xml:space="preserve"><value>Отлично подходит для сидя, используя как ужасный дверной проем, или на самом деле превращается в кровать. Ваш выбор. </value></data>
 <data name="item_description.bedroll" xml:space="preserve"><value>Так мягкий. Запатентовала 'листья памяти', что контур вашего тела. </value></data>
 <data name="item_description.bees_wax" xml:space="preserve"><value>Ты всегда завидовал пчел, и теперь вы, наконец, добытой в свое дело. Нашли в кроны деревьев.</value></data>
-<data name="item_description.chisel_beginners" xml:space="preserve"><value>Все долота должны начать где-то. Используйте этот инструмент в более сложные декоративные поделки. Сделано в процессоре.</value></data>
-<data name="item_description.hammer_beginners" xml:space="preserve"><value>При нажатии действительно вещи трудно уже недостаточно. Сделано в процессоре.</value></data>
-<data name="item_description.reagents_beginners" xml:space="preserve"><value>Фундаментальные смесь ингредиентов для алхимии. Придает восхитительный умами вкус к еде прежде, чем он заставляет вас сильно болен. Сделано в процессоре.</value></data>
+<data name="item_description.chisel_beginners" xml:space="preserve"><value>Все долота должны начать где-то. Используйте этот инструмент в более сложные декоративные поделки. Сделано в Разделителье.</value></data>
+<data name="item_description.hammer_beginners" xml:space="preserve"><value>При нажатии действительно вещи трудно уже недостаточно. Сделано в Разделителье.</value></data>
+<data name="item_description.reagents_beginners" xml:space="preserve"><value>Фундаментальные смесь ингредиентов для алхимии. Придает восхитительный умами вкус к еде прежде, чем он заставляет вас сильно болен. Сделано в Разделителье.</value></data>
 <data name="item_description.bedroll_blue" xml:space="preserve"><value>Сделать заявление с этой скатку: 'мне нравится синий'. </value></data>
-<data name="item_description.dye_blue" xml:space="preserve"><value>Дистиллированная голубые цветы. Не пролей его на свой прекрасный новый галстук. Сделано в процессоре.</value></data>
+<data name="item_description.dye_blue" xml:space="preserve"><value>Дистиллированная голубые цветы. Не пролей его на свой прекрасный новый галстук. Сделано в Разделителье.</value></data>
 <data name="item_description.flower_blue" xml:space="preserve"><value>Этот цветок уже был в депрессии, а потом ты взял его. Используется в зельях и инструменты. Встречаются и более крупные деревья.</value></data>
 <data name="item_description.bone" xml:space="preserve"><value>Кости полезны для многих вещей! Вот почему у вас так много в вас, кстати. Пикачу существ спорта несколько.</value></data>
 <data name="item_description.mushroom_brown" xml:space="preserve"><value>Любимые Pigsy это. Она живет каждый день в страхе. Съесть его или использовать его в зелья и другие товары.</value></data>
@@ -1945,51 +1945,51 @@
 <data name="item_description.crystal_shard" xml:space="preserve"><value>Резкая и грубая. Будьте осторожны, когда г - АУ!</value></data>
 <data name="item_description.blade_diamond" xml:space="preserve"><value>Единственное, что можно вырезать алмазный резец алмазный резец. Подумай об этом. Сделано в Toolbench.</value></data>
 <data name="item_description.ore_diamond" xml:space="preserve"><value>Алмаз мамочки. Нашли в узлы вблизи экстремальной жары.</value></data>
-<data name="item_description.rod_diamond" xml:space="preserve"><value>Победитель конкурса 'самое дорогое удилище' премии. Он покажет вам свои трофеи, если вы спросите. Сделано в процессоре.</value></data>
+<data name="item_description.rod_diamond" xml:space="preserve"><value>Победитель конкурса 'самое дорогое удилище' премии. Он покажет вам свои трофеи, если вы спросите. Сделано в Разделителье.</value></data>
 <data name="item_description.glob_goo" xml:space="preserve"><value>Случайная гоо? Звучит алхимия-иш.</value></data>
 <data name="item_description.mushroom_glowing" xml:space="preserve"><value>Он светится так, он может читать в темноте. Ешь немного здоровья, или использовать его в зелья и другие товары.</value></data>
 <data name="item_description.glue" xml:space="preserve"><value>По сравнению с семейными узами она не так сильна, но она сделает для наклеивания базовые вещи вместе. Сделанные в кузнице.</value></data>
 <data name="item_description.gunpowder" xml:space="preserve"><value>Ты думаешь, что я думаю? Используйте это в вашу кашу! Шучу, взрывать вещи! Нашли во взрывоопасных вещей.</value></data>
-<data name="item_description.nails_hardened" xml:space="preserve"><value>Эти гвозди вы видели много трагедии и теперь привык к этому. Используйте их в высококачественной мебели рецепты. Сделано в процессоре. </value></data>
+<data name="item_description.nails_hardened" xml:space="preserve"><value>Эти гвозди вы видели много трагедии и теперь привык к этому. Используйте их в высококачественной мебели рецепты. Сделано в Разделителье. </value></data>
 <data name="item_description.hoof" xml:space="preserve"><value>Pigsy-обувь. Отлично подходит для клея! </value></data>
 <data name="item_description.crystal_infused" xml:space="preserve"><value>Чистый кристалл переплетаются с коррупцией (и намек на жасмин).</value></data>
 <data name="item_description.iron_bar" xml:space="preserve"><value>Идеально подходит для вашей коллекции-бар или для изготовления прочного оружия и брони. Сделанные в кузнице.</value></data>
-<data name="item_description.blade_iron" xml:space="preserve"><value>Режущий инструмент надежный. Он никогда не оставит партию без вас подвезем. Сделано в процессоре.</value></data>
+<data name="item_description.blade_iron" xml:space="preserve"><value>Режущий инструмент надежный. Он никогда не оставит партию без вас подвезем. Сделано в Разделителье.</value></data>
 <data name="item_description.ore_iron" xml:space="preserve"><value>Сжечь камень в кузнице, чтобы добраться до сочной внутренности. Нашли узлы в несколько слоев глубоких в мире.</value></data>
-<data name="item_description.rod_iron" xml:space="preserve"><value>Идеально подходит для зверя/эстафет человека! Также используется в мебельной крафта. Сделано в процессоре.</value></data>
+<data name="item_description.rod_iron" xml:space="preserve"><value>Идеально подходит для зверя/эстафет человека! Также используется в мебельной крафта. Сделано в Разделителье.</value></data>
 <data name="item_description.leather" xml:space="preserve"><value>Существо, которое за это было очевидно в кожевничество. Используйте это для брони и обязательным ремесла вместе.</value></data>
 <data name="item_description.recipe_legends" xml:space="preserve"><value>Описание recipe_legends</value></data>
-<data name="item_description.blade_lumite" xml:space="preserve"><value>Вершина передовые технологии! Созданный на процессор.</value></data>
+<data name="item_description.blade_lumite" xml:space="preserve"><value>Вершина передовые технологии! Созданный на Разделитель.</value></data>
 <data name="item_description.ore_lumite" xml:space="preserve"><value>Супер-ценное после переработки! Сейчас это неважно. Бросить ее в кузницу, чтобы уточнить. Нашли в узлах супер-глубоких в мире.</value></data>
-<data name="item_description.rod_lumite" xml:space="preserve"><value>Стержень с правилом их всех и во тьме связать их. Сделано в процессоре.</value></data>
+<data name="item_description.rod_lumite" xml:space="preserve"><value>Стержень с правилом их всех и во тьме связать их. Сделано в Разделителье.</value></data>
 <data name="item_description.magnet" xml:space="preserve"><value>Вы чувствуете, что ваши ключи тянет к этой скале. Вау! Может быть полезен в toolcraftбыл. Нашли в неглубоких пещерах.</value></data>
-<data name="item_description.magnetic_housing" xml:space="preserve"><value>Даже магниты нужно место, чтобы повесить их шляпу. Собранный в процессоре.</value></data>
-<data name="item_description.mortar" xml:space="preserve"><value>Отлично подходит для наклеивания камней или slathering на в борьбе с морщинами маска. Сделано в процессоре.</value></data>
-<data name="item_description.nails" xml:space="preserve"><value>Не грызи их, когда вы нервничаете. Используйте их вместо мебели! Сделано в процессоре.</value></data>
-<data name="item_description.blade_obsidian" xml:space="preserve"><value>Бритвенно-острым резцом создан в процессоре. Легко теряются в ночи.</value></data>
+<data name="item_description.magnetic_housing" xml:space="preserve"><value>Даже магниты нужно место, чтобы повесить их шляпу. Собранный в Разделителье.</value></data>
+<data name="item_description.mortar" xml:space="preserve"><value>Отлично подходит для наклеивания камней или slathering на в борьбе с морщинами маска. Сделано в Разделителье.</value></data>
+<data name="item_description.nails" xml:space="preserve"><value>Не грызи их, когда вы нервничаете. Используйте их вместо мебели! Сделано в Разделителье.</value></data>
+<data name="item_description.blade_obsidian" xml:space="preserve"><value>Бритвенно-острым резцом создан в Разделителье. Легко теряются в ночи.</value></data>
 <data name="item_description.ore_obsidian" xml:space="preserve"><value>Какие сокровища ждут в центре этой скалы? Ой, подождите, описания уже говорил тебе :( нашли в узлы в неглубоких пещерах.</value></data>
-<data name="item_description.rod_obsidian" xml:space="preserve"><value>Многие люди не ценят, как трудно сделать жезл из обсидиана. Я один из тех людей. Созданный в процессоре.</value></data>
-<data name="item_description.chisel_pro" xml:space="preserve"><value>Это зубило практически кричит, - я профессионал в рубка!!'. Кретин. Сделано в процессоре. </value></data>
-<data name="item_description.hammer_pro" xml:space="preserve"><value>Вы никогда не видели молотком так профессионально. Он всегда заканчивает работу в срок и по разумным ценам! Сделано в процессоре.</value></data>
-<data name="item_description.reagents_pro" xml:space="preserve"><value>Очень мощное сочетание алхимических ингредиентов. Использовать в самые сильные зелья и большинство СПФ 500 солнцезащитных. Создан в процессоре. </value></data>
+<data name="item_description.rod_obsidian" xml:space="preserve"><value>Многие люди не ценят, как трудно сделать жезл из обсидиана. Я один из тех людей. Созданный в Разделителье.</value></data>
+<data name="item_description.chisel_pro" xml:space="preserve"><value>Это зубило практически кричит, - я профессионал в рубка!!'. Кретин. Сделано в Разделителье. </value></data>
+<data name="item_description.hammer_pro" xml:space="preserve"><value>Вы никогда не видели молотком так профессионально. Он всегда заканчивает работу в срок и по разумным ценам! Сделано в Разделителье.</value></data>
+<data name="item_description.reagents_pro" xml:space="preserve"><value>Очень мощное сочетание алхимических ингредиентов. Использовать в самые сильные зелья и большинство СПФ 500 солнцезащитных. Создан в Разделителье. </value></data>
 <data name="item_description.bedroll_red" xml:space="preserve"><value>Вы сделали свой скатку красный после того, как случайно пролил фруктовый пунш во всем белом. </value></data>
-<data name="item_description.dye_red" xml:space="preserve"><value>Не играйте с этим по ковру! Состряпали в процессоре.</value></data>
-<data name="item_description.flower_red" xml:space="preserve"><value>Инвазивных видов цветок, что сделал дома на деревьях Ashenwood. Однажды он захватит мир. Это довольно, хотя, так никто не против.</value></data>
+<data name="item_description.dye_red" xml:space="preserve"><value>Не играйте с этим по ковру! Состряпали в Разделителье.</value></data>
+<data name="item_description.flower_red" xml:space="preserve"><value>Инвазивных видов цветок, что сделал дома на деревьях Ясеневое дерево. Однажды он захватит мир. Это довольно, хотя, так никто не против.</value></data>
 <data name="item_description.mushroom_red" xml:space="preserve"><value>Позерства. Настоящую красоту не нужно так стараться. -Коричневый Гриб</value></data>
 <data name="item_description.rockster_rock" xml:space="preserve"><value>'Возьми это, чтобы помнить, как мы' -сайт rockster </value></data>
 <data name="item_description.sinew" xml:space="preserve"><value>Резина природы полос. Отлично подходит для привязки все вместе. Животные, как правило, держать некоторые вокруг.</value></data>
-<data name="item_description.blade_stone" xml:space="preserve"><value>Самый острый камень, который вы могли собрать. Намного лучше, чем ножик вы пробовали ранее. Созданный в процессоре. </value></data>
-<data name="item_description.rod_stone" xml:space="preserve"><value>Провести его с властью и эффектно выглядеть, как роялти или что-то. Сделано в процессоре.</value></data>
+<data name="item_description.blade_stone" xml:space="preserve"><value>Самый острый камень, который вы могли собрать. Намного лучше, чем ножик вы пробовали ранее. Созданный в Разделителье. </value></data>
+<data name="item_description.rod_stone" xml:space="preserve"><value>Провести его с властью и эффектно выглядеть, как роялти или что-то. Сделано в Разделителье.</value></data>
 <data name="item_description.miru_eye" xml:space="preserve"><value>Это как теплый, упругий мрамор. Оптом!</value></data>
-<data name="item_description.leather_tanned" xml:space="preserve"><value>Каленое кожа для взыскательных модниц. Используется в высокоуровневых доспехов. Сделано в процессоре.</value></data>
-<data name="item_description.tannin" xml:space="preserve"><value>Это похоже на искусственный загар для кожи. Сделано в процессоре.</value></data>
+<data name="item_description.leather_tanned" xml:space="preserve"><value>Каленое кожа для взыскательных модниц. Используется в высокоуровневых доспехов. Сделано в Разделителье.</value></data>
+<data name="item_description.tannin" xml:space="preserve"><value>Это похоже на искусственный загар для кожи. Сделано в Разделителье.</value></data>
 <data name="item_description.iron_bar_tempered" xml:space="preserve"><value>Этот железный прут прошел через лагерь, чтобы ужесточить его. Сделанные в кузнице.</value></data>
-<data name="item_description.thread" xml:space="preserve"><value>Отлично подходит для изготовления Колыбель для кошки, когда вам скучно или для плетения в товар. Изготовлен из лозы в процессоре.</value></data>
+<data name="item_description.thread" xml:space="preserve"><value>Отлично подходит для изготовления Колыбель для кошки, когда вам скучно или для плетения в товар. Изготовлен из лозы в Разделителье.</value></data>
 <data name="item_description.recipe_tnt" xml:space="preserve"><value>Описание recipe_tnt</value></data>
 <data name="item_description.warmworm_tooth" xml:space="preserve"><value>Warmworm, очевидно, нуждается в комплексном стоматологическом экзамен. ЮК.</value></data>
-<data name="item_description.twine" xml:space="preserve"><value>Сильнее, чем нить, но менее интеллектуальной. Сделано в процессоре.</value></data>
-<data name="item_description.twine_heavy" xml:space="preserve"><value>Вы едва можете его забрать. Легко перейти на воск! Сделано в процессоре.</value></data>
-<data name="item_description.stick_wood" xml:space="preserve"><value>Игра пикап палочки' в детстве было как-то веселее, чем убирать эти палочки. Сделано в процессоре.</value></data>
+<data name="item_description.twine" xml:space="preserve"><value>Сильнее, чем нить, но менее интеллектуальной. Сделано в Разделителье.</value></data>
+<data name="item_description.twine_heavy" xml:space="preserve"><value>Вы едва можете его забрать. Легко перейти на воск! Сделано в Разделителье.</value></data>
+<data name="item_description.stick_wood" xml:space="preserve"><value>Игра пикап палочки' в детстве было как-то веселее, чем убирать эти палочки. Сделано в Разделителье.</value></data>
 <data name="item_description.ammo_dirt_large" xml:space="preserve"><value>Описание ammo_dirt_large</value></data>
 <data name="item_description.ammo_dirt_small" xml:space="preserve"><value>Описание ammo_dirt_small</value></data>
 <data name="item_description.bomb_force" xml:space="preserve"><value>Запускаем вы, и другие, на совершенно новый уровень! ;)</value></data>
@@ -1997,7 +1997,7 @@
 <data name="item_description.bomb_flare" xml:space="preserve"><value>Удобный инструмент для проверки из тех темных пещер, прежде чем прыгать в голову сначала! Создает временный источник света на взрыв.</value></data>
 <data name="item_description.bomb_small" xml:space="preserve"><value>Описание bomb_small</value></data>
 <data name="item_description.bedroll_yellow" xml:space="preserve"><value>Это как обняла сотни цыплят. </value></data>
-<data name="item_description.dye_yellow" xml:space="preserve"><value>Они не пятна от горчицы!' Будьте готовы сказать, что много. Сделано в процессоре.</value></data>
+<data name="item_description.dye_yellow" xml:space="preserve"><value>Они не пятна от горчицы!' Будьте готовы сказать, что много. Сделано в Разделителье.</value></data>
 <data name="item_description.flower_yellow" xml:space="preserve"><value>Этот цветок боится почти все. Особенно измельчается и варится в зелья и пигменты.</value></data>
 <data name="item_description.leaves_shredded" xml:space="preserve"><value>Вау. Вы действительно потратили все свое время затирания их? Ну, хорошо для вас! Используйте их в соломенные украшения.</value></data>
 <data name="item_description.potion_basic" xml:space="preserve"><value>Да, это довольно простые зелья. Лучше них могут быть сделаны.</value></data>
@@ -2258,7 +2258,7 @@
 <data name="item_description.datachip_6" xml:space="preserve"><value>Хммм. В некоторые дни имеют разное качество для них. Слышал какие-то страшные вещи, но ничего не видел. *грейферы одеяльце*</value></data>
 <data name="item_description.datachip_7" xml:space="preserve"><value>Я пытался сказать ему: человек в соломенной домах не должны бросать бутылки с зажигательной смесью. Я ненавижу быть правым все время :/</value></data>
 <data name="item_description.datachip_8" xml:space="preserve"><value>Он работал с железом больше. Должны быть мужские дела.</value></data>
-<data name="item_description.datachip_9" xml:space="preserve"><value>Когда он не смотрит, мне нравится стрелять где-то саженец в землю. Просто позвони мне ‘зоопарк Cragwoodseed”. 8Д</value></data>
+<data name="item_description.datachip_9" xml:space="preserve"><value>Когда он не смотрит, мне нравится стрелять где-то саженец в землю. Просто позвони мне ‘зоопарк Утесное деревоseed”. 8Д</value></data>
 <data name="item_description.datachip_10" xml:space="preserve"><value>Серьезно, я никогда не думал, что мы будем гоо-охота так долго. Отвратительно! Он как одержимый.</value></data>
 <data name="item_description.datachip_11" xml:space="preserve"><value>Всегда охота гоо / может ли жизнь получить лучше? / Примечание мой сарказм</value></data>
 <data name="item_description.datachip_12" xml:space="preserve"><value>Ладно, я признаю. Его последнее изобретение-это на самом деле довольно весело играть. Я сказал ему, чтобы сделать ледяной путь, а затем положить один конец и мне кажется, я даже видел его улыбку, когда он пытался его, хех.</value></data>
@@ -2284,8 +2284,8 @@
 <data name="item_description.datafile_20" xml:space="preserve"><value>Анализ: ?? - Я видел его один раз. Глубокий, глубокий в мире. Я хотел бы я не. Мы должны оставить его в покое. Известные ресурсы: ??</value></data>
 <data name="item_description.moss" xml:space="preserve"><value>Я уверен, что вы можете что-то делать с этим, верно?</value></data>
 <data name="item_description.mold" xml:space="preserve"><value>Ах этот запах, он опьяняет! Кто за голубого сыра салат?</value></data>
-<data name="item_description.log" xml:space="preserve"><value>Выдолбленном куске Cragwood. Идеальное место, чтобы спрятать ядовитое насекомое, или зайчика может.</value></data>
-<data name="item_description.log_aspen_item" xml:space="preserve"><value>Просто как ashenwood, только долбить! Как и мое сердце...</value></data>
+<data name="item_description.log" xml:space="preserve"><value>Выдолбленном куске Утесное дерево. Идеальное место, чтобы спрятать ядовитое насекомое, или зайчика может.</value></data>
+<data name="item_description.log_aspen_item" xml:space="preserve"><value>Просто как Ясеневое дерево, только долбить! Как и мое сердце...</value></data>
 <data name="item_description.potion_stamina" xml:space="preserve"><value>Описание potion_stamina</value></data>
 <data name="item_description.sword_wood_hardened" xml:space="preserve"><value>Этого не может быть, что хар-ой! это действительно больно...</value></data>
 <data name="item_description.wall_adobe_bricks" xml:space="preserve"><value>Описание wall_adobe_bricks</value></data>
@@ -2466,8 +2466,8 @@
 <data name="tooltip.ordered_checkpoints.title" xml:space="preserve"><value>Контрольно-пропускные пункты будут завершены и приведены в порядок</value></data>
 <data name="found.death" xml:space="preserve"><value>[FFFFFF]создан на [FFD700]игрок смерть</value></data>
 <data name="found.craft" xml:space="preserve"><value>[FFFFFF]Сделано в [FFD700]крафтинг [FFFFFF]меню</value></data>
-<data name="found.forge" xml:space="preserve"><value>[FFFFFF]Сделано в [FFD700]Фордж</value></data>
-<data name="found.processor" xml:space="preserve"><value>[FFFFFF]Сделано в процессоре [FFD700]</value></data>
+<data name="found.forge" xml:space="preserve"><value>[FFFFFF]Сделано в [FFD700]Печь</value></data>
+<data name="found.processor" xml:space="preserve"><value>[FFFFFF]Сделано в Разделителье [FFD700]</value></data>
 <data name="found.surface" xml:space="preserve"><value>[FFFFFF]установлено на [FFD700]поверхность</value></data>
 <data name="found.fossil" xml:space="preserve"><value>[FFFFFF]установлено в [FFD700]ископаемого слоя</value></data>
 <data name="found.stalactite" xml:space="preserve"><value>[FFFFFF]установлено в [FFD700]слой сталактит</value></data>
@@ -2476,7 +2476,7 @@
 <data name="found.cold" xml:space="preserve"><value>[FFFFFF]в [FFD700]Тайга, тундра, [FFFFFF]или [FFD700]горы</value></data>
 <data name="found.desert" xml:space="preserve"><value>[FFFFFF]установлено в [FFD700]пустыня</value></data>
 <data name="found.ocean" xml:space="preserve"><value>[FFFFFF]установлено в [FFD700]океан</value></data>
-<data name="found.autumn" xml:space="preserve"><value>[FFFFFF]в [FFD700]autumnwood леса</value></data>
+<data name="found.autumn" xml:space="preserve"><value>[FFFFFF]в [FFD700]Осеннее дерево леса</value></data>
 <data name="found.taiga" xml:space="preserve"><value>[FFFFFF]в [FFD700]таежных лесов</value></data>
 <data name="found.tundra" xml:space="preserve"><value>[FFFFFF]установлено в [FFD700]тундра</value></data>
 <data name="found.jungle" xml:space="preserve"><value>[FFFFFF]установлено в [FFD700]джунгли</value></data>
@@ -2524,7 +2524,7 @@
 <data name="used.powercell_corruption" xml:space="preserve"><value>[FFFFFF]используется для [FFD700]слой тянуть коррупции[FFFFFF] или слабее материалы</value></data>
 <data name="used.sword" xml:space="preserve"><value>[FFFFFF]используется для [FFD700]бой [FFFFFF]существ и игроков</value></data>
 <data name="used.station_processor" xml:space="preserve"><value>[FFFFFF]используется для [FFD700]процесс [FFFFFF]сырье в разработке компонентов[FFFFFF]место и взаимодействовать в использовании</value></data>
-<data name="used.station_forge" xml:space="preserve"><value>[FFFFFF]используется для [FFD700]фордж [FFFFFF]сырье в разработке компонентов[FFFFFF]место и взаимодействовать в использовании</value></data>
+<data name="used.station_forge" xml:space="preserve"><value>[FFFFFF]используется для [FFD700]Печь [FFFFFF]сырье в разработке компонентов[FFFFFF]место и взаимодействовать в использовании</value></data>
 <data name="used.station_culinary" xml:space="preserve"><value>[FFFFFF]используется для [FFD700]готовить[FFFFFF][FFFFFF]место и взаимодействовать в использовании</value></data>
 <data name="used.extractor" xml:space="preserve"><value>[FFFFFF]для [FFD700]извлечения руды[FFFFFF] от рудных узлов[FFFFFF]место на рудных узлов, используемых</value></data>
 <data name="used.light" xml:space="preserve"><value>[FFFFFF]используется для [FFD700]свет[FFFFFF] темные участки и [FFD700]предотвратить существо нерест</value></data>
@@ -2814,7 +2814,7 @@
 <data name="block.plant_lettuce" xml:space="preserve"><value>Растение Латук</value></data>
 <data name="block.plant_wheat" xml:space="preserve"><value>Растения Пшеницы</value></data>
 <data name="block.plant_horned_melon" xml:space="preserve"><value>Рогатая Дыня Растение</value></data>
-<data name="block.station_culinary" xml:space="preserve"><value>Кулинарные Станции</value></data>
+<data name="block.station_culinary" xml:space="preserve"><value>Кулинарная Станция</value></data>
 <data name="block.cornerstone" xml:space="preserve"><value>Краеугольный камень</value></data>
 <data name="block.moroccan_decorative_tile_blue" xml:space="preserve"><value>Синего Цвета С Рисунком Керамическая Настенная</value></data>
 <data name="block.moroccan_decorative_tile_gem" xml:space="preserve"><value>Сине-Зеленый С Рисунком Керамическая Настенная</value></data>
@@ -2855,7 +2855,7 @@
 <data name="block.leaves_jungle_2" xml:space="preserve"><value>Темно-Уайлдвуд Листья</value></data>
 <data name="block.leaves_jungle_flower_2" xml:space="preserve"><value>Уайлдвуд Цветок</value></data>
 <data name="block.reeds" xml:space="preserve"><value>Камыши</value></data>
-<data name="block.leaves_sequoia_snow_capped" xml:space="preserve"><value>Снежные Элдервуд Листья</value></data>
+<data name="block.leaves_sequoia_snow_capped" xml:space="preserve"><value>Снежные Старое дерево Листья</value></data>
 <data name="block.torch_bungalow" xml:space="preserve"><value>Бунгало Факел</value></data>
 <data name="block.wall_bungalow" xml:space="preserve"><value>Бунгало Стены</value></data>
 <data name="block.wall_bungalow_support" xml:space="preserve"><value>Поддержка Бунгало</value></data>
@@ -2865,24 +2865,24 @@
 <data name="block.stairs_bungalow" xml:space="preserve"><value>Бунгало Лестнице</value></data>
 <data name="block.door_bungalow" xml:space="preserve"><value>Бунгало Дверь</value></data>
 <data name="block.window_bungalow" xml:space="preserve"><value>Окна Бунгало</value></data>
-<data name="block.vines_hanging" xml:space="preserve"><value>Лозы</value></data>
-<data name="block.leaves_autumnwood_yellow" xml:space="preserve"><value>Цитрусовые Autumnwood Листья</value></data>
-<data name="block.leaves_autumnwood_red" xml:space="preserve"><value>Корица Autumnwood Листья</value></data>
-<data name="block.leaves_autumnwood_brown" xml:space="preserve"><value>Мокко Autumnwood Листья</value></data>
+<data name="block.vines_hanging" xml:space="preserve"><value>Лоза</value></data>
+<data name="block.leaves_Осеннее дерево_yellow" xml:space="preserve"><value>Цитрусовые Осеннее дерево Листья</value></data>
+<data name="block.leaves_Осеннее дерево_red" xml:space="preserve"><value>Корица Осеннее дерево Листья</value></data>
+<data name="block.leaves_Осеннее дерево_brown" xml:space="preserve"><value>Мокко Осеннее дерево Листья</value></data>
 <data name="block.wood_palm" xml:space="preserve"><value>Шорвуде</value></data>
 <data name="block.wood_jungle" xml:space="preserve"><value>Уайлдвуд</value></data>
-<data name="block.wood_willow" xml:space="preserve"><value>Weepwood</value></data>
-<data name="block.wood_autumn" xml:space="preserve"><value>Autumnwood</value></data>
+<data name="block.wood_willow" xml:space="preserve"><value>Ива</value></data>
+<data name="block.wood_autumn" xml:space="preserve"><value>Осеннее дерево</value></data>
 <data name="block.wood_palm_husk" xml:space="preserve"><value>Лузга Шорвуде</value></data>
-<data name="block.wood_jungle_vines" xml:space="preserve"><value>Лозы</value></data>
+<data name="block.wood_jungle_vines" xml:space="preserve"><value>Лоза</value></data>
 <data name="block.wood_willow_moss" xml:space="preserve"><value>Мох</value></data>
-<data name="block.log_willow" xml:space="preserve"><value>Weepwood Журнала</value></data>
-<data name="block.log_willow_moss" xml:space="preserve"><value>Замшелые Weepwood Журнала</value></data>
+<data name="block.log_willow" xml:space="preserve"><value>Полое Ива Журнала</value></data>
+<data name="block.log_willow_moss" xml:space="preserve"><value>Замшелые Ива Журнала</value></data>
 <data name="block.leaves_palm" xml:space="preserve"><value>Шорвуде Листья</value></data>
 <data name="block.leaves_jungle" xml:space="preserve"><value>Уайлдвуд Листья</value></data>
-<data name="block.leaves_willow" xml:space="preserve"><value>Weepwood Листья</value></data>
+<data name="block.leaves_willow" xml:space="preserve"><value>Ива Листья</value></data>
 <data name="block.leaves_jungle_flower" xml:space="preserve"><value>Уайлдвуд Цветок</value></data>
-<data name="block.leaves_willow_flower" xml:space="preserve"><value>Weepwood Цветок</value></data>
+<data name="block.leaves_willow_flower" xml:space="preserve"><value>Ива Цветок</value></data>
 <data name="block.cactus" xml:space="preserve"><value>Кактус</value></data>
 <data name="block.cactus_flower" xml:space="preserve"><value>Цветок кактуса</value></data>
 <data name="block.under_brush" xml:space="preserve"><value>Подлеска</value></data>
@@ -2897,14 +2897,14 @@
 <data name="block.weeds" xml:space="preserve"><value>Сорняки</value></data>
 <data name="block.tall_grass" xml:space="preserve"><value>Высокая Трава</value></data>
 <data name="block.grass_savannah" xml:space="preserve"><value>Саванна Травы</value></data>
-<data name="block.leaves_savannah" xml:space="preserve"><value>Parchwood Листья</value></data>
-<data name="block.wood_savannah" xml:space="preserve"><value>Parchwood</value></data>
+<data name="block.leaves_savannah" xml:space="preserve"><value>Порча Листья</value></data>
+<data name="block.wood_savannah" xml:space="preserve"><value>Порча</value></data>
 <data name="block.tallgrass_savannah" xml:space="preserve"><value>Высокотравные Саванны</value></data>
 <data name="block.ground_jungle" xml:space="preserve"><value>Детрит</value></data>
 <data name="block.water_plant" xml:space="preserve"><value>Рогоза</value></data>
 <data name="block.water_bog" xml:space="preserve"><value>Болотные Воды</value></data>
 <data name="block.grass_dead" xml:space="preserve"><value>Мертвую Траву</value></data>
-<data name="block.flower_autumnwood" xml:space="preserve"><value>Autumnwood Цветок</value></data>
+<data name="block.flower_Осеннее дерево" xml:space="preserve"><value>Осеннее дерево Цветок</value></data>
 <data name="block.mountain_stone" xml:space="preserve"><value>Peakstone</value></data>
 <data name="block.ground_pine" xml:space="preserve"><value>Слипшиеся Иглы</value></data>
 <data name="block.drift_wood" xml:space="preserve"><value>Коряги</value></data>
@@ -2951,9 +2951,9 @@
 <data name="block.torch_arctek_02" xml:space="preserve"><value>Великий Факел Arctek</value></data>
 <data name="block.lantern_arctek_01" xml:space="preserve"><value>Arctek Фонарь</value></data>
 <data name="block.lantern_arctek_02" xml:space="preserve"><value>Гранд Arctek Фонарь</value></data>
-<data name="block.oak_sapling" xml:space="preserve"><value>Саженец Cragwood</value></data>
-<data name="block.aspen_sapling" xml:space="preserve"><value>Саженец Ashenwood</value></data>
-<data name="block.evergreen_sapling" xml:space="preserve"><value>Элдервуд Саженец</value></data>
+<data name="block.oak_sapling" xml:space="preserve"><value>Саженец Утесное дерево</value></data>
+<data name="block.aspen_sapling" xml:space="preserve"><value>Саженец Ясеневое дерево</value></data>
+<data name="block.evergreen_sapling" xml:space="preserve"><value>Старое дерево Саженец</value></data>
 <data name="block.queen_bee" xml:space="preserve"><value>Королева</value></data>
 <data name="block.healing_beacon" xml:space="preserve"><value>Исцеление Маяк</value></data>
 <data name="block.fan" xml:space="preserve"><value>Вентилятор</value></data>
@@ -2967,7 +2967,7 @@
 <data name="block.wall_sand_castle" xml:space="preserve"><value>Замок Из Песка Стены</value></data>
 <data name="block.wall_iron_bars" xml:space="preserve"><value>Железные Решетки</value></data>
 <data name="block.door_iron_bars" xml:space="preserve"><value>Железным Прутом Дверь</value></data>
-<data name="block.wood_sequoia" xml:space="preserve"><value>Элдервуд</value></data>
+<data name="block.wood_sequoia" xml:space="preserve"><value>Старое дерево</value></data>
 <data name="block.wall_stone_natural" xml:space="preserve"><value>Природные Каменные Стены</value></data>
 <data name="block.floor_adobe_blue" xml:space="preserve"><value>Синий В Adobe Этаж</value></data>
 <data name="block.floor_adobe_red" xml:space="preserve"><value>Красный Саман Этаж</value></data>
@@ -2989,7 +2989,7 @@
 <data name="block.wall_adobe_red" xml:space="preserve"><value>Красный Глинобитной Стене</value></data>
 <data name="block.wall_adobe_yellow" xml:space="preserve"><value>Желтой Глинобитной Стеной</value></data>
 <data name="block.aquamarine" xml:space="preserve"><value>Алевролит</value></data>
-<data name="block.wood_aspen" xml:space="preserve"><value>Ashenwood</value></data>
+<data name="block.wood_aspen" xml:space="preserve"><value>Ясеневое дерево</value></data>
 <data name="block.bedrock" xml:space="preserve"><value>Бедрок</value></data>
 <data name="block.wood_birch" xml:space="preserve"><value>Березовой Древесины</value></data>
 <data name="block.glass_stained_blue" xml:space="preserve"><value>Синий Витраж</value></data>
@@ -2999,10 +2999,10 @@
 <data name="block.concrete_blue" xml:space="preserve"><value>Голубой Бетона</value></data>
 <data name="block.concrete_red" xml:space="preserve"><value>Красный Бетон</value></data>
 <data name="block.concrete_yellow" xml:space="preserve"><value>Желтый Бетон</value></data>
-<data name="block.leaves_aspen_corrupted" xml:space="preserve"><value>Повреждены Ashenwood Листья</value></data>
-<data name="block.leaves_sequoia_corrupted" xml:space="preserve"><value>Поврежденные Листья Элдервуд</value></data>
-<data name="block.wood_aspen_corrupted" xml:space="preserve"><value>Повреждены Ashenwood</value></data>
-<data name="block.wood_sequoia_corrupted" xml:space="preserve"><value>Повреждены Элдервуд</value></data>
+<data name="block.leaves_aspen_corrupted" xml:space="preserve"><value>Повреждены Ясеневое дерево Листья</value></data>
+<data name="block.leaves_sequoia_corrupted" xml:space="preserve"><value>Поврежденные Листья Старое дерево</value></data>
+<data name="block.wood_aspen_corrupted" xml:space="preserve"><value>Повреждены Ясеневое дерево</value></data>
+<data name="block.wood_sequoia_corrupted" xml:space="preserve"><value>Повреждены Старое дерево</value></data>
 <data name="block.dirt_corrupted" xml:space="preserve"><value>Повреждены Грязи</value></data>
 <data name="block.grass_corrupted" xml:space="preserve"><value>Повреждены Травы</value></data>
 <data name="block.leaves_corrupted" xml:space="preserve"><value>Поврежденные Листья</value></data>
@@ -3028,11 +3028,11 @@
 <data name="block.slab_iron" xml:space="preserve"><value>Железо Плиты</value></data>
 <data name="block.lava" xml:space="preserve"><value>Лава</value></data>
 <data name="block.leaves_shredded" xml:space="preserve"><value>Измельченных Листьев</value></data>
-<data name="block.leaves_aspen" xml:space="preserve"><value>Ashenwood Листья</value></data>
-<data name="block.leaves_oak" xml:space="preserve"><value>Cragwood Листья</value></data>
-<data name="block.leaves_sequoia" xml:space="preserve"><value>Элдервуд Листья</value></data>
+<data name="block.leaves_aspen" xml:space="preserve"><value>Ясеневое дерево Листья</value></data>
+<data name="block.leaves_oak" xml:space="preserve"><value>Утесное дерево Листья</value></data>
+<data name="block.leaves_sequoia" xml:space="preserve"><value>Старое дерево Листья</value></data>
 <data name="block.limestone" xml:space="preserve"><value>Известняк</value></data>
-<data name="block.log" xml:space="preserve"><value>Журнал Cragwood</value></data>
+<data name="block.log" xml:space="preserve"><value>Журнал Утесное дерево</value></data>
 <data name="block.door_lumite" xml:space="preserve"><value>Двери Люмит</value></data>
 <data name="block.slab_lumite" xml:space="preserve"><value>Сляб Люмит</value></data>
 <data name="block.stairs_lumite" xml:space="preserve"><value>Люмит Лестнице</value></data>
@@ -3063,7 +3063,7 @@
 <data name="block.path_stone" xml:space="preserve"><value>Камень Путь</value></data>
 <data name="block.path_stone_decorative" xml:space="preserve"><value>Декоративный Камень Путь</value></data>
 <data name="block.path_stone_natural" xml:space="preserve"><value>Природный Камень Путь</value></data>
-<data name="block.slab_stone" xml:space="preserve"><value>Сляб Камня</value></data>
+<data name="block.slab_stone" xml:space="preserve"><value>Срез Камня</value></data>
 <data name="block.stairs_stone" xml:space="preserve"><value>Каменная Лестница</value></data>
 <data name="block.wall_stone_block" xml:space="preserve"><value>Каменный Блок Стены</value></data>
 <data name="block.wall_stone_boulder" xml:space="preserve"><value>Камень Валун Стены</value></data>
@@ -3080,12 +3080,12 @@
 <data name="block.thatched_block" xml:space="preserve"><value>Измельченных Листьев</value></data>
 <data name="block.wall_thatched" xml:space="preserve"><value>Соломенной Стены</value></data>
 <data name="block.tnt" xml:space="preserve"><value>ТНТ</value></data>
-<data name="block.torch" xml:space="preserve"><value>Факел Мох</value></data>
+<data name="block.torch" xml:space="preserve"><value>Мховый факел</value></data>
 <data name="block.water" xml:space="preserve"><value>Воды</value></data>
 <data name="block.door_wood" xml:space="preserve"><value>Деревянные Двери</value></data>
 <data name="block.floor_wood_janky" xml:space="preserve"><value>Помойная Деревянный Пол</value></data>
 <data name="block.floor_wood_tile" xml:space="preserve"><value>Деревянный Пол Плитка</value></data>
-<data name="block.wood_oak" xml:space="preserve"><value>Cragwood</value></data>
+<data name="block.wood_oak" xml:space="preserve"><value>Утесное дерево</value></data>
 <data name="block.roof_wood_half" xml:space="preserve"><value>Деревянная Половина Крыши</value></data>
 <data name="block.roof_wood_quarter" xml:space="preserve"><value>Деревянная Плитка Крыши</value></data>
 <data name="block.roof_wood_slanted" xml:space="preserve"><value>Деревянная Крыша</value></data>
@@ -3135,13 +3135,13 @@
 <data name="block.rug" xml:space="preserve"><value>Ковер</value></data>
 <data name="block.safe" xml:space="preserve"><value>Безопасный</value></data>
 <data name="block.chair_stone" xml:space="preserve"><value>Камень Стул</value></data>
-<data name="block.chest_stone" xml:space="preserve"><value>Камень В Груди</value></data>
+<data name="block.chest_stone" xml:space="preserve"><value>Каменный сундук</value></data>
 <data name="block.chest_stone_large" xml:space="preserve"><value>Большой Каменный Сундук</value></data>
 <data name="block.table_stone" xml:space="preserve"><value>Каменный Стол</value></data>
 <data name="block.lamp_wood" xml:space="preserve"><value>Горит Лампа Вуда</value></data>
 <data name="block.chair_wood" xml:space="preserve"><value>Деревянный Стул</value></data>
-<data name="block.chest_wood" xml:space="preserve"><value>Деревянный Комод</value></data>
-<data name="block.chest_wood_large" xml:space="preserve"><value>Большой Деревянный Комод</value></data>
+<data name="block.chest_wood" xml:space="preserve"><value>Деревянный сундук</value></data>
+<data name="block.chest_wood_large" xml:space="preserve"><value>Большой деревянный сундук</value></data>
 <data name="block.ladder_wood" xml:space="preserve"><value>Деревянные Лестницы</value></data>
 <data name="block.planter_wood_double" xml:space="preserve"><value>Деревянные Двойные Плантатор</value></data>
 <data name="block.planter_wood" xml:space="preserve"><value>Дерево Плантатор</value></data>
@@ -3152,10 +3152,10 @@
 <data name="block.bed_yellow" xml:space="preserve"><value>Желтый Кровать</value></data>
 <data name="block.station_alchemy" xml:space="preserve"><value>Станция Алхимии</value></data>
 <data name="block.station_armory" xml:space="preserve"><value>Верстак</value></data>
-<data name="block.station_forge" xml:space="preserve"><value>Фордж</value></data>
-<data name="block.station_furniture" xml:space="preserve"><value>Фордж</value></data>
+<data name="block.station_forge" xml:space="preserve"><value>Печь</value></data>
+<data name="block.station_furniture" xml:space="preserve"><value>Печь</value></data>
 <data name="block.station_loom" xml:space="preserve"><value>Станок</value></data>
-<data name="block.station_sawyer" xml:space="preserve"><value>Процессор</value></data>
+<data name="block.station_sawyer" xml:space="preserve"><value>Разделитель</value></data>
 <data name="block.station_toolbench" xml:space="preserve"><value>Скамья Инструмент</value></data>
 <data name="block.slab_obsidian" xml:space="preserve"><value>Обсидиан Плиты</value></data>
 <data name="block.obsidian_block" xml:space="preserve"><value>Узел Обсидиан</value></data>
@@ -3167,9 +3167,9 @@
 <data name="block.LootChest" xml:space="preserve"><value>Лут Мешок</value></data>
 <data name="block.EmptyDeathStatue" xml:space="preserve"><value>Статуя Смерти</value></data>
 <data name="block.floor_stone_decorativecarved" xml:space="preserve"><value>Резной Каменный Пол</value></data>
-<data name="block.torch_coal" xml:space="preserve"><value>Уголь Факел</value></data>
+<data name="block.torch_coal" xml:space="preserve"><value>Угольный факел</value></data>
 <data name="block.moss" xml:space="preserve"><value>Мох</value></data>
-<data name="block.vines" xml:space="preserve"><value>Лозы</value></data>
+<data name="block.vines" xml:space="preserve"><value>Лоза</value></data>
 <data name="block.flower_yellow" xml:space="preserve"><value>Желтый Цветок</value></data>
 <data name="block.flower_blue" xml:space="preserve"><value>Голубой Цветок</value></data>
 <data name="block.flower_red" xml:space="preserve"><value>Красный Цветок</value></data>
@@ -3190,7 +3190,7 @@
 <data name="block.extractor_super" xml:space="preserve"><value>Супер Экстрактор</value></data>
 <data name="block.rough_block_wood" xml:space="preserve"><value>Грубый Деревянный Блок</value></data>
 <data name="block.sulfur" xml:space="preserve"><value>Серы</value></data>
-<data name="block.log_aspen" xml:space="preserve"><value>Журнал Ashenwood</value></data>
+<data name="block.log_aspen" xml:space="preserve"><value>Журнал Ясеневое дерево</value></data>
 <data name="block.fire_pit" xml:space="preserve"><value>Костра</value></data>
 <data name="block.tar" xml:space="preserve"><value>Тар</value></data>
 <data name="block.water_corrupted" xml:space="preserve"><value>Поврежденные Водой</value></data>
@@ -3586,10 +3586,10 @@
 <data name="ftue.block_intro" xml:space="preserve"><value>Место кварталах от вашего [72a6f9]быстрое меню[-] с [72f9a5]правой кнопки мыши[-]Существуют сотни [72a6f9]блоков, [ -], чтобы обнаружить в мире Creativerse!</value></data>
 <data name="ftue.components_intro" xml:space="preserve"><value>[72a6f9]крафта компонентов[-] являются предметы, используемые в [72a6f9]Крафтинг[-]. Открыть Крафтинг с [72f9a5]{1}.[-][FFFFFF]Крафтинг компоненты хранятся в [72a6f9]сумка[-]. Открыть свой мешок с [72f9a5]{0}.[-]</value></data>
 <data name="ftue.equipment_intro" xml:space="preserve"><value>Предметы, как [72a6f9]добыча клетки[-], [72a6f9]мечи[-], [72a6f9]броня[-] и [72a6f9]инструменты[-] поможет копнуть глубже, наносят больше урона, защита от повреждения или открыть новые возможности.Оборудовать эти пункты на [72a6f9]бумага-кукла[-] в инвентаре! </value></data>
-<data name="ftue.station_intro" xml:space="preserve"><value>[72a6f9]Крафтинг станций[-] взять сырые материалы, такие как дерево и обрабатывать их в разработке компонентов.Процессор [72a6f9] [ -] будет рубить и кромсать материалов, таких как дерево, камень, и лозы в материалов, таких как [72a6f9]плиты[-], [72a6f9]стержни[-], и [72a6f9]шпагат[-].В [72a6f9]Фордж[-] будет тепло материалов, таких как пчелиный воск и железной руды в [72a6f9]расплавленный воск[-] и [72a6f9]железные прутья[-].</value></data>
+<data name="ftue.station_intro" xml:space="preserve"><value>[72a6f9]Крафтинг станций[-] взять сырые материалы, такие как дерево и обрабатывать их в разработке компонентов.Разделитель [72a6f9] [ -] будет рубить и кромсать материалов, таких как дерево, камень, и лозы в материалов, таких как [72a6f9]плиты[-], [72a6f9]стержни[-], и [72a6f9]шпагат[-].В [72a6f9]Печь[-] будет тепло материалов, таких как пчелиный воск и железной руды в [72a6f9]расплавленный воск[-] и [72a6f9]железные прутья[-].</value></data>
 <data name="ftue.extractor_intro" xml:space="preserve"><value>Место экстрактор из своего [72a6f9]быстрое меню[-] на Рудный узел с [72f9a5]правой кнопки мыши[-][72a6f9]Соковыжималки[-] собирать ресурсы из закаленной [72a6f9]узлов[-] как угля и обсидиана, найденные в пещерах.</value></data>
 <data name="ftue.node_intro" xml:space="preserve"><value>.Узлы не могут быть выведены с перчатку. Крафт [72a6f9]соковыжималки[-] и [72a6f9]положите его на узел[-]извлечение [72a6f9]руды[-].[72a6f9]рудных узлов[-] нашли в пещерах содержат ценные ресурсы, такие как [72a6f9]уголь[-] и [72a6f9]обсидиан[-]</value></data>
-<data name="ftue.cell_intro" xml:space="preserve"><value>Вашего текущего [72a6f9]Горно клетки[-] недостаточно сильны, чтобы вытащить этот блок. Ремесла модернизированный горно клеток [72a6f9]Крафтинг[-] меню дернуть посильнее материалов.</value></data>
+<data name="ftue.cell_intro" xml:space="preserve"><value>Вашего текущего [72a6f9]Горно клетки[-] недостаточно сильны, чтобы вытащить этот блок. Ремесла модернизированный Добывающая перчатка [72a6f9]Крафтинг[-] меню дернуть посильнее материалов.</value></data>
 <data name="ftue.crafting_intro" xml:space="preserve"><value>Нажмите на [72a6f9]рецепт[-] для просмотра крафта компонентов. Собрать необходимые компоненты и нажмите кнопку ремесло![72a6f9]Крафтинг[-] сочетает в себе компоненты, собранные в мире, чтобы создать новые инструменты и предметы. Существует более 300 рецептов, чтобы обнаружить, как вы изучите.</value></data>
 <data name="ftue.bag_intro" xml:space="preserve"><value>В [72a6f9]инвентаризации[-] где Вы храните все ваши детали, шестерни и блоки![72f9a5]Нажмите и перетащите[-] детали в [72a6f9]быстрое меню [ -], чтобы использовать их в мире или перетащите элементы в [72a6f9]бумага-кукла [ -], чтобы вооружить их.</value></data>
 <data name="ftue.consumable_intro" xml:space="preserve"><value>Использование расходных материалов от [72a6f9]быстрое меню[-] с [72f9a5]правой кнопки мыши[-]Некоторые элементы [72a6f9]Расходные материалы[-]. Предметы, как [72a6f9]грибы[-], [72a6f9]зелья[-], и [72a6f9]гранаты[-] используются вместо помещен обратно в мир.</value></data>
@@ -3603,7 +3603,7 @@
 <data name="ftue.mention_gauntlet" xml:space="preserve"><value>Вы видите гигантский ломоть техника на руке?[задержка=0.5] а как ты хотела?[задержка=0.5] Да, это удивительно... [просрочки=0.5]Ну все, довольно изящный! Если вы когда-либо хотели власти, чтобы манипулировать материей, со своим буквальным пальцев - а кто нет? - вам повезло! [задержка=0.5]идите, дать ей идти!</value></data>
 <data name="ftue.weapon_equip_intro" xml:space="preserve"><value>В какой-то момент вы будете нуждаться, чтобы защитить себя.[задержка=0.5] не беспокойтесь, у нас кухня с современным оружием, известным как...[просрочки=0.5] [ad55e8]палочке![FFFFFF][задержка=0.5] ок, не так состояние искусства - но его начало![задержка=0.5] просто останься со мной на минутку.[задержка=0.5] Вам это?[задержка=0.5]</value></data>
 <data name="ftue.search_for_ore" xml:space="preserve"><value>Искать [ad55e8]рудных узлов[FFFFFF], как уголь и обсидиан в пещерах или закопанных в камень!</value></data>
-<data name="ftue.forge" xml:space="preserve"><value>Ремесло {0} в [ad55e8]Фордж[FFFFFF]. Вам понадобится для выплавки руды, как обсидиан и железо!</value></data>
+<data name="ftue.forge" xml:space="preserve"><value>Ремесло {0} в [ad55e8]Печь[FFFFFF]. Вам понадобится для выплавки руды, как обсидиан и железо!</value></data>
 <data name="ftue.death" xml:space="preserve"><value>Найти свой [ad55e8]статуя смерти[FFFFFF], чтобы восстановить потерянные детали. Следуйте значок черепа на свой компас!</value></data>
 <data name="ftue.weapon_equip" xml:space="preserve"><value>Нажмите {0} для переключения на [ad55e8]боевой режим[-].</value></data>
 <data name="ftue.attack_tutorial" xml:space="preserve"><value>Удерживать {0} для атаки.</value></data>
@@ -3776,7 +3776,7 @@
 <data name="unlock_action.ore" xml:space="preserve"><value>Экстракт</value></data>
 <data name="unlock_action.craft" xml:space="preserve"><value>Ремесло</value></data>
 <data name="unlock_action.processor" xml:space="preserve"><value>Процесс</value></data>
-<data name="unlock_action.forge" xml:space="preserve"><value>Фордж</value></data>
+<data name="unlock_action.forge" xml:space="preserve"><value>Печь</value></data>
 <data name="unlock_action.creature" xml:space="preserve"><value>Собирать</value></data>
 <data name="unlock_action.treasure" xml:space="preserve"><value>Найти</value></data>
 <data name="unlock_action.surface" xml:space="preserve"><value>Собирать</value></data>
@@ -3853,10 +3853,10 @@
 <data name="craft_category.medieval" xml:space="preserve"><value>Средневековые</value></data>
 <data name="craft_category.mayan" xml:space="preserve"><value>Майя</value></data>
 <data name="craft_category.arctek" xml:space="preserve"><value>Arctek</value></data>
-<data name="craft_category.mining_cells" xml:space="preserve"><value>Горно Клеток</value></data>
+<data name="craft_category.mining_cells" xml:space="preserve"><value>Добывающая перчатка</value></data>
 <data name="craft_category.crafting_stations" xml:space="preserve"><value>Крафтинг Станций</value></data>
 <data name="craft_category.extractors" xml:space="preserve"><value>Экстракторы</value></data>
-<data name="craft_category.tnt" xml:space="preserve"><value>Взрывчатых веществ</value></data>
+<data name="craft_category.tnt" xml:space="preserve"><value>Взрывчатые вещества</value></data>
 <data name="craft_category.ladder" xml:space="preserve"><value>Лестницы</value></data>
 <data name="craft_category.sword" xml:space="preserve"><value>Мечи</value></data>
 <data name="craft_category.armor" xml:space="preserve"><value>Броня</value></data>
@@ -3872,7 +3872,7 @@
 <data name="craft_category.homestead_tools" xml:space="preserve"><value>Инструменты</value></data>
 <data name="craft_category.homestead_blocks" xml:space="preserve"><value>Блоки</value></data>
 <data name="craft_category.homestead_decor" xml:space="preserve"><value>Декор</value></data>
-<data name="craft_category.exposives" xml:space="preserve"><value>Взрывчатых веществ</value></data>
+<data name="craft_category.exposives" xml:space="preserve"><value>Взрывчатые вещества</value></data>
 <data name="craft_category.teleporter" xml:space="preserve"><value>Телепорты</value></data>
 <data name="craft_category.portcrystal" xml:space="preserve"><value>Кристалл Телепортации</value></data>
 <data name="craft_category.furniture" xml:space="preserve"><value>Мебель</value></data>
@@ -3931,7 +3931,7 @@
 <data name="task.extract_name_quantity" xml:space="preserve"><value>Экстракт {количество} {item_name}</value></data>
 <data name="task.craft_name_quantity" xml:space="preserve"><value>Ремесло {количество} {item_name}</value></data>
 <data name="task.collect_name_quantity" xml:space="preserve"><value>Собираем {количество} {item_name}</value></data>
-<data name="task.forge_name_quantity" xml:space="preserve"><value>Фордж {количество} {item_name}</value></data>
+<data name="task.forge_name_quantity" xml:space="preserve"><value>Печь {количество} {item_name}</value></data>
 <data name="task.process_name_quantity" xml:space="preserve"><value>Процесс {количество} {item_name}</value></data>
 <data name="quest.rootquest" xml:space="preserve"><value>Основы Я</value></data>
 <data name="quest_description.rootquest" xml:space="preserve"><value>Время научиться! nStep \1: вытяните блоки. nStep \2: блоки. nStep \3: прибыль! Подождите... нет, открывать новые блоки!</value></data>
@@ -3945,7 +3945,7 @@
 <data name="task.basic_2_a" xml:space="preserve"><value>Грохнуть тварь</value></data>
 <data name="task.basic_2_b" xml:space="preserve"><value>Едим Красный мухомор</value></data>
 <data name="quest.basic_3" xml:space="preserve"><value>Основы И.</value></data>
-<data name="quest_description.basic_3" xml:space="preserve"><value>Что лучший способ получить этот процесс происходит, чем с процессором? Давайте копать немного камня и сделать один!</value></data>
+<data name="quest_description.basic_3" xml:space="preserve"><value>Что лучший способ получить этот процесс происходит, чем с Разделительом? Давайте копать немного камня и сделать один!</value></data>
 <data name="quest.smithing_1" xml:space="preserve"><value>Крафтер Я</value></data>
 <data name="quest.description.smithing_1" xml:space="preserve"><value>Натуральный камень выглядит это здорово, но иногда нужен более изысканный вид. У меня есть инструмент, чтобы превратить наши природные материалы в более полезные компоненты.</value></data>
 <data name="quest.smithing_2" xml:space="preserve"><value>Крафтер второй</value></data>
@@ -4030,7 +4030,7 @@
 <data name="task.explore_2_e" xml:space="preserve"><value>Узнайте {item_name} в прибрежном</value></data>
 <data name="quest.explore_3" xml:space="preserve"><value>Исследователь III</value></data>
 <data name="quest_description.explore_3" xml:space="preserve"><value>Собирай свои тепловые трусы, это собирается получить немного холодно там!</value></data>
-<data name="task.explore_3_a" xml:space="preserve"><value>Узнайте {item_name} в Autumnwood лес</value></data>
+<data name="task.explore_3_a" xml:space="preserve"><value>Узнайте {item_name} в Осеннее дерево лес</value></data>
 <data name="task.explore_3_b" xml:space="preserve"><value>Узнайте {item_name} в горы </value></data>
 <data name="task.explore_3_c" xml:space="preserve"><value>Узнайте {item_name} в тундре</value></data>
 <data name="task.explore_3_d" xml:space="preserve"><value>Узнайте {item_name} в тайге</value></data>
