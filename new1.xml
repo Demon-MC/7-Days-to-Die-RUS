@@ -1,10 +1,10 @@
 <data name="main_menu.title.you_tube_links" xml:space="preserve"><value>ЛУЧШЕЕ ВИДЕО</value></data>
 <data name="main_menu.title.steam_community" xml:space="preserve"><value>СООБЩЕСТВО STEAM</value></data>
-<data name="menu.inventory" xml:space="preserve"><value>Инвентаризация</value></data>
+<data name="menu.inventory" xml:space="preserve"><value>Инвентарь</value></data>
 <data name="menu.player" xml:space="preserve"><value>Плеер</value></data>
 <data name="menu.context" xml:space="preserve"><value>Контексте</value></data>
-<data name="menu.crafting" xml:space="preserve"><value>Крафтинг</value></data>
-<data name="menu.crafting_station" xml:space="preserve"><value>Крафтинг Станции</value></data>
+<data name="menu.crafting" xml:space="preserve"><value>Крафт</value></data>
+<data name="menu.crafting_station" xml:space="preserve"><value>Верстак для крафта</value></data>
 <data name="pigsy.this_is_a" xml:space="preserve"><value>Это [FF00FF]{0}[-].</value></data>
 <data name="pigsy.this_is_an" xml:space="preserve"><value>Это [FF00FF]{0}[-].</value></data>
 <data name="tutorial.wakeup_0" xml:space="preserve"><value>Эй, никто никогда не ожидает, что!</value></data>
@@ -33,14 +33,14 @@
 <data name="tutorial.getout_5" xml:space="preserve"><value>Вы. . . не было ягод? Что я только ем?</value></data>
 <data name="tutorial.getout_6" xml:space="preserve"><value>Спасибо за помощь! Я почти рад, что ты появился из ниоткуда и едва не закончился случайно мою жизнь. </value></data>
 <data name="panel.character" xml:space="preserve"><value>Характер</value></data>
-<data name="panel.inventory" xml:space="preserve"><value>Инвентаризация</value></data>
-<data name="panel.loot" xml:space="preserve"><value>Бабло</value></data>
+<data name="panel.inventory" xml:space="preserve"><value>Инвентарь</value></data>
+<data name="panel.loot" xml:space="preserve"><value>Лут</value></data>
 <data name="panel.crafting" xml:space="preserve"><value>Основные Крафта</value></data>
-<data name="panel.sawyer" xml:space="preserve"><value>Процессор</value></data>
-<data name="panel.loom" xml:space="preserve"><value>Станок</value></data>
-<data name="panel.armory" xml:space="preserve"><value>Верстак</value></data>
+<data name="panel.sawyer" xml:space="preserve"><value>Резак</value></data>
+<data name="panel.loom" xml:space="preserve"><value>Ткацкий станок</value></data>
+<data name="panel.armory" xml:space="preserve"><value>Оружейный верстак</value></data>
 <data name="panel.furniture" xml:space="preserve"><value>Печь</value></data>
-<data name="panel.storage" xml:space="preserve"><value>Хранение</value></data>
+<data name="panel.storage" xml:space="preserve"><value>Склад</value></data>
 <data name="items.you_have_x" xml:space="preserve"><value>У ВАС ЕСТЬ: {0}</value></data>
 <data name="items.you_have" xml:space="preserve"><value>У ВАС ЕСТЬ</value></data>
 <data name="recipe.recipe" xml:space="preserve"><value>Рецепт</value></data>
@@ -48,17 +48,17 @@
 <data name="recipe.missing" xml:space="preserve"><value>Отсутствует</value></data>
 <data name="recipe.new" xml:space="preserve"><value>Новый</value></data>
 <data name="recipe.craft_x" xml:space="preserve"><value>Ремесло х{0}</value></data>
-<data name="world.not_setup" xml:space="preserve"><value>Мир не был настройка...</value></data>
-<data name="world.recent" xml:space="preserve"><value>Последние мира вы играли в.</value></data>
-<data name="world.featured" xml:space="preserve"><value>Мир, который отличен.</value></data>
-<data name="world.social" xml:space="preserve"><value>Мир с другими людьми!</value></data>
+<data name="world.not_setup" xml:space="preserve"><value>Мир не настроен...</value></data>
+<data name="world.recent" xml:space="preserve"><value>Вы играли в мире</value></data>
+<data name="world.featured" xml:space="preserve"><value>Особый мир.</value></data>
+<data name="world.social" xml:space="preserve"><value>Публичный мир!</value></data>
 <data name="world.featured_tag" xml:space="preserve"><value>Представленный</value></data>
 <data name="world.recent_tag" xml:space="preserve"><value>Последние</value></data>
 <data name="world.friends_recent_tag" xml:space="preserve"><value>Друг</value></data>
 <data name="world.social_tag" xml:space="preserve"><value>Социальные</value></data>
 <data name="world.friends_active_tag" xml:space="preserve"><value>{0} друг(с)</value></data>
-<data name="world.friends_now" xml:space="preserve"><value>{0} друг(ы), играя в этом мире сейчас!</value></data>
-<data name="world.friends_recent" xml:space="preserve"><value>{0}'s последние мира</value></data>
+<data name="world.friends_now" xml:space="preserve"><value>Ваш друг {0} , играет в этом мире сейчас!</value></data>
+<data name="world.friends_recent" xml:space="preserve"><value>{0} последние миры</value></data>
 <data name="world.one_second_ago" xml:space="preserve"><value>Одну Секунду Назад</value></data>
 <data name="world.seconds_ago" xml:space="preserve"><value>{0} Секунд Назад</value></data>
 <data name="world.one_minute_ago" xml:space="preserve"><value>Минуту Назад</value></data>
@@ -71,28 +71,28 @@
 <data name="world.months_ago" xml:space="preserve"><value>{0} Месяцев Назад</value></data>
 <data name="world.one_year_ago" xml:space="preserve"><value>Год Назад</value></data>
 <data name="world.years_ago" xml:space="preserve"><value>{0} Год Назад</value></data>
-<data name="world.searching" xml:space="preserve"><value>Найти тех мирах...</value></data>
+<data name="world.searching" xml:space="preserve"><value>Найти мир...</value></data>
 <data name="world.error_search" xml:space="preserve"><value>Поиск не доступен прямо сейчас. Пожалуйста, попробуйте снова позже.</value></data>
 <data name="world.search_no_results" xml:space="preserve"><value>Никаких результатов не было найдено.</value></data>
-<data name="world.password_protected" xml:space="preserve"><value>Защищены Паролем</value></data>
+<data name="world.password_protected" xml:space="preserve"><value>Защищён Паролем</value></data>
 <data name="world.explosions_disabled" xml:space="preserve"><value>Взрывы Отключены</value></data>
 <data name="world.explosions_enabled" xml:space="preserve"><value>Взрывы Включено</value></data>
 <data name="world.pvp_disabled" xml:space="preserve"><value>Нет ПВП</value></data>
 <data name="world.pvp_enabled" xml:space="preserve"><value>ПВП включено</value></data>
-<data name="world.peaceful_on" xml:space="preserve"><value>Мирный Режим На</value></data>
+<data name="world.peaceful_on" xml:space="preserve"><value>Мирный Режим Включен</value></data>
 <data name="world.peaceful_off" xml:space="preserve"><value>Тихий Режим Выкл</value></data>
-<data name="world.recipes_locked" xml:space="preserve"><value>Рецепты Заблокирована</value></data>
-<data name="world.recipes_unlocked" xml:space="preserve"><value>Рецепты Разблокирован</value></data>
+<data name="world.recipes_locked" xml:space="preserve"><value>Рецепты Заблокированы</value></data>
+<data name="world.recipes_unlocked" xml:space="preserve"><value>Рецепты Разблокированы</value></data>
 <data name="world.default_to_visitor" xml:space="preserve"><value>По умолчанию посетитель</value></data>
-<data name="error.world_not_found" xml:space="preserve"><value>Мир не нашел...</value></data>
+<data name="error.world_not_found" xml:space="preserve"><value>Мир не найден...</value></data>
 <data name="error.feature_not_enabled" xml:space="preserve"><value>В настоящее время эта функция недоступна. Пожалуйста, попробуйте снова позже.</value></data>
 <data name="error.world_deleted" xml:space="preserve"><value>Мир был удален владельцем.</value></data>
 <data name="view_worlds.my_worlds" xml:space="preserve"><value>Мои Миры</value></data>
 <data name="view_worlds.recent_worlds" xml:space="preserve"><value>Последние Миры</value></data>
 <data name="world.waiting_setup" xml:space="preserve"><value>Ждем мира, чтобы быть установлен</value></data>
 <data name="error.passwords_not_matching" xml:space="preserve"><value>Пароли не совпадают</value></data>
-<data name="view_worlds.create_mode_label" xml:space="preserve"><value>Название Создать</value></data>
-<data name="view_worlds.join_mode_label" xml:space="preserve"><value>Название Присоединиться К</value></data>
+<data name="view_worlds.create_mode_label" xml:space="preserve"><value>Создать</value></data>
+<data name="view_worlds.join_mode_label" xml:space="preserve"><value>Присоединиться К</value></data>
 <data name="error.email_password_missing" xml:space="preserve"><value>Вам необходимо заполнить свой логин и пароль</value></data>
 <data name="error.not_signed_in" xml:space="preserve"><value>Вы не вошли в</value></data>
 <data name="error.no_response" xml:space="preserve"><value>Нет ответа</value></data>
@@ -101,15 +101,15 @@
 <data name="error.no_mining_allowed.nolocationvalue" xml:space="preserve"><value>Ничего не брать оттуда, глупо</value></data>
 <data name="error.no_mining_allowed.outsideofterrain" xml:space="preserve"><value>Ты смотришь в бесконечность и спросить 'кто я?'</value></data>
 <data name="error.no_mining_allowed.itemsinlocation" xml:space="preserve"><value>Хранения или станция содержит элементы.</value></data>
-<data name="error.no_mining_allowed.activetnt" xml:space="preserve"><value>ТНТ о денотата!</value></data>
+<data name="error.no_mining_allowed.activetnt" xml:space="preserve"><value>Взрывчатка активирована!</value></data>
 <data name="error.no_mining_allowed.higherminingtier" xml:space="preserve"><value>Требуется {0}, созданных через меню крафта</value></data>
 <data name="error.no_mining_allowed.nominenode" xml:space="preserve"><value>Требуется Вытяжка, созданных через меню крафта</value></data>
 <data name="error.no_mining_allowed.noaccess" xml:space="preserve"><value>Вы не имеете разрешения для добычи.</value></data>
-<data name="error.no_mining_allowed.need_approval" xml:space="preserve"><value>Вы должны быть предоставлены разрешения для этого сервера! Попросить Администратора или мод.</value></data>
+<data name="error.no_mining_allowed.need_approval" xml:space="preserve"><value>у вас должны быть разрешения для этого сервера! Попросите Администратора или модератора.</value></data>
 <data name="error.bed_occupied" xml:space="preserve"><value>Эта кровать занята.</value></data>
-<data name="error.no_touchstone" xml:space="preserve"><value>Разместите свой Оселок использовать Телепорт</value></data>
+<data name="error.no_touchstone" xml:space="preserve"><value>Разместите свой Камень телепорта для телепортации к ниму</value></data>
 <data name="error.no_mining_allowed.notyourtouchstone" xml:space="preserve"><value>Нельзя оселок мое чужое.</value></data>
-<data name="error.no_mining_allowed.notyourtouchstoneadmin" xml:space="preserve"><value>Нельзя оселок мое чужое.Вы можете удалить его, взаимодействуя с ним.</value></data>
+<data name="error.no_mining_allowed.notyourtouchstoneadmin" xml:space="preserve"><value>Нельзя телепортирваться через чужой камень телепортации.Вы можете удалить его, взаимодействуя с ним.</value></data>
 <data name="error.no_mining_allowed.activepoi" xml:space="preserve"><value>Вы не мой активный КПП.</value></data>
 <data name="error.tracking" xml:space="preserve"><value>Вы можете только отслеживать 5 рецептов одновременно.</value></data>
 <data name="error.cannot_grow" xml:space="preserve"><value>Элемент не может быть размещен там.</value></data>
@@ -120,9 +120,9 @@
 <data name="error.cannot_push.entity" xml:space="preserve"><value>Можете толкать {0}</value></data>
 <data name="error.world_building_disabled" xml:space="preserve"><value>Мира дом отключен.</value></data>
 <data name="error.block_placement_category_error" xml:space="preserve"><value>Этот блок не может быть помещен в этом месте.</value></data>
-<data name="error.not_an_ore_node" xml:space="preserve"><value>Экстракторы должны быть размещены на рудных узлов.</value></data>
-<data name="error.obstructed_by_entity" xml:space="preserve"><value>В этом месте нарушается сущности.</value></data>
-<data name="error.block_occupied" xml:space="preserve"><value>Это место уже занято блока.</value></data>
+<data name="error.not_an_ore_node" xml:space="preserve"><value>Экстракторы должны быть размещены на рудных узлах.</value></data>
+<data name="error.obstructed_by_entity" xml:space="preserve"><value>В этом месте препятствие.</value></data>
+<data name="error.block_occupied" xml:space="preserve"><value>Это место уже занято блоком.</value></data>
 <data name="error.no_mining_allowed.disruptor" xml:space="preserve"><value>[Число FF0000]у вас нет разрешения на добычу здесь![FFFFFF]запрос прав застройщика по карте ([FFD700]М[FFFFFF]).</value></data>
 <data name="error.no_mining_allowed.worldoptiondisallowdigging" xml:space="preserve"><value>[Число FF0000]рытье отключена в этом мире![FFFFFF]только блоки, которые были недавно размещенные могут быть удалены.</value></data>
 <data name="error.disruptor_not_allowed" xml:space="preserve"><value>[Число FF0000]у вас нет разрешения, чтобы сделать это здесь![FFFFFF]запрос прав застройщика по карте ([FFD700]М[FFFFFF]).</value></data>
@@ -131,8 +131,8 @@
 <data name="error.x_cannot_be_used_in_world" xml:space="preserve"><value>[Число FF0000]{0} не может быть использован в этом месте!</value></data>
 <data name="error.player_intersects" xml:space="preserve"><value>Вы слишком близко к месту там.</value></data>
 <data name="error.purchase.default" xml:space="preserve"><value>Произошла ошибка при обработке Вашего заказа.</value></data>
-<data name="error.purchase.steam_proccess_failed" xml:space="preserve"><value>Пара не удалось обработать Ваш заказ.</value></data>
-<data name="error.purchase.max_retries" xml:space="preserve"><value>Ой, мы expriencing Технические трудности. Пожалуйста, повторите покупку.</value></data>
+<data name="error.purchase.steam_proccess_failed" xml:space="preserve"><value>Не удалось обработать Ваш заказ.</value></data>
+<data name="error.purchase.max_retries" xml:space="preserve"><value>Технические неполадки. Пожалуйста, повторите покупку.</value></data>
 <data name="error.purchase.steam_order_not_approved" xml:space="preserve"><value>Этот порядок не был утвержден пара.</value></data>
 <data name="error.purchase.steam_not_running" xml:space="preserve"><value>Steam не работает. Пожалуйста, убедитесь, что Steam запущен и подключен к интернету, перезапустите приложение.</value></data>
 <data name="error.purchase.steam_no_overlay" xml:space="preserve"><value>Оверлей Steam не отображаться. Пожалуйста, включите Оверлей Steam и убедитесь, что он имеет соответствующие права доступа.</value></data>
@@ -292,7 +292,7 @@
 <data name="game_tip_2" xml:space="preserve"><value>Рецепты, купленные в магазине, нельзя найти в мире или разблокированы с помощью любых других средств!</value></data>
 <data name="game_tip_3" xml:space="preserve"><value>Использование экстракторов для сбора ценных материалов из узлов, например угля и обсидиана.</value></data>
 <data name="game_tip_4" xml:space="preserve"><value>Pigsies являются хорошим источником кожи и костей и содержат дневную порцию витамина С.</value></data>
-<data name="game_tip_5" xml:space="preserve"><value> Leafies обычно тусуются в тени гигантских Cragwood деревья в лесу. Они легко обгораешь.</value></data>
+<data name="game_tip_5" xml:space="preserve"><value> Лиственника обычно тусуются в тени гигантских Cragwood деревья в лесу. Они легко обгораешь.</value></data>
 <data name="game_tip_6" xml:space="preserve"><value>Ночь, когда всех злодеев вышли играть. На "играть", мы имеем в виду 'ужас'.</value></data>
 <data name="game_tip_7" xml:space="preserve"><value>Дополнительно экстрактор может быть труднее ремесло, но это удваивает выход!</value></data>
 <data name="game_tip_8" xml:space="preserve"><value>Сундуки с сокровищами могут иметь аккуратные-o специальные рецепты в них! Узнать их из вашего инвентаря.</value></data>
@@ -343,22 +343,22 @@
 <data name="messagebox.inventory.access_denied" xml:space="preserve"><value>Отказано в доступе к этой инвентаризации</value></data>
 <data name="messagebox.orphaned_entity.removed.gotkit" xml:space="preserve"><value>Вытащил блок ошибка. Это очищает разбитых блоков и не вызовет каких-либо повреждений. Предметы из этого блока были добавлены к вашему инвентарю в блок-контейнер ошибки. </value></data>
 <data name="messagebox.orphaned_entity.removed" xml:space="preserve"><value>Вытащил блок ошибка. Это очищает разбитых блоков и не вызовет каких-либо повреждений. </value></data>
-  <data name="item.placemat" xml:space="preserve">    <value>Столовых</value>  </data>
-  <data name="item.recipe_planter_mayan" xml:space="preserve">    <value>Рецепт: Грум храм сад</value>  </data>
-  <data name="item.planter_mayan" xml:space="preserve">    <value>Грум храм сад</value>  </data>
+  <data name="item.placemat" xml:space="preserve">    <value>Подставка</value>  </data>
+  <data name="item.recipe_planter_mayan" xml:space="preserve">    <value>Рецепт: Плантация майя</value>  </data>
+  <data name="item.planter_mayan" xml:space="preserve">    <value>Плантация майя</value>  </data>
   <data name="item.picture_frame_item" xml:space="preserve">    <value>Фоторамка</value>  </data>
-    <data name="item.picture_frame_arc_item" xml:space="preserve">    <value>Каркас Дуги Рисунок</value>  </data>
-  <data name="item.arc_text_projector_item" xml:space="preserve">    <value>Знак Дуги</value>  </data>
+    <data name="item.picture_frame_arc_item" xml:space="preserve">    <value>Каркас арки</value>  </data>
+  <data name="item.arc_text_projector_item" xml:space="preserve">    <value>Арка</value>  </data>
   <data name="item.sensor_item" xml:space="preserve">    <value>Датчик</value>  </data>
   <data name="item.filter_item" xml:space="preserve">    <value>Фильтр</value>  </data>
-  <data name="item.spawner_loot_item" xml:space="preserve">    <value>Бабло Порождения</value>  </data>
-  <data name="item.spawner_mob_item" xml:space="preserve">    <value>Порождения Моб</value>  </data>
-  <data name="item.actuator_item" xml:space="preserve">    <value>Блок Фазер</value>  </data>
-  <data name="item.tear_item" xml:space="preserve">    <value>Приключение Ворота</value>  </data>
+  <data name="item.spawner_loot_item" xml:space="preserve">    <value>Лут Порождения</value>  </data>
+  <data name="item.spawner_mob_item" xml:space="preserve">    <value>Моб</value>  </data>
+  <data name="item.actuator_item" xml:space="preserve">    <value>Актуатор</value>  </data>
+  <data name="item.tear_item" xml:space="preserve">    <value>Ворота</value>  </data>
   <data name="item.poi_item" xml:space="preserve">    <value>Контрольно-пропускной пункт</value>  </data>
-  <data name="item.roof_gingerbread_wafer" xml:space="preserve">    <value>Вафли Пряники Крыши</value>  </data>
-  <data name="item.stairs_gingerbread" xml:space="preserve">    <value>Пряничный Лестнице</value>  </data>
-  <data name="item.door_gingerbread" xml:space="preserve">    <value>Пряничный Дверь</value>  </data>
+  <data name="item.roof_gingerbread_wafer" xml:space="preserve">    <value>Вафельная Крыша</value>  </data>
+  <data name="item.stairs_gingerbread" xml:space="preserve">    <value>Пряничная лесница</value>  </data>
+  <data name="item.door_gingerbread" xml:space="preserve">    <value>Пряничная Дверь</value>  </data>
   <data name="item.fence_candycane" xml:space="preserve">    <value>Конфеты Загородка Тростника</value>  </data>
     <data name="item.gate_candycane" xml:space="preserve">    <value>Конфета Ворота</value>  </data>
       <data name="item.chimney_gingerbread" xml:space="preserve">    <value>Пряничный Дымохода</value>  </data>
@@ -368,7 +368,7 @@
   <data name="item.recipe_chimney_gingerbread" xml:space="preserve">    <value>Рецепт: Пряничный Дымохода</value>  </data>
   <data name="item.recipe_stairs_gingerbread" xml:space="preserve">    <value>Рецепт: Пряничный Лестнице</value>  </data>
   <data name="item.recipe_roof_gingerbread_wafer" xml:space="preserve">    <value>Рецепт: Вафли Пряники Крыши</value>  </data>
-<data name="item.slab_dirt" xml:space="preserve"><value>Сляб Грязи</value></data>
+<data name="item.slab_dirt" xml:space="preserve"><value>Кусок Грязи</value></data>
 <data name="item.slope_dirt" xml:space="preserve"><value>Склон Грязи</value></data>
 <data name="item.stairs_dirt" xml:space="preserve"><value>Грязь Лестнице</value></data>
 <data name="item.slab_grass" xml:space="preserve"><value>Трава Сляба</value></data>
@@ -392,8 +392,8 @@
 <data name="item.slab_adobeclay_red" xml:space="preserve"><value>Красный Саман Сляба</value></data>
 <data name="item.slope_adobeclay_red" xml:space="preserve"><value>Склон Красного Самана</value></data>
 <data name="item.stairs_adobeclay_red" xml:space="preserve"><value>Красный Саман Лестнице</value></data>
-<data name="item.slab_adobeclay_white" xml:space="preserve"><value>Компания Adobe Сляба</value></data>
-<data name="item.slope_adobeclay_white" xml:space="preserve"><value>Компания Adobe Склон</value></data>
+<data name="item.slab_adobeclay_white" xml:space="preserve"><value>Глиняный Сляба</value></data>
+<data name="item.slope_adobeclay_white" xml:space="preserve"><value>Глиняный Склон</value></data>
 <data name="item.stairs_adobeclay_white" xml:space="preserve"><value>Саман Лестнице</value></data>
 <data name="item.slab_adobeclay_yellow" xml:space="preserve"><value>Желтый Саман Сляба</value></data>
 <data name="item.slope_adobeclay_yellow" xml:space="preserve"><value>Желтый Склон Самана</value></data>
@@ -405,7 +405,7 @@
 <data name="item.sign_stone_hanging" xml:space="preserve"><value>Висячий Камень Знак</value></data>
 <data name="item.plaque_stone" xml:space="preserve"><value>Каменная Доска</value></data>
 <data name="item.plaque_wood" xml:space="preserve"><value>Деревянная Доска</value></data>
-<data name="item.fire_pit_iron" xml:space="preserve"><value>Утюг Костра</value></data>
+<data name="item.fire_pit_iron" xml:space="preserve"><value>Железо Костра</value></data>
 <data name="block.block_bundle_medieval_item" xml:space="preserve"><value>Средневековые Супер Связка</value></data>
 <data name="item.block_bundle_medieval_item" xml:space="preserve"><value>Средневековые Супер Связка</value></data>
 <data name="item.block_bundle_mayan_basic_item" xml:space="preserve"><value>Скрытый Храм Пачке</value></data>
@@ -494,16 +494,16 @@
 <data name="item.roof_obsidian_outer_corner" xml:space="preserve"><value>Обсидиан Внешний Угол Крыши</value></data>
 <data name="item.stairs_iron_inner_corner" xml:space="preserve"><value>Железной Лестнице Внутреннего Угла</value></data>
 <data name="item.stairs_iron_outer_corner" xml:space="preserve"><value>Железные Лестницы, Наружный Угол</value></data>
-<data name="item.roof_iron_inner_corner" xml:space="preserve"><value>Утюг Внутренний Угол Крыши</value></data>
-<data name="item.roof_iron_outer_corner" xml:space="preserve"><value>Утюг Внешний Угол Крыши</value></data>
+<data name="item.roof_iron_inner_corner" xml:space="preserve"><value>Железо Внутренний Угол Крыши</value></data>
+<data name="item.roof_iron_outer_corner" xml:space="preserve"><value>Железо Внешний Угол Крыши</value></data>
 <data name="item.stairs_diamond_inner_corner" xml:space="preserve"><value>Алмазный Лестнице Внутреннего Угла</value></data>
 <data name="item.stairs_diamond_outer_corner" xml:space="preserve"><value>Алмазный Лестнице Наружный Угол</value></data>
 <data name="item.roof_diamond_inner_corner" xml:space="preserve"><value>Алмаз Внутренний Угол Крыши</value></data>
 <data name="item.roof_diamond_outer_corner" xml:space="preserve"><value>Алмазный Внешний Угол Крыши</value></data>
-<data name="item.stairs_lumite_inner_corner" xml:space="preserve"><value>Компания Lumite Лестнице Внутреннего Угла</value></data>
-<data name="item.stairs_lumite_outer_corner" xml:space="preserve"><value>Компания Lumite Лестнице Наружный Угол</value></data>
-<data name="item.roof_lumite_inner_corner" xml:space="preserve"><value>Компания Lumite Внутренний Угол Крыши</value></data>
-<data name="item.roof_lumite_outer_corner" xml:space="preserve"><value>Компания Lumite Внешний Угол Крыши</value></data>
+<data name="item.stairs_lumite_inner_corner" xml:space="preserve"><value>Люмитовая Лестница Внутреннего Угла</value></data>
+<data name="item.stairs_lumite_outer_corner" xml:space="preserve"><value>Люмитовая Лестница Наружный Угол</value></data>
+<data name="item.roof_lumite_inner_corner" xml:space="preserve"><value>Люмит Внутренний Угол Крыши</value></data>
+<data name="item.roof_lumite_outer_corner" xml:space="preserve"><value>Люмит Внешний Угол Крыши</value></data>
 <data name="item.stairs_mayan_inner_corner" xml:space="preserve"><value>Лестницы Майя Внутренний Угол</value></data>
 <data name="item.stairs_mayan_outer_corner" xml:space="preserve"><value>Лестницы Майя Внешнего Угла</value></data>
 <data name="item.roof_mayan_inner_corner" xml:space="preserve"><value>Внутренний Угол Крыши Майя</value></data>
@@ -512,12 +512,12 @@
 <data name="item.stairs_medieval_outer_corner" xml:space="preserve"><value>Средневековые Лестницы Внешний Угол</value></data>
 <data name="item.roof_medieval_inner_corner" xml:space="preserve"><value>Средневековый Внутренний Угол Крыши</value></data>
 <data name="item.roof_medieval_outer_corner" xml:space="preserve"><value>Средневековый Внешний Угол Крыши</value></data>
-<data name="item.roof_adobe_slanted_blue_inner_corner" xml:space="preserve"><value>Компания Adobe Крышей Голубой Внутренний Угол</value></data>
-<data name="item.roof_adobe_slanted_blue_outer_corner" xml:space="preserve"><value>Компания Adobe Крышей Голубой Внешний Угол</value></data>
-<data name="item.roof_adobe_slanted_red_inner_corner" xml:space="preserve"><value>Компания Adobe Красные Крыши Внутреннего Угла</value></data>
-<data name="item.roof_adobe_slanted_red_outer_corner" xml:space="preserve"><value>Компания Adobe Красные Крыши Внешнего Угла</value></data>
+<data name="item.roof_adobe_slanted_blue_inner_corner" xml:space="preserve"><value>Глиняный Крышей Голубой Внутренний Угол</value></data>
+<data name="item.roof_adobe_slanted_blue_outer_corner" xml:space="preserve"><value>Глиняный Крышей Голубой Внешний Угол</value></data>
+<data name="item.roof_adobe_slanted_red_inner_corner" xml:space="preserve"><value>Глиняный Красные Крыши Внутреннего Угла</value></data>
+<data name="item.roof_adobe_slanted_red_outer_corner" xml:space="preserve"><value>Глиняный Красные Крыши Внешнего Угла</value></data>
 <data name="item.roof_adobe_slanted_yellow_inner_corner" xml:space="preserve"><value>Саман Крыша Желтый Внутренний Угол</value></data>
-<data name="item.roof_adobe_slanted_yellow_outer_corner" xml:space="preserve"><value>Компания Adobe Крыши Желтый Внешний Угол</value></data>
+<data name="item.roof_adobe_slanted_yellow_outer_corner" xml:space="preserve"><value>Глиняный Крыши Желтый Внешний Угол</value></data>
 <data name="item.roof_copper_inner_corner" xml:space="preserve"><value>Медная Кровля Внутренний Угол</value></data>
 <data name="item.roof_copper_outer_corner" xml:space="preserve"><value>Медь Наружный Угол Крыши</value></data>
 <data name="item.roof_patina_inner_corner" xml:space="preserve"><value>Патина Внутренний Угол Крыши</value></data>
@@ -528,8 +528,8 @@
 <data name="item.stairs_gingerbread_outer_corner" xml:space="preserve"><value>Пряники Лестнице Наружный Угол</value></data>
 <data name="item.roof_gingerbread_inner_corner" xml:space="preserve"><value>Пряничный Внутренний Угол Крыши</value></data>
 <data name="item.roof_gingerbread_outer_corner" xml:space="preserve"><value>Пряничный Внешний Угол Крыши</value></data>
-<data name="item.roof_gingerbread_wafer_inner_corner" xml:space="preserve"><value>Пряники Вафли Внутренний Угол Крыши</value></data>
-<data name="item.roof_gingerbread_wafer_outer_corner" xml:space="preserve"><value>Пряники Вафли Внешний Угол Крыши</value></data>
+<data name="item.roof_gingerbread_wafer_inner_corner" xml:space="preserve"><value>Вафельный Внутренний Угол Крыши</value></data>
+<data name="item.roof_gingerbread_wafer_outer_corner" xml:space="preserve"><value>Вафельный Внешний Угол Крыши</value></data>
 <data name="item.roof_igneous_inner_corner" xml:space="preserve"><value>Магматические Крыши Внутреннего Угла</value></data>
 <data name="item.roof_igneous_outer_corner" xml:space="preserve"><value>Магматические Внешний Угол Крыши</value></data>
 <data name="item.stairs_bungalow_inner_corner" xml:space="preserve"><value>Бунгало Лестнице Внутреннего Угла</value></data>
@@ -548,7 +548,7 @@
 <data name="item.stairs_haunted" xml:space="preserve"><value>Привидениями Лестнице</value></data>
 <data name="item.stairs_haunted_carpet" xml:space="preserve"><value>Привидениями Лестнице Ковровое Покрытие</value></data>
 <data name="item.roof_haunted" xml:space="preserve"><value>Привидениями Крыши</value></data>
-<data name="item.lamp_haunted" xml:space="preserve"><value>Ые Лампы</value></data>
+<data name="item.lamp_haunted" xml:space="preserve"><value>Призрачная лампа</value></data>
 <data name="item.gravestone_haunted_01" xml:space="preserve"><value>Привидениями Надгробие</value></data>
 <data name="item.gravestone_haunted_02" xml:space="preserve"><value>Жуткий Haunted Надгробие</value></data>
 <data name="item.gravestone_haunted_03" xml:space="preserve"><value>Жуткий Привидениями Надгробие</value></data>
@@ -601,9 +601,9 @@
 <data name="item.wall_gold" xml:space="preserve"><value>Золотые Стены</value></data>
 <data name="item.wall_gold_banded" xml:space="preserve"><value>Окаймленный Золотой Стены</value></data>
 <data name="item.wall_gold_studded" xml:space="preserve"><value>Шипованных Золотые Стены</value></data>
-<data name="item.wall_lumite_shattered" xml:space="preserve"><value>Компания Lumite Разрушенной Стены</value></data>
-<data name="item.wall_lumite_shattered_dark" xml:space="preserve"><value>Разбитые Темные Стены Компания Lumite</value></data>
-<data name="item.wall_lumite_shattered_light" xml:space="preserve"><value>Расколотый Свет Компания Lumite Стены</value></data>
+<data name="item.wall_lumite_shattered" xml:space="preserve"><value>Люмит Разрушенной Стены</value></data>
+<data name="item.wall_lumite_shattered_dark" xml:space="preserve"><value>Разбитые Темные Стены Люмит</value></data>
+<data name="item.wall_lumite_shattered_light" xml:space="preserve"><value>Расколотый Свет Люмит Стены</value></data>
 <data name="item.sword_gold" xml:space="preserve"><value>Золотой Меч</value></data>
 <data name="item.potion_gold" xml:space="preserve"><value>Золотое Зелье</value></data>
 <data name="item.wall_obsidian_checkered" xml:space="preserve"><value>Клетчатый Обсидиан Стены</value></data>
@@ -617,14 +617,14 @@
 <data name="item.wall_diamond_star" xml:space="preserve"><value>Звезда Алмазный Стене</value></data>
 <data name="item.fence_obsidian" xml:space="preserve"><value>Обсидиан Забор</value></data>
 <data name="item.gate_obsidian" xml:space="preserve"><value>Обсидиан Ворота</value></data>
-<data name="item.recipe_wall_lumite_light" xml:space="preserve"><value>Рецепт: Света Компания Lumite Стены</value></data>
-<data name="item.recipe_wall_lumite_dark" xml:space="preserve"><value>Рецепт: Темный Компания Lumite Стены</value></data>
+<data name="item.recipe_wall_lumite_light" xml:space="preserve"><value>Рецепт: Света Люмит Стены</value></data>
+<data name="item.recipe_wall_lumite_dark" xml:space="preserve"><value>Рецепт: Темный Люмит Стены</value></data>
 <data name="item.stairs_diamond" xml:space="preserve"><value>Алмазный Лестнице</value></data>
-<data name="item.stairs_lumite" xml:space="preserve"><value>Компания Lumite Лестнице</value></data>
-<data name="item.roof_lumite" xml:space="preserve"><value>Компания Lumite Крыши</value></data>
-<data name="item.wall_lumite_light" xml:space="preserve"><value>Компания Lumite Свет Стены</value></data>
-<data name="item.wall_lumite_dark" xml:space="preserve"><value>Темная Компания Lumite Стены</value></data>
-<data name="item.wall_lumite_beveled" xml:space="preserve"><value>Компания Lumite Стены</value></data>
+<data name="item.stairs_lumite" xml:space="preserve"><value>Люмит Лестнице</value></data>
+<data name="item.roof_lumite" xml:space="preserve"><value>Люмит Крыши</value></data>
+<data name="item.wall_lumite_light" xml:space="preserve"><value>Люмит Свет Стены</value></data>
+<data name="item.wall_lumite_dark" xml:space="preserve"><value>Темная Люмит Стены</value></data>
+<data name="item.wall_lumite_beveled" xml:space="preserve"><value>Люмит Стены</value></data>
 <data name="item.roof_stone" xml:space="preserve"><value>Каменная Крыша</value></data>
 <data name="item.roof_obsidian" xml:space="preserve"><value>Обсидиан Крыши</value></data>
 <data name="item.roof_iron" xml:space="preserve"><value>Железная Крыша</value></data>
@@ -657,10 +657,10 @@
 <data name="item.string_comparison_item" xml:space="preserve"><value>Строки Ворота Сравнение</value></data>
 <data name="item.number_comparison_item" xml:space="preserve"><value>Количество Ворот Сравнение</value></data>
 <data name="item.invert_block_item" xml:space="preserve"><value>Инвертор Ворота</value></data>
-<data name="item.led_block_item" xml:space="preserve"><value>СИД</value></data>
-<data name="item.chizzard_egg" xml:space="preserve"><value>Chizzard Яйцо</value></data>
-<data name="item.blizzard_chizzard_egg" xml:space="preserve"><value>Пурга Chizzard Яйцо</value></data>
-<data name="item.pigsy_droppings" xml:space="preserve"><value>Помет Pigsy</value></data>
+<data name="item.led_block_item" xml:space="preserve"><value>Светильник</value></data>
+<data name="item.chizzard_egg" xml:space="preserve"><value>Яйцо Чижика</value></data>
+<data name="item.blizzard_chizzard_egg" xml:space="preserve"><value>Метательное яйцо чижика </value></data>
+<data name="item.pigsy_droppings" xml:space="preserve"><value>Помет свинки</value></data>
 <data name="item.bow_tie" xml:space="preserve"><value>Галстук-Бабочка</value></data>
 <data name="item.bow_tie_red" xml:space="preserve"><value>Красный Галстук-Бабочка</value></data>
 <data name="item.bow_tie_blue" xml:space="preserve"><value>Синий Галстук-Бабочка</value></data>
@@ -854,7 +854,7 @@
 <data name="item.glass_tourmaline_green" xml:space="preserve"><value>Зеленый Турмалин Стекло</value></data>
 <data name="item.wall_moroccan_siltstone" xml:space="preserve"><value>Алевролит Стены</value></data>
 <data name="item.wall_moroccan_iron" xml:space="preserve"><value>Железная Стена</value></data>
-<data name="item.wall_moroccan_iron_curl" xml:space="preserve"><value>Скручиваемость Утюг Стены</value></data>
+<data name="item.wall_moroccan_iron_curl" xml:space="preserve"><value>Скручиваемость Железо Стены</value></data>
 <data name="item.glass_moroccan" xml:space="preserve"><value>Армированное Стекло</value></data>
 <data name="item.fireworks_red_item" xml:space="preserve"><value>Красный Фейерверк</value></data>
 <data name="item.fireworks_blue_item" xml:space="preserve"><value>Синий Фейерверк</value></data>
@@ -948,8 +948,8 @@
 <data name="item.water_item" xml:space="preserve"><value>Воды</value></data>
 <data name="item.water_mineral_item" xml:space="preserve"><value>Минеральные Воды</value></data>
 <data name="item.coral_item" xml:space="preserve"><value>Коралловый</value></data>
-<data name="item.sulfur_item" xml:space="preserve"><value>Серы</value></data>
-<data name="item.tar_item" xml:space="preserve"><value>Тар</value></data>
+<data name="item.sulfur_item" xml:space="preserve"><value>Сера</value></data>
+<data name="item.tar_item" xml:space="preserve"><value>Смола</value></data>
 <data name="item.water_corrupted_item" xml:space="preserve"><value>Поврежденные Водой</value></data>
 <data name="item.tnt_tier2_item" xml:space="preserve"><value>Продвинутый тротил</value></data>
 <data name="item.tnt_tier3_item" xml:space="preserve"><value>Супер ТНТ</value></data>
@@ -961,15 +961,15 @@
 <data name="item.teleporter_item" xml:space="preserve"><value>Телепортер</value></data>
 <data name="item.portcrystal_white_item" xml:space="preserve"><value>Portcrystal</value></data>
 <data name="item.glass" xml:space="preserve"><value>Стекло</value></data>
-<data name="item.iron_bar" xml:space="preserve"><value>Утюг Бар</value></data>
+<data name="item.iron_bar" xml:space="preserve"><value>Железо Бар</value></data>
 <data name="item.diamond" xml:space="preserve"><value>Алмаз</value></data>
 <data name="item.obsidian" xml:space="preserve"><value>Обсидиан</value></data>
 <data name="item.slab_wood" xml:space="preserve"><value>Древесных Плит</value></data>
 <data name="item.slab_stone" xml:space="preserve"><value>Сляб Камня</value></data>
-<data name="item.slab_iron" xml:space="preserve"><value>Утюг Плиты</value></data>
+<data name="item.slab_iron" xml:space="preserve"><value>Железо Плиты</value></data>
 <data name="item.slab_obsidian" xml:space="preserve"><value>Обсидиан Плиты</value></data>
 <data name="item.slab_diamond" xml:space="preserve"><value>Алмазный Плиты</value></data>
-<data name="item.slab_lumite_item" xml:space="preserve"><value>Сляб Компания Lumite</value></data>
+<data name="item.slab_lumite_item" xml:space="preserve"><value>Сляб Люмит</value></data>
 <data name="item.rod_stone" xml:space="preserve"><value>Каменный Стержень</value></data>
 <data name="item.rod_iron" xml:space="preserve"><value>Железный Прут</value></data>
 <data name="item.rod_obsidian" xml:space="preserve"><value>Обсидиановый Стержень</value></data>
@@ -998,9 +998,9 @@
 <data name="item.sinew" xml:space="preserve"><value>Сухожилия</value></data>
 <data name="item.flower_yellow" xml:space="preserve"><value>Желтый Цветок</value></data>
 <data name="item.mushroom_red" xml:space="preserve"><value>Красный Мухомор</value></data>
-<data name="item.lumite" xml:space="preserve"><value>Компания lumite</value></data>
+<data name="item.lumite" xml:space="preserve"><value>Люмит</value></data>
 <data name="item.adobe_brick" xml:space="preserve"><value>Сырцового Кирпича</value></data>
-<data name="item.adobe_shingles" xml:space="preserve"><value>Компания Adobe Гонт</value></data>
+<data name="item.adobe_shingles" xml:space="preserve"><value>Глиняный Гонт</value></data>
 <data name="item.bed_frame" xml:space="preserve"><value>Каркас Кровати</value></data>
 <data name="item.bedroll" xml:space="preserve"><value>Кровать Рулон</value></data>
 <data name="item.bees_wax" xml:space="preserve"><value>Пчелиный воск</value></data>
@@ -1030,9 +1030,9 @@
 <data name="item.blade_iron" xml:space="preserve"><value>Железный Резак</value></data>
 <data name="item.ore_iron" xml:space="preserve"><value>Железной Руды</value></data>
 <data name="item.recipe_legends" xml:space="preserve"><value>Легенды Рецепт</value></data>
-<data name="item.blade_lumite" xml:space="preserve"><value>Компания Lumite Резца</value></data>
-<data name="item.ore_lumite" xml:space="preserve"><value>Компания Lumite Руды</value></data>
-<data name="item.rod_lumite" xml:space="preserve"><value>Компания Lumite Штанги</value></data>
+<data name="item.blade_lumite" xml:space="preserve"><value>Люмит Резца</value></data>
+<data name="item.ore_lumite" xml:space="preserve"><value>Люмит Руды</value></data>
+<data name="item.rod_lumite" xml:space="preserve"><value>Люмит Штанги</value></data>
 <data name="item.magnet" xml:space="preserve"><value>Магнетит</value></data>
 <data name="item.magnetic_housing" xml:space="preserve"><value>Магнитный Корпус</value></data>
 <data name="item.mortar" xml:space="preserve"><value>Ступка</value></data>
@@ -1066,7 +1066,7 @@
 <data name="item.leggings_diamond" xml:space="preserve"><value>Алмазные Поножи</value></data>
 <data name="item.helmet_diamond" xml:space="preserve"><value>Алмаз Наплечник</value></data>
 <data name="item.sword_diamond" xml:space="preserve"><value>Алмазный Меч</value></data>
-<data name="item.armguards_iron" xml:space="preserve"><value>Утюг Armguards</value></data>
+<data name="item.armguards_iron" xml:space="preserve"><value>Железо Armguards</value></data>
 <data name="item.breastplate_iron" xml:space="preserve"><value>Железный Нагрудник</value></data>
 <data name="item.leggings_iron" xml:space="preserve"><value>Железные Поножи</value></data>
 <data name="item.helmet_iron" xml:space="preserve"><value>Железный Наплечник</value></data>
@@ -1075,12 +1075,12 @@
 <data name="item.breastplate_leather" xml:space="preserve"><value>Кожаный Нагрудник</value></data>
 <data name="item.leggings_leather" xml:space="preserve"><value>Кожаные Леггинсы</value></data>
 <data name="item.helmet_leather" xml:space="preserve"><value>Кожаный Наплечник</value></data>
-<data name="item.armguards_lumite" xml:space="preserve"><value>Компания Lumite Armguards</value></data>
-<data name="item.breastplate_lumite" xml:space="preserve"><value>Нагрудник Компания Lumite</value></data>
-<data name="item.leggings_lumite" xml:space="preserve"><value>Леггинсы Компания Lumite</value></data>
-<data name="item.helmet_lumite" xml:space="preserve"><value>Компания Lumite Наплечник</value></data>
-<data name="item.focus_lumite" xml:space="preserve"><value>Компания Lumite Горно Клетки</value></data>
-<data name="item.sword_lumite" xml:space="preserve"><value>Компания Lumite Меч</value></data>
+<data name="item.armguards_lumite" xml:space="preserve"><value>Люмит Armguards</value></data>
+<data name="item.breastplate_lumite" xml:space="preserve"><value>Нагрудник Люмит</value></data>
+<data name="item.leggings_lumite" xml:space="preserve"><value>Леггинсы Люмит</value></data>
+<data name="item.helmet_lumite" xml:space="preserve"><value>Люмит Наплечник</value></data>
+<data name="item.focus_lumite" xml:space="preserve"><value>Люмит Горно Клетки</value></data>
+<data name="item.sword_lumite" xml:space="preserve"><value>Люмит Меч</value></data>
 <data name="item.armguards_obsidian" xml:space="preserve"><value>Обсидиан Armguards</value></data>
 <data name="item.breastplate_obsidian" xml:space="preserve"><value>Обсидиановый Нагрудник</value></data>
 <data name="item.leggings_obsidian" xml:space="preserve"><value>Леггинсы Обсидиан</value></data>
@@ -1097,7 +1097,7 @@
 <data name="item.extractor" xml:space="preserve"><value>Экстрактор</value></data>
 <data name="item.fence_iron" xml:space="preserve"><value>Железный Забор</value></data>
 <data name="item.gate_iron" xml:space="preserve"><value>Железные Ворота</value></data>
-<data name="item.chest_treasure_lumite" xml:space="preserve"><value>Компания Lumite Сундук</value></data>
+<data name="item.chest_treasure_lumite" xml:space="preserve"><value>Люмит Сундук</value></data>
 <data name="item.chest_treasure_obsidian" xml:space="preserve"><value>Обсидиановый Сундук</value></data>
 <data name="item.fence_stone" xml:space="preserve"><value>Каменный Забор</value></data>
 <data name="item.gate_stone" xml:space="preserve"><value>Каменные Ворота</value></data>
@@ -1107,7 +1107,7 @@
 <data name="item.fence_wood" xml:space="preserve"><value>Деревянный Забор</value></data>
 <data name="item.gate_wood" xml:space="preserve"><value>Деревянные Ворота</value></data>
 <data name="item.chest_iron" xml:space="preserve"><value>Железный Сундук</value></data>
-<data name="item.chest_lumite" xml:space="preserve"><value>Компания Lumite Груди</value></data>
+<data name="item.chest_lumite" xml:space="preserve"><value>Люмит Груди</value></data>
 <data name="item.chest_obsidian" xml:space="preserve"><value>Обсидиановый Сундук</value></data>
 <data name="item.chest_stone" xml:space="preserve"><value>Камень В Груди</value></data>
 <data name="item.chest_wood" xml:space="preserve"><value>Деревянный Комод</value></data>
@@ -1153,8 +1153,8 @@
 <data name="item.trap_door_stone" xml:space="preserve"><value>Каменный Люк</value></data>
 <data name="item.door_iron" xml:space="preserve"><value>Железная Дверь</value></data>
 <data name="item.door_diamond" xml:space="preserve"><value>Алмазная Дверь</value></data>
-<data name="item.door_lumite" xml:space="preserve"><value>Двери Компания Lumite</value></data>
-<data name="item.slab_lumite" xml:space="preserve"><value>Сляб Компания Lumite</value></data>
+<data name="item.door_lumite" xml:space="preserve"><value>Двери Люмит</value></data>
+<data name="item.slab_lumite" xml:space="preserve"><value>Сляб Люмит</value></data>
 <data name="item.stairs_wood" xml:space="preserve"><value>Деревянные Лестницы</value></data>
 <data name="item.stairs_stone" xml:space="preserve"><value>Каменная Лестница</value></data>
 <data name="item.fossils" xml:space="preserve"><value>Окаменелости</value></data>
@@ -1215,13 +1215,13 @@
 <data name="item.chair_iron" xml:space="preserve"><value>Железный Стул</value></data>
 <data name="item.chair_stone" xml:space="preserve"><value>Камень Стул</value></data>
 <data name="item.chair_obsidian" xml:space="preserve"><value>Стул Обсидиан</value></data>
-<data name="item.chair_lumite" xml:space="preserve"><value>Стул Компания Lumite</value></data>
+<data name="item.chair_lumite" xml:space="preserve"><value>Стул Люмит</value></data>
 <data name="item.table_wood" xml:space="preserve"><value>Деревянный Стол</value></data>
 <data name="item.table_stone" xml:space="preserve"><value>Каменный Стол</value></data>
 <data name="item.table_obsidian" xml:space="preserve"><value>Обсидиан Стол</value></data>
-<data name="item.table_iron" xml:space="preserve"><value>Утюг Стол</value></data>
+<data name="item.table_iron" xml:space="preserve"><value>Железо Стол</value></data>
 <data name="item.table_diamond" xml:space="preserve"><value>Алмаз стол</value></data>
-<data name="item.table_lumite" xml:space="preserve"><value>Таблица Компания Lumite</value></data>
+<data name="item.table_lumite" xml:space="preserve"><value>Таблица Люмит</value></data>
 <data name="item.lamp_wood" xml:space="preserve"><value>Горит Лампа Вуда</value></data>
 <data name="item.ladder_stone" xml:space="preserve"><value>Каменная Лестница</value></data>
 <data name="item.planter_wood_double" xml:space="preserve"><value>Деревянные Двойные Плантатор</value></data>
@@ -1534,7 +1534,7 @@
 <data name="item_description.wall_lumite_shattered" xml:space="preserve"><value>Поле с четкой надписью "обращаться с осторожностью". Тьфу!!</value></data>
 <data name="item_description.wall_lumite_shattered_dark" xml:space="preserve"><value>Вы думаете, что это слишком поздно, чтобы вернуть его?</value></data>
 <data name="item_description.wall_lumite_shattered_light" xml:space="preserve"><value>Это довольно в сломанной ваза-приклеенный обратно-вместе на своем пути.</value></data>
-<data name="item_description.sword_gold" xml:space="preserve"><value>Меч, чтобы показать, как по-настоящему ценный. Позолочен в золотой металлами, усилены компания lumite. </value></data>
+<data name="item_description.sword_gold" xml:space="preserve"><value>Меч, чтобы показать, как по-настоящему ценный. Позолочен в золотой металлами, усилены Люмит. </value></data>
 <data name="item_description.potion_gold" xml:space="preserve"><value>Сделать все ваши друзья ревнивый с вашим золотым блеском и блеск. Дает игроку эффект золотой раковиной в течение 10 минут.</value></data>
 <data name="item_description.wall_obsidian_checkered" xml:space="preserve"><value>Я предполагал, что это используется в большом храме обсидиан, но гигантская настольная Эрудит это тоже хорошо, я думаю.</value></data>
 <data name="item_description.wall_obsidian_square" xml:space="preserve"><value>Железо, инкрустация действительно добавляет некоторый класс!</value></data>
@@ -1558,7 +1558,7 @@
 <data name="item_description.roof_lumite_outer_corner" xml:space="preserve"><value>Это очень нестабильный ресурс сырья-зло-придают энергии и вы сделали крыши из него. Вау.</value></data>
 <data name="item_description.wall_lumite_light" xml:space="preserve"><value>Хороший близнец. Он не плюнет в ваше блюдо. Может быть.</value></data>
 <data name="item_description.wall_lumite_dark" xml:space="preserve"><value>Чистое зло, содержащиеся тонкими стенками. Что? Нет, я говорю о себе.</value></data>
-<data name="item_description.wall_lumite_beveled" xml:space="preserve"><value>Один неверный шаг может привести к весь замок компания lumite взорвется... но посмотрите! Это так красиво.</value></data>
+<data name="item_description.wall_lumite_beveled" xml:space="preserve"><value>Один неверный шаг может привести к весь замок Люмит взорвется... но посмотрите! Это так красиво.</value></data>
 <data name="item_description.roof_stone" xml:space="preserve"><value>Всегда надевайте шлем, когда внахлест эту крышу.</value></data>
 <data name="item_description.roof_stone_inner_corner" xml:space="preserve"><value>Всегда надевайте шлем, когда внахлест эту крышу.</value></data>
 <data name="item_description.roof_stone_outer_corner" xml:space="preserve"><value>Всегда надевайте шлем, когда внахлест эту крышу.</value></data>
@@ -2032,7 +2032,7 @@
 <data name="item_description.breastplate_lumite" xml:space="preserve"><value>Ты чувствуешь себя супергероем носить это, но потом вы заметите, что ваши ботинки были развязаны для того, кто знает, как долго. Невероятная защита!</value></data>
 <data name="item_description.leggings_lumite" xml:space="preserve"><value>Вы сделали это. Ты создал идеальную пару штанов! Заблуждаться, похоже, Вы забыли карманы. Титаник обороны, однако!</value></data>
 <data name="item_description.helmet_lumite" xml:space="preserve"><value>Щетки и флоссы зубы в неудобное время, но обеспечивает звездных обороны! </value></data>
-<data name="item_description.focus_lumite" xml:space="preserve"><value>Концентрированная энергия компания lumite повышает вашу перчатку в Овердрайв! Шахты почти все, и побыстрее!</value></data>
+<data name="item_description.focus_lumite" xml:space="preserve"><value>Концентрированная энергия Люмит повышает вашу перчатку в Овердрайв! Шахты почти все, и побыстрее!</value></data>
 <data name="item_description.sword_lumite" xml:space="preserve"><value>Это почти несправедливо, чтобы взять это дело в бою.</value></data>
 <data name="item_description.armguards_obsidian" xml:space="preserve"><value>Отпечатки пальцев действительно Маре блестящей отделкой.</value></data>
 <data name="item_description.breastplate_obsidian" xml:space="preserve"><value>Везде Armprints!</value></data>
@@ -2061,12 +2061,12 @@
 <data name="item_description.station_alchemy" xml:space="preserve"><value>Поочередно делая большой лимонад и ужасные яды в этой станции.</value></data>
 <data name="item_description.station_tool" xml:space="preserve"><value>Обновить блок-потянуть доблести здесь. Инструмент, который делает инструменты?!</value></data>
 <data name="item_description.station_furniture" xml:space="preserve"><value>Пламенный горячий пункт на рынке крафтеров! Используйте его, чтобы уточнить руд и других объектах, или просто согреет ваше горячее какао.</value></data>
-<data name="item_description.extractor" xml:space="preserve"><value>Нужно добывать уголь, обсидиан, железо, алмаз и компания lumite узлов в мире. Существуют лучше версии с более лучшим выходом.</value></data>
+<data name="item_description.extractor" xml:space="preserve"><value>Нужно добывать уголь, обсидиан, железо, алмаз и Люмит узлов в мире. Существуют лучше версии с более лучшим выходом.</value></data>
 <data name="item_description.extractor_advanced" xml:space="preserve"><value>Экстрактор превосходит обычный во всех отношениях. Он также скромно об этом! Увеличенный выход.</value></data>
 <data name="item_description.extractor_super" xml:space="preserve"><value>Отжимают все до последней капли руды-сок из узлов с этого чудища. Самые доступные!</value></data>
 <data name="item_description.fence_iron" xml:space="preserve"><value>Немного пост-апокалиптики, немного современного шика. Ваш стиль меня смущает.</value></data>
 <data name="item_description.gate_iron" xml:space="preserve"><value>Открытие и закрытие это в разгар лета можно считать жестоким и необычным наказанием.</value></data>
-<data name="item_description.chest_treasure_lumite" xml:space="preserve"><value>Компания lumite в сундук, самый редкий из всех них!</value></data>
+<data name="item_description.chest_treasure_lumite" xml:space="preserve"><value>Люмит в сундук, самый редкий из всех них!</value></data>
 <data name="item_description.chest_treasure_obsidian" xml:space="preserve"><value>Обсидиановый сундук с сокровищами.</value></data>
 <data name="item_description.fence_stone" xml:space="preserve"><value>Прочные ограждения, чтобы не пустить стада роуминг Pigsies. </value></data>
 <data name="item_description.gate_stone" xml:space="preserve"><value>Вы, наверное, могли придумать более легкий материал, чтобы сделать ворота, а ты обленился. </value></data>
@@ -2399,8 +2399,8 @@
 <data name="automation.description.rail.transport_capsule" xml:space="preserve"><value>Отдельные предметы могут быть перевезены по рельсам до ближайшего контейнера</value></data>
 <data name="automation.description.number_comparison" xml:space="preserve"><value>Сравниваем значения количества 2 входные и выходные значения True/false в зависимости от настраиваемого действия</value></data>
 <data name="automation.description.string_comparison" xml:space="preserve"><value>Сравнить строковые значения 2 входные и выходные значения True/false в зависимости от настраиваемого действия</value></data>
-<data name="automation.description.spawner_mob" xml:space="preserve"><value>Заспавнить монстра на Ваш выбор, когда активирована! Место предмета в инвентаре до перевода в монстра, как бабло!</value></data>
-<data name="automation.description.spawner_loot" xml:space="preserve"><value>Отродясь контейнер сокровище ваш выбор, когда активирована! Место предмета в инвентаре для передачи элементу бабло!</value></data>
+<data name="automation.description.spawner_mob" xml:space="preserve"><value>Заспавнить монстра на Ваш выбор, когда активирована! Место предмета в инвентаре до перевода в монстра, как Лут!</value></data>
+<data name="automation.description.spawner_loot" xml:space="preserve"><value>Отродясь контейнер сокровище ваш выбор, когда активирована! Место предмета в инвентаре для передачи элементу Лут!</value></data>
 <data name="automation.description.sensor" xml:space="preserve"><value>Обнаруживает монстров и/или существа в пределах своих границ и выводит числовое значение количества!</value></data>
 <data name="automation.description.fireworks_blue" xml:space="preserve"><value>Фейерверки можно активировать на другой машине входы!</value></data>
 <data name="automation.description.fireworks_red" xml:space="preserve"><value>Фейерверки можно активировать на другой машине входы!</value></data>
@@ -2431,7 +2431,7 @@
 <data name="tooltip.parameter.auto_reset_time.desc" xml:space="preserve"><value>Это устройство автоматически сбрасывается после такого количества времени</value></data>
 <data name="tooltip.parameter.spawn_entity_types.title" xml:space="preserve"><value>Наплодили Сущностей</value></data>
 <data name="tooltip.parameter.spawn_entity_types.desc" xml:space="preserve"><value>Тип сущности, которая появится при активации</value></data>
-<data name="tooltip.parameter.spawn_no_loot.title" xml:space="preserve"><value>Отродясь не бабло</value></data>
+<data name="tooltip.parameter.spawn_no_loot.title" xml:space="preserve"><value>Отродясь не Лут</value></data>
 <data name="tooltip.parameter.spawn_no_loot.desc" xml:space="preserve"><value>Разрешить нереста даже если производителей инвентаре пусто</value></data>
 <data name="tooltip.parameter.spawn_playeffect.title" xml:space="preserve"><value>Играть Отродясь Эффект</value></data>
 <data name="tooltip.parameter.spawn_playeffect.desc" xml:space="preserve"><value>Играть отродясь эффект когда-то породил</value></data>
@@ -2565,7 +2565,7 @@
     <data name="block.arc_text_projector" xml:space="preserve">    <value>Знак Дуги</value>  </data>
   <data name="block.sensor_item" xml:space="preserve">    <value>Датчик</value>  </data>
   <data name="block.filter_item" xml:space="preserve">    <value>Фильтр</value>  </data>
-  <data name="block.spawner_loot_item" xml:space="preserve">    <value>Бабло Порождения</value>  </data>
+  <data name="block.spawner_loot_item" xml:space="preserve">    <value>Лут Порождения</value>  </data>
   <data name="block.spawner_mob_item" xml:space="preserve">    <value>Порождения Моб</value>  </data>
   <data name="block.actuator_item" xml:space="preserve">    <value>Блок Фазер</value>  </data>
   <data name="block.tear_item" xml:space="preserve">    <value>Приключение Ворота</value>  </data>
@@ -2600,8 +2600,8 @@
 <data name="block.slab_adobeclay_red" xml:space="preserve"><value>Красный Саман Сляба</value></data>
 <data name="block.slope_adobeclay_red" xml:space="preserve"><value>Склон Красного Самана</value></data>
 <data name="block.stairs_adobeclay_red" xml:space="preserve"><value>Красный Саман Лестнице</value></data>
-<data name="block.slab_adobeclay_white" xml:space="preserve"><value>Компания Adobe Сляба</value></data>
-<data name="block.slope_adobeclay_white" xml:space="preserve"><value>Компания Adobe Склон</value></data>
+<data name="block.slab_adobeclay_white" xml:space="preserve"><value>Глиняный Сляба</value></data>
+<data name="block.slope_adobeclay_white" xml:space="preserve"><value>Глиняный Склон</value></data>
 <data name="block.stairs_adobeclay_white" xml:space="preserve"><value>Саман Лестнице</value></data>
 <data name="block.slab_adobeclay_yellow" xml:space="preserve"><value>Желтый Саман Сляба</value></data>
 <data name="block.slope_adobeclay_yellow" xml:space="preserve"><value>Желтый Склон Самана</value></data>
@@ -2614,7 +2614,7 @@
 <data name="block.sign_stone_hanging" xml:space="preserve"><value>Висячий Камень Знак</value></data>
 <data name="block.plaque_stone" xml:space="preserve"><value>Каменная Доска</value></data>
 <data name="block.plaque_wood" xml:space="preserve"><value>Деревянная Доска</value></data>
-<data name="block.fire_pit_iron" xml:space="preserve"><value>Утюг Костра</value></data>
+<data name="block.fire_pit_iron" xml:space="preserve"><value>Железо Костра</value></data>
 <data name="block.wall_haunted" xml:space="preserve"><value>Призрачная Стена</value></data>
 <data name="block.floor_haunted" xml:space="preserve"><value>Привидениями Этаж</value></data>
 <data name="block.wall_haunted_stone" xml:space="preserve"><value>Привидениями Каменной Стеной</value></data>
@@ -2704,16 +2704,16 @@
 <data name="block.roof_obsidian_outer_corner" xml:space="preserve"><value>Обсидиан Внешний Угол Крыши</value></data>
 <data name="block.stairs_iron_inner_corner" xml:space="preserve"><value>Железной Лестнице Внутреннего Угла</value></data>
 <data name="block.stairs_iron_outer_corner" xml:space="preserve"><value>Железные Лестницы, Наружный Угол</value></data>
-<data name="block.roof_iron_inner_corner" xml:space="preserve"><value>Утюг Внутренний Угол Крыши</value></data>
-<data name="block.roof_iron_outer_corner" xml:space="preserve"><value>Утюг Внешний Угол Крыши</value></data>
+<data name="block.roof_iron_inner_corner" xml:space="preserve"><value>Железо Внутренний Угол Крыши</value></data>
+<data name="block.roof_iron_outer_corner" xml:space="preserve"><value>Железо Внешний Угол Крыши</value></data>
 <data name="block.stairs_diamond_inner_corner" xml:space="preserve"><value>Алмазный Лестнице Внутреннего Угла</value></data>
 <data name="block.stairs_diamond_outer_corner" xml:space="preserve"><value>Алмазный Лестнице Наружный Угол</value></data>
 <data name="block.roof_diamond_inner_corner" xml:space="preserve"><value>Алмаз Внутренний Угол Крыши</value></data>
 <data name="block.roof_diamond_outer_corner" xml:space="preserve"><value>Алмазный Внешний Угол Крыши</value></data>
-<data name="block.stairs_lumite_inner_corner" xml:space="preserve"><value>Компания Lumite Лестнице Внутреннего Угла</value></data>
-<data name="block.stairs_lumite_outer_corner" xml:space="preserve"><value>Компания Lumite Лестнице Наружный Угол</value></data>
-<data name="block.roof_lumite_inner_corner" xml:space="preserve"><value>Компания Lumite Внутренний Угол Крыши</value></data>
-<data name="block.roof_lumite_outer_corner" xml:space="preserve"><value>Компания Lumite Внешний Угол Крыши</value></data>
+<data name="block.stairs_lumite_inner_corner" xml:space="preserve"><value>Люмит Лестнице Внутреннего Угла</value></data>
+<data name="block.stairs_lumite_outer_corner" xml:space="preserve"><value>Люмит Лестнице Наружный Угол</value></data>
+<data name="block.roof_lumite_inner_corner" xml:space="preserve"><value>Люмит Внутренний Угол Крыши</value></data>
+<data name="block.roof_lumite_outer_corner" xml:space="preserve"><value>Люмит Внешний Угол Крыши</value></data>
 <data name="block.stairs_mayan_inner_corner" xml:space="preserve"><value>Лестницы Майя Внутренний Угол</value></data>
 <data name="block.stairs_mayan_outer_corner" xml:space="preserve"><value>Лестницы Майя Внешнего Угла</value></data>
 <data name="block.roof_mayan_inner_corner" xml:space="preserve"><value>Внутренний Угол Крыши Майя</value></data>
@@ -2722,12 +2722,12 @@
 <data name="block.stairs_medieval_outer_corner" xml:space="preserve"><value>Средневековые Лестницы Внешний Угол</value></data>
 <data name="block.roof_medieval_inner_corner" xml:space="preserve"><value>Средневековый Внутренний Угол Крыши</value></data>
 <data name="block.roof_medieval_outer_corner" xml:space="preserve"><value>Средневековый Внешний Угол Крыши</value></data>
-<data name="block.roof_adobe_slanted_blue_inner_corner" xml:space="preserve"><value>Компания Adobe Крышей Голубой Внутренний Угол</value></data>
-<data name="block.roof_adobe_slanted_blue_outer_corner" xml:space="preserve"><value>Компания Adobe Крышей Голубой Внешний Угол</value></data>
-<data name="block.roof_adobe_slanted_red_inner_corner" xml:space="preserve"><value>Компания Adobe Красные Крыши Внутреннего Угла</value></data>
-<data name="block.roof_adobe_slanted_red_outer_corner" xml:space="preserve"><value>Компания Adobe Красные Крыши Внешнего Угла</value></data>
+<data name="block.roof_adobe_slanted_blue_inner_corner" xml:space="preserve"><value>Глиняный Крышей Голубой Внутренний Угол</value></data>
+<data name="block.roof_adobe_slanted_blue_outer_corner" xml:space="preserve"><value>Глиняный Крышей Голубой Внешний Угол</value></data>
+<data name="block.roof_adobe_slanted_red_inner_corner" xml:space="preserve"><value>Глиняный Красные Крыши Внутреннего Угла</value></data>
+<data name="block.roof_adobe_slanted_red_outer_corner" xml:space="preserve"><value>Глиняный Красные Крыши Внешнего Угла</value></data>
 <data name="block.roof_adobe_slanted_yellow_inner_corner" xml:space="preserve"><value>Саман Крыша Желтый Внутренний Угол</value></data>
-<data name="block.roof_adobe_slanted_yellow_outer_corner" xml:space="preserve"><value>Компания Adobe Крыши Желтый Внешний Угол</value></data>
+<data name="block.roof_adobe_slanted_yellow_outer_corner" xml:space="preserve"><value>Глиняный Крыши Желтый Внешний Угол</value></data>
 <data name="block.roof_copper_inner_corner" xml:space="preserve"><value>Медная Кровля Внутренний Угол</value></data>
 <data name="block.roof_copper_outer_corner" xml:space="preserve"><value>Медь Наружный Угол Крыши</value></data>
 <data name="block.roof_patina_inner_corner" xml:space="preserve"><value>Патина Внутренний Угол Крыши</value></data>
@@ -2738,8 +2738,8 @@
 <data name="block.stairs_gingerbread_outer_corner" xml:space="preserve"><value>Пряники Лестнице Наружный Угол</value></data>
 <data name="block.roof_gingerbread_inner_corner" xml:space="preserve"><value>Пряничный Внутренний Угол Крыши</value></data>
 <data name="block.roof_gingerbread_outer_corner" xml:space="preserve"><value>Пряничный Внешний Угол Крыши</value></data>
-<data name="block.roof_gingerbread_wafer_inner_corner" xml:space="preserve"><value>Пряники Вафли Внутренний Угол Крыши</value></data>
-<data name="block.roof_gingerbread_wafer_outer_corner" xml:space="preserve"><value>Пряники Вафли Внешний Угол Крыши</value></data>
+<data name="block.roof_gingerbread_wafer_inner_corner" xml:space="preserve"><value>Вафельный Внутренний Угол Крыши</value></data>
+<data name="block.roof_gingerbread_wafer_outer_corner" xml:space="preserve"><value>Вафельный Внешний Угол Крыши</value></data>
 <data name="block.roof_igneous_inner_corner" xml:space="preserve"><value>Магматические Крыши Внутреннего Угла</value></data>
 <data name="block.roof_igneous_outer_corner" xml:space="preserve"><value>Магматические Внешний Угол Крыши</value></data>
 <data name="block.stairs_bungalow_inner_corner" xml:space="preserve"><value>Бунгало Лестнице Внутреннего Угла</value></data>
@@ -2770,9 +2770,9 @@
 <data name="block.wall_gold" xml:space="preserve"><value>Золотые Стены</value></data>
 <data name="block.wall_gold_banded" xml:space="preserve"><value>Окаймленный Золотой Стены</value></data>
 <data name="block.wall_gold_studded" xml:space="preserve"><value>Шипованных Золотые Стены</value></data>
-<data name="block.wall_lumite_shattered" xml:space="preserve"><value>Компания Lumite Разрушенной Стены</value></data>
-<data name="block.wall_lumite_shattered_dark" xml:space="preserve"><value>Разбитые Темные Стены Компания Lumite</value></data>
-<data name="block.wall_lumite_shattered_light" xml:space="preserve"><value>Расколотый Свет Компания Lumite Стены</value></data>
+<data name="block.wall_lumite_shattered" xml:space="preserve"><value>Люмит Разрушенной Стены</value></data>
+<data name="block.wall_lumite_shattered_dark" xml:space="preserve"><value>Разбитые Темные Стены Люмит</value></data>
+<data name="block.wall_lumite_shattered_light" xml:space="preserve"><value>Расколотый Свет Люмит Стены</value></data>
 <data name="block.wall_obsidian_checkered" xml:space="preserve"><value>Клетчатый Обсидиан Стены</value></data>
 <data name="block.wall_obsidian_square" xml:space="preserve"><value>Площадь Обсидиан Стены</value></data>
 <data name="block.wall_obsidian_rhombus" xml:space="preserve"><value>Ромб Обсидиан Стены</value></data>
@@ -2783,13 +2783,13 @@
 <data name="block.wall_diamond_square" xml:space="preserve"><value>Квадратный Алмаз Стены</value></data>
 <data name="block.wall_diamond_star" xml:space="preserve"><value>Звезда Алмазный Стене</value></data>
 <data name="block.table_diamond" xml:space="preserve"><value>Алмаз стол</value></data>
-<data name="block.table_lumite" xml:space="preserve"><value>Таблица Компания Lumite</value></data>
+<data name="block.table_lumite" xml:space="preserve"><value>Таблица Люмит</value></data>
 <data name="block.fence_obsidian" xml:space="preserve"><value>Обсидиан Забор</value></data>
 <data name="block.gate_obsidian" xml:space="preserve"><value>Обсидиан Ворота</value></data>
-<data name="block.roof_lumite" xml:space="preserve"><value>Компания Lumite Крыши</value></data>
-<data name="block.wall_lumite_light" xml:space="preserve"><value>Компания Lumite Свет Стены</value></data>
-<data name="block.wall_lumite_dark" xml:space="preserve"><value>Темная Компания Lumite Стены</value></data>
-<data name="block.wall_lumite_beveled" xml:space="preserve"><value>Компания Lumite Стены</value></data>
+<data name="block.roof_lumite" xml:space="preserve"><value>Люмит Крыши</value></data>
+<data name="block.wall_lumite_light" xml:space="preserve"><value>Люмит Свет Стены</value></data>
+<data name="block.wall_lumite_dark" xml:space="preserve"><value>Темная Люмит Стены</value></data>
+<data name="block.wall_lumite_beveled" xml:space="preserve"><value>Люмит Стены</value></data>
 <data name="block.roof_stone" xml:space="preserve"><value>Каменная Крыша</value></data>
 <data name="block.roof_obsidian" xml:space="preserve"><value>Обсидиан Крыши</value></data>
 <data name="block.roof_iron" xml:space="preserve"><value>Железная Крыша</value></data>
@@ -2924,7 +2924,7 @@
 <data name="block.glass_tourmaline_green" xml:space="preserve"><value>Зеленый Турмалин Стекло</value></data>
 <data name="block.wall_moroccan_siltstone" xml:space="preserve"><value>Алевролит Стены</value></data>
 <data name="block.wall_moroccan_iron" xml:space="preserve"><value>Железная Стена</value></data>
-<data name="block.wall_moroccan_iron_curl" xml:space="preserve"><value>Скручиваемость Утюг Стены</value></data>
+<data name="block.wall_moroccan_iron_curl" xml:space="preserve"><value>Скручиваемость Железо Стены</value></data>
 <data name="block.glass_moroccan" xml:space="preserve"><value>Армированное Стекло</value></data>
 <data name="block.snow_eighth" xml:space="preserve"><value>Снег</value></data>
 <data name="block.wall_igneous" xml:space="preserve"><value>Магматические Стены</value></data>
@@ -3025,7 +3025,7 @@
 <data name="block.door_iron" xml:space="preserve"><value>Железная Дверь</value></data>
 <data name="block.fence_iron" xml:space="preserve"><value>Железный Забор</value></data>
 <data name="block.gate_iron" xml:space="preserve"><value>Железные Ворота</value></data>
-<data name="block.slab_iron" xml:space="preserve"><value>Утюг Плиты</value></data>
+<data name="block.slab_iron" xml:space="preserve"><value>Железо Плиты</value></data>
 <data name="block.lava" xml:space="preserve"><value>Лава</value></data>
 <data name="block.leaves_shredded" xml:space="preserve"><value>Измельченных Листьев</value></data>
 <data name="block.leaves_aspen" xml:space="preserve"><value>Ashenwood Листья</value></data>
@@ -3033,10 +3033,10 @@
 <data name="block.leaves_sequoia" xml:space="preserve"><value>Элдервуд Листья</value></data>
 <data name="block.limestone" xml:space="preserve"><value>Известняк</value></data>
 <data name="block.log" xml:space="preserve"><value>Журнал Cragwood</value></data>
-<data name="block.door_lumite" xml:space="preserve"><value>Двери Компания Lumite</value></data>
-<data name="block.slab_lumite" xml:space="preserve"><value>Сляб Компания Lumite</value></data>
-<data name="block.stairs_lumite" xml:space="preserve"><value>Компания Lumite Лестнице</value></data>
-<data name="block.chest_treasure_lumite" xml:space="preserve"><value>Компания Lumite Сундук</value></data>
+<data name="block.door_lumite" xml:space="preserve"><value>Двери Люмит</value></data>
+<data name="block.slab_lumite" xml:space="preserve"><value>Сляб Люмит</value></data>
+<data name="block.stairs_lumite" xml:space="preserve"><value>Люмит Лестнице</value></data>
+<data name="block.chest_treasure_lumite" xml:space="preserve"><value>Люмит Сундук</value></data>
 <data name="block.metal" xml:space="preserve"><value>Листового Металла</value></data>
 <data name="block.metal_green" xml:space="preserve"><value>Зеленый Листовой Металл</value></data>
 <data name="block.metal_red" xml:space="preserve"><value>Красный Металлический Лист</value></data>
@@ -3124,10 +3124,10 @@
 <data name="block.chair_iron" xml:space="preserve"><value>Железный Стул</value></data>
 <data name="block.chest_iron" xml:space="preserve"><value>Железный Сундук</value></data>
 <data name="block.chest_iron_large" xml:space="preserve"><value>Большой Железный Сундук</value></data>
-<data name="block.table_iron" xml:space="preserve"><value>Утюг Стол</value></data>
-<data name="block.chair_lumite" xml:space="preserve"><value>Стул Компания Lumite</value></data>
-<data name="block.chest_lumite" xml:space="preserve"><value>Компания Lumite Груди</value></data>
-<data name="block.chest_lumite_large" xml:space="preserve"><value>Компания Lumite Большие Груди</value></data>
+<data name="block.table_iron" xml:space="preserve"><value>Железо Стол</value></data>
+<data name="block.chair_lumite" xml:space="preserve"><value>Стул Люмит</value></data>
+<data name="block.chest_lumite" xml:space="preserve"><value>Люмит Груди</value></data>
+<data name="block.chest_lumite_large" xml:space="preserve"><value>Люмит Большие Груди</value></data>
 <data name="block.chair_obsidian" xml:space="preserve"><value>Стул Обсидиан</value></data>
 <data name="block.chest_obsidian" xml:space="preserve"><value>Обсидиановый Сундук</value></data>
 <data name="block.chest_obsidian_large" xml:space="preserve"><value>Большой Обсидиановый Сундук</value></data>
@@ -3159,12 +3159,12 @@
 <data name="block.station_toolbench" xml:space="preserve"><value>Скамья Инструмент</value></data>
 <data name="block.slab_obsidian" xml:space="preserve"><value>Обсидиан Плиты</value></data>
 <data name="block.obsidian_block" xml:space="preserve"><value>Узел Обсидиан</value></data>
-<data name="block.lumite_block" xml:space="preserve"><value>Узел Компания Lumite</value></data>
+<data name="block.lumite_block" xml:space="preserve"><value>Узел Люмит</value></data>
 <data name="block.diamond_block" xml:space="preserve"><value>Алмазный Узел</value></data>
 <data name="block.iron_block" xml:space="preserve"><value>Железный Узел</value></data>
 <data name="block.coal_block" xml:space="preserve"><value>Уголь Узла</value></data>
 <data name="block.DeathStatue" xml:space="preserve"><value>Статуя Смерти</value></data>
-<data name="block.LootChest" xml:space="preserve"><value>Бабло Мешок</value></data>
+<data name="block.LootChest" xml:space="preserve"><value>Лут Мешок</value></data>
 <data name="block.EmptyDeathStatue" xml:space="preserve"><value>Статуя Смерти</value></data>
 <data name="block.floor_stone_decorativecarved" xml:space="preserve"><value>Резной Каменный Пол</value></data>
 <data name="block.torch_coal" xml:space="preserve"><value>Уголь Факел</value></data>
@@ -3217,15 +3217,15 @@
 <data name="block.treasure_chest_diamond" xml:space="preserve"><value>Алмазный Сундук</value></data>
 <data name="block.poi" xml:space="preserve"><value>Контрольно-пропускной пункт</value></data>
 <data name="block.spawner_mob" xml:space="preserve"><value>Порождения Моб</value></data>
-<data name="block.spawner_loot" xml:space="preserve"><value>Бабло Порождения</value></data>
+<data name="block.spawner_loot" xml:space="preserve"><value>Лут Порождения</value></data>
 <data name="block.sensor" xml:space="preserve"><value>Датчик</value></data>
-<data name="entity.pigsy_ghost" xml:space="preserve"><value>Призрак Pigsy</value></data>
-<data name="entity.leafi_ghost" xml:space="preserve"><value>Призрак Leafi</value></data>
-<data name="entity.miru_ghost" xml:space="preserve"><value>Призрак Миру</value></data>
-<data name="entity.rockster_ghost" xml:space="preserve"><value>Сайт Rockster Призрак</value></data>
-<data name="entity.chizzard_ghost" xml:space="preserve"><value>Chizzard Призрак</value></data>
-<data name="entity.player_loot" xml:space="preserve"><value>Падение Игрока</value></data>
-<data name="entity.hoglet_night" xml:space="preserve"><value>Ночь Hoglet</value></data>
+<data name="entity.pigsy_ghost" xml:space="preserve"><value>Призрак свинки</value></data>
+<data name="entity.leafi_ghost" xml:space="preserve"><value>Призрак лиственника</value></data>
+<data name="entity.miru_ghost" xml:space="preserve"><value>Призрак Смотрителя</value></data>
+<data name="entity.rockster_ghost" xml:space="preserve"><value>Призрак каменника</value></data>
+<data name="entity.chizzard_ghost" xml:space="preserve"><value>Призрак чижика</value></data>
+<data name="entity.player_loot" xml:space="preserve"><value>Лут с игрока</value></data>
+<data name="entity.hoglet_night" xml:space="preserve"><value>Ночной боров</value></data>
 <data name="entity.twiggy_night" xml:space="preserve"><value>Ночь Твигги</value></data>
 <data name="entity.treasure_chest_holiday" xml:space="preserve"><value>Подарок К Празднику</value></data>
 <data name="entity.trough_wood" xml:space="preserve"><value>Кормушка</value></data>
@@ -3254,12 +3254,12 @@
 <data name="entity.chest_arctek_01" xml:space="preserve"><value>Arctek Груди</value></data>
 <data name="entity.chest_arctek_02" xml:space="preserve"><value>Гранд Arctek Груди</value></data>
 <data name="entity.chest_wood" xml:space="preserve"><value>Деревянный Комод</value></data>
-<data name="entity.pigsy" xml:space="preserve"><value>Pigsy</value></data>
-<data name="entity.miru" xml:space="preserve"><value>Миру</value></data>
-<data name="entity.leafi" xml:space="preserve"><value>Leafi</value></data>
-<data name="entity.chizzard" xml:space="preserve"><value>Chizzard</value></data>
-<data name="entity.rockster" xml:space="preserve"><value>Сайт rockster</value></data>
-<data name="entity.rockzilla" xml:space="preserve"><value>Rockzilla</value></data>
+<data name="entity.pigsy" xml:space="preserve"><value>Свинка</value></data>
+<data name="entity.miru" xml:space="preserve"><value>Смотритель</value></data>
+<data name="entity.leafi" xml:space="preserve"><value>Лиственник</value></data>
+<data name="entity.chizzard" xml:space="preserve"><value>Чижик</value></data>
+<data name="entity.rockster" xml:space="preserve"><value>Каменник</value></data>
+<data name="entity.rockzilla" xml:space="preserve"><value>Рокзила</value></data>
 <data name="entity.crag" xml:space="preserve"><value>Краг</value></data>
 <data name="entity.riddup" xml:space="preserve"><value>Призрак</value></data>
 <data name="entity.warmworm" xml:space="preserve"><value>Warmworm</value></data>
@@ -3276,29 +3276,29 @@
 <data name="entity.thing" xml:space="preserve"><value>Дело</value></data>
 <data name="entity.player" xml:space="preserve"><value>Плеер</value></data>
 <data name="entity.demo_player" xml:space="preserve"><value>Демо-Плеер</value></data>
-<data name="entity.station_sawyer" xml:space="preserve"><value>Процессор</value></data>
-<data name="entity.station_loom" xml:space="preserve"><value>station_loom</value></data>
-<data name="entity.station_forge" xml:space="preserve"><value>station_forge</value></data>
+<data name="entity.station_sawyer" xml:space="preserve"><value>Пильщик</value></data>
+<data name="entity.station_loom" xml:space="preserve"><value>Ткацкий станок</value></data>
+<data name="entity.station_forge" xml:space="preserve"><value>Ковачная станция</value></data>
 <data name="entity.station_armory" xml:space="preserve"><value>Верстак</value></data>
-<data name="entity.station_toolbench" xml:space="preserve"><value>station_toolbench</value></data>
-<data name="entity.station_furniture" xml:space="preserve"><value>Фордж</value></data>
-<data name="entity.station_alchemy" xml:space="preserve"><value>station_alchemy</value></data>
-<data name="entity.chest_stone" xml:space="preserve"><value>Камень В Груди</value></data>
+<data name="entity.station_toolbench" xml:space="preserve"><value>Слесарный инструмент</value></data>
+<data name="entity.station_furniture" xml:space="preserve"><value>Печь</value></data>
+<data name="entity.station_alchemy" xml:space="preserve"><value>Химическая станция</value></data>
+<data name="entity.chest_stone" xml:space="preserve"><value>Камень Сундук</value></data>
 <data name="entity.chest_iron" xml:space="preserve"><value>Железный Сундук</value></data>
 <data name="entity.chest_obsidian" xml:space="preserve"><value>Обсидиановый Сундук</value></data>
 <data name="entity.chest_diamond" xml:space="preserve"><value>Алмазный Сундук</value></data>
-<data name="entity.chest_lumite" xml:space="preserve"><value>Компания Lumite Груди</value></data>
+<data name="entity.chest_lumite" xml:space="preserve"><value>Люмитовый Сундук</value></data>
 <data name="entity.death_statue" xml:space="preserve"><value>Статуя Смерти</value></data>
 <data name="entity.new_death_statue" xml:space="preserve"><value>Статуя Смерти</value></data>
-<data name="entity.loot_chest" xml:space="preserve"><value>Бабло Мешок</value></data>
+<data name="entity.loot_chest" xml:space="preserve"><value>Лут Мешок</value></data>
 <data name="entity.mining_extractor" xml:space="preserve"><value>Добыча Экстрактор</value></data>
-<data name="entity.pigsy_night" xml:space="preserve"><value>Ночь Pigsy</value></data>
-<data name="entity.leafi_night" xml:space="preserve"><value>Ночь Leafi</value></data>
-<data name="entity.chizzard_night" xml:space="preserve"><value>Ночь Chizzard</value></data>
-<data name="entity.rockster_night" xml:space="preserve"><value>Ночью Сайт Rockster</value></data>
-<data name="entity.corrupted_pigsy" xml:space="preserve"><value>Повреждены Pigsy</value></data>
-<data name="entity.corrupted_leafi" xml:space="preserve"><value>Повреждены Leafi</value></data>
-<data name="entity.corrupted_rockster" xml:space="preserve"><value>Поврежденный Сайт Rockster</value></data>
+<data name="entity.pigsy_night" xml:space="preserve"><value>Ночная свинка</value></data>
+<data name="entity.leafi_night" xml:space="preserve"><value>Ночной лиственник</value></data>
+<data name="entity.chizzard_night" xml:space="preserve"><value>Ночной чижик</value></data>
+<data name="entity.rockster_night" xml:space="preserve"><value>Ночной каменник</value></data>
+<data name="entity.corrupted_pigsy" xml:space="preserve"><value>Раненая свинка</value></data>
+<data name="entity.corrupted_leafi" xml:space="preserve"><value>Раненый лиственник</value></data>
+<data name="entity.corrupted_rockster" xml:space="preserve"><value>Раненый каменник</value></data>
 <data name="entity.shelf_wood" xml:space="preserve"><value>Деревянная Полка</value></data>
 <data name="entity.treasure_chest_wood" xml:space="preserve"><value>Деревянный Сундук С Сокровищами</value></data>
 <data name="entity.treasure_chest_stone" xml:space="preserve"><value>Каменный Сундук</value></data>
@@ -3367,7 +3367,7 @@
 <data name="store.leafi.greeting.0" xml:space="preserve"><value>Иип! Ты должен прийти в так тихо? Носить колокольчик или что-то так я знаю, что вы приближаетесь.</value></data>
 <data name="store.leafi.greeting.1" xml:space="preserve"><value>Пожалуйста, оставьте ваше оружие в одном из уютных местечек в передней части магазина.</value></data>
 <data name="store.leafi.greeting.2" xml:space="preserve"><value>Не обращайте внимания на камеры безопасности, они больше для защиты, чем у меня.</value></data>
-<data name="store.leafi.greeting.3" xml:space="preserve"><value>Добро пожаловать в ‘Leafi бабло’! Мы только органически выращенных блоков.</value></data>
+<data name="store.leafi.greeting.3" xml:space="preserve"><value>Добро пожаловать в ‘Leafi Лут’! Мы только органически выращенных блоков.</value></data>
 <data name="store.leafi.random.0" xml:space="preserve"><value>Некоторые Leafis использования в качестве предлога, чтобы показать все свои краски. Я называю это для привлечения внимания.</value></data>
 <data name="store.leafi.random.1" xml:space="preserve"><value>Почему все всегда подшучивает надо мной?</value></data>
 <data name="store.leafi.random.2" xml:space="preserve"><value>Иногда мне хочется выпрыгнуть из деревьев и притворяться, что я порхаю листьев на осеннем ветру. Что? Я артистичная!</value></data>
@@ -3627,7 +3627,7 @@
 <data name="ftue.blueprint" xml:space="preserve"><value>Взаимодействовать {0} С [ad55e8]краеугольный камень[-] и активировать его, чтобы начать строительство.</value></data>
 <data name="ftue.blueprint_activated" xml:space="preserve"><value>[анимация=Happy_02]эти крошечные блоки могут выглядеть подавиться, но не бойся! Они на самом деле экскурсоводы, какими материалами идти туда, где - я называю их[просрочки=0.5] [ad55e8]^намек^ ^блоков!^[задержка=0.5][-] я все равно не рекомендую пытаться их съесть[задержка=0.2].[задержка=0.2].[задержка=0.2].[просрочки=2.0] [пауза]просто поместите блок показывается подсказка и вы будете иметь дома в кратчайшие сроки! Ну, скорее хижина в данном случае... шаги ребенка! </value></data>
 <data name="ftue.blueprint_completed" xml:space="preserve"><value>[анимация=Happy_02]Эй вы закончили! Это выглядит потрясающе! [задержка=0.5] [анимация=Happy_01]план здания-это отличный способ, чтобы вдохновить творческий потенциал и расширить свои способности здания! </value></data>
- <data name="ftue.processor_intro" xml:space="preserve"><value>[анимация=Dialogue_02]Вау!, [задержка=0.5], что лезвие выглядит довольно резким.[задержка=0.5] достаточно острым, чтобы прорезать компания lumite, даже.[задержка=0.5], что компания lumite?[просрочки=0.5] ой, мы вернемся к этому позже.[задержка=2.0] [пауза]теперь мы можем использовать его, чтобы нарубить [ad55e8]деревянные и каменные плиты![-][задержка=0.5] правда?[задержка=0.5] Ну, как о камень стержней тогда?[анимация=простоя]</value></data>
+ <data name="ftue.processor_intro" xml:space="preserve"><value>[анимация=Dialogue_02]Вау!, [задержка=0.5], что лезвие выглядит довольно резким.[задержка=0.5] достаточно острым, чтобы прорезать люмит, даже.[задержка=0.5], что Люмит[просрочки=0.5] ой, мы вернемся к этому позже.[задержка=2.0] [пауза]теперь мы можем использовать его, чтобы нарубить [ad55e8]деревянные и каменные плиты![-][задержка=0.5] правда?[задержка=0.5] Ну, как о камень стержней тогда?[анимация=простоя]</value></data>
 <data name="ftue.extractor_reaction" xml:space="preserve"><value>Теперь ты экстрагируешь с газом!</value></data>
 <data name="ftue.low_durability_reaction" xml:space="preserve"><value>[анимация=Dialogue_02], что {current_tool} смотрит немного выветрится. Может быть, мы должны дать ему день в спа-салоне?[анимация=простоя]</value></data>
 <data name="ftue.lost_health_reaction" xml:space="preserve"><value>[анимация=Dialogue_02]ой![задержка=0.5] больно ли это?[задержка=0.5] хочу бандаж?[просрочки=0.5] Ой.. я на самом деле не здесь.[задержка=0.5] к сожалению.[анимация=простоя]</value></data>
@@ -3817,11 +3817,11 @@
 <data name="topbar.coins" xml:space="preserve"><value>Монеты</value></data>
   <data name="craft_category.event_haunted_holiday" xml:space="preserve">    <value>[у]событие: возвращение на праздники[/у]</value>  </data>
   <data name="craft_category.active" xml:space="preserve"><value>Активный</value></data>
-  <data name="craft_category.available" xml:space="preserve"><value>Доступен</value></data>
-<data name="craft_category.completed" xml:space="preserve"><value>Завершен</value></data>
+  <data name="craft_category.available" xml:space="preserve"><value>Доступный</value></data>
+<data name="craft_category.completed" xml:space="preserve"><value>Завершеный</value></data>
     <data name="craft_category.haunted" xml:space="preserve"><value>Привидениями</value></data>
 <data name="craft_category.event_halloween" xml:space="preserve"><value>[у]событие: призраки ночи[/у]</value></data>
-<data name="craft_category.explosives" xml:space="preserve"><value>Взрывчатых веществ</value></data>
+<data name="craft_category.explosives" xml:space="preserve"><value>Взрывчатых вещества</value></data>
 <data name="craft_category.decor" xml:space="preserve"><value>Декоративные</value></data>
 <data name="craft_category.blueprints" xml:space="preserve"><value>Чертежи</value></data>
 <data name="craft_category.tools" xml:space="preserve"><value>Инструменты</value></data>
@@ -3876,12 +3876,12 @@
 <data name="craft_category.teleporter" xml:space="preserve"><value>Телепорты</value></data>
 <data name="craft_category.portcrystal" xml:space="preserve"><value>Кристалл Телепортации</value></data>
 <data name="craft_category.furniture" xml:space="preserve"><value>Мебель</value></data>
-<data name="craft_category.ores" xml:space="preserve"><value>Рудами</value></data>
+<data name="craft_category.ores" xml:space="preserve"><value>Руды</value></data>
 <data name="craft_category.components" xml:space="preserve"><value>Компоненты</value></data>
 <data name="craft_category.fence" xml:space="preserve"><value>Забор</value></data>
 <data name="craft_category.crafting_tools" xml:space="preserve"><value>Инструменты Для Крафта</value></data>
-<data name="craft_category.adobe" xml:space="preserve"><value>Компания Adobe</value></data>
-<data name="craft_category.instances" xml:space="preserve"><value>Приключения</value></data>
+<data name="craft_category.adobe" xml:space="preserve"><value>Глиняные</value></data>
+<data name="craft_category.instances" xml:space="preserve"><value>Приключятели</value></data>
 <data name="recipe_unlock.unlock_button" xml:space="preserve"><value>Разблокировка</value></data>
 <data name="recipe_unlock.unlocked_by" xml:space="preserve"><value>РАЗБЛОКИРОВАНА </value></data>
 <data name="recipe_unlock.craft_amount" xml:space="preserve"><value>Ремесло {0}</value></data>
