@@ -399,7 +399,7 @@
 <data name="block.ground_savannah" xml:space="preserve"><value>Скалистые Грязи</value></data>
 <data name="block.hardened_lava" xml:space="preserve"><value>Застывшая Лава</value></data>
 <data name="block.healing_beacon" xml:space="preserve"><value>Исцеление Маяк</value></data>
-<data name="block.hearthstone_white" xml:space="preserve"><value>Оселок</value></data>
+<data name="block.hearthstone_white" xml:space="preserve"><value>Камень телепортации</value></data>
 <data name="block.ice" xml:space="preserve"><value>Лед</value></data>
 <data name="block.ice_cap" xml:space="preserve"><value>Ледяная Шапка</value></data>
 <data name="block.ice_slope" xml:space="preserve"><value>Ледовый Склон</value></data>
@@ -1151,7 +1151,7 @@
 <data name="error.no_mining_allowed.noaccess" xml:space="preserve"><value>Вы не имеете разрешения для добычи.</value></data>
 <data name="error.no_mining_allowed.nolocationvalue" xml:space="preserve"><value>Ничего не брать оттуда, глупо</value></data>
 <data name="error.no_mining_allowed.nominenode" xml:space="preserve"><value>Требуется Вытяжка, созданных через меню крафта</value></data>
-<data name="error.no_mining_allowed.notyourtouchstone" xml:space="preserve"><value>Нельзя оселок мое чужое.</value></data>
+<data name="error.no_mining_allowed.notyourtouchstone" xml:space="preserve"><value>Нельзя Камень телепортации мое чужое.</value></data>
 <data name="error.no_mining_allowed.notyourtouchstoneadmin" xml:space="preserve"><value>Нельзя телепортирваться через чужой камень телепортации.Вы можете удалить его, взаимодействуя с ним.</value></data>
 <data name="error.no_mining_allowed.outsideofterrain" xml:space="preserve"><value>Ты смотришь в бесконечность и спросить 'кто я?'</value></data>
 <data name="error.no_mining_allowed.publishedadventure" xml:space="preserve"><value>Эти ворота имеют опубликованные приключения. Публикацию перед вытягивать.</value></data>
@@ -1281,7 +1281,7 @@
 <data name="ftue.store" xml:space="preserve"><value>Проверьте [FFD700]магазин Creativerse[-]! Нажмите {0} и нажмите [FFD700]кнопки[-] </value></data>
 <data name="ftue.teleporter_intro" xml:space="preserve"><value>Шаг в [72a6f9]телепорт [ -], чтобы переместиться к другой связан телепортироваться месте.Взаимодействовать [72f9a5][Ф][-] открыть [72a6f9]панель код[-]. [72f9a5]сопротивления[-] детали в код слоты соединить телепорты вместе.[72a6f9]этот Телепортер[-] слот определить код чтобы телепортироваться в это место. [72a6f9]телепортироваться[-] слот определить код телепорт телепорт.Подсказка: пустые слоты считаются кодов, так что два "пустой" телепорты будут автоматически подключаться.</value></data>
 <data name="ftue.tod_intro" xml:space="preserve"><value>Солнце!Когда стемнеет [72a6f9]ночных существ[-] появится. Построить укрытие или создать оружие, чтобы защитить себя!</value></data>
-<data name="ftue.touchstone_intro" xml:space="preserve"><value>В [72a6f9]философский камень [ -] - это место телепорт.Нажмите [72f9a5]Т [ -], чтобы открыть список оселок и выберите пробный камень телепорта.Свой оселок также предстает как маркер на свой компас и ваша точка респауна если вы встречаете безвременной кончины. </value></data>
+<data name="ftue.touchstone_intro" xml:space="preserve"><value>В [72a6f9]философский камень [ -] - это место телепорт.Нажмите [72f9a5]Т [ -], чтобы открыть список Камень телепортации и выберите пробный камень телепорта.Свой Камень телепортации также предстает как маркер на свой компас и ваша точка респауна если вы встречаете безвременной кончины. </value></data>
 <data name="ftue.weapon_equip" xml:space="preserve"><value>Нажмите {0} для переключения на [ad55e8]боевой режим[-].</value></data>
 <data name="ftue.weapon_equip_intro" xml:space="preserve"><value>В какой-то момент вы будете нуждаться, чтобы защитить себя.[задержка=0.5] не беспокойтесь, у нас кухня с современным оружием, известным как...[просрочки=0.5] [ad55e8]палочке![FFFFFF][задержка=0.5] ок, не так состояние искусства - но его начало![задержка=0.5] просто останься со мной на минутку.[задержка=0.5] Вам это?[задержка=0.5]</value></data>
 <data name="ftue.weapon_unequip" xml:space="preserve"><value>[анимация=Dialogue_08]Woahoh - хорошая палка![задержка=0.5], что на [U]обязательно[/U] и сделать больше вреда, чем свои гигантские рукавицы![анимация=простоя]</value></data>
@@ -1301,7 +1301,7 @@
 <data name="ftue_title.node_intro" xml:space="preserve"><value>Вы обнаружили Рудный узел!</value></data>
 <data name="ftue_title.station_intro" xml:space="preserve"><value>Вы обнаружили крафта станции!</value></data>
 <data name="ftue_title.teleporter_intro" xml:space="preserve"><value>Вы открыли Телепорт!</value></data>
-<data name="ftue_title.touchstone_intro" xml:space="preserve"><value>Ты Нашел Оселок!</value></data>
+<data name="ftue_title.touchstone_intro" xml:space="preserve"><value>Ты Нашел Камень телепортации!</value></data>
 <data name="ftue_title.welcome" xml:space="preserve"><value>Добро пожаловать в Creativerse!</value></data>
 <data name="gallery.worldstate.publish_pending" xml:space="preserve"><value>Публикация Ожидающих</value></data>
 <data name="gallery.worldstate.published" xml:space="preserve"><value>Опубликовано</value></data>
@@ -1310,7 +1310,7 @@
 <data name="game_tip_10" xml:space="preserve"><value>Бомбы вы созданный может стать хорошим инструментом против сильных монстров. Или ваши друзья, whatevz-</value></data>
 <data name="game_tip_11" xml:space="preserve"><value>Убедитесь, что обновление власти-клеток твою перчатку, чтобы углубиться в землю!</value></data>
 <data name="game_tip_12" xml:space="preserve"><value>Строительство подводных баз, это действительно сложно.</value></data>
-<data name="game_tip_13" xml:space="preserve"><value>Не забудьте поместить вниз свой Оселок. Ваши друзья могут телепортироваться к ним, как хорошо! </value></data>
+<data name="game_tip_13" xml:space="preserve"><value>Не забудьте поместить вниз свой Камень телепортации. Ваши друзья могут телепортироваться к ним, как хорошо! </value></data>
 <data name="game_tip_14" xml:space="preserve"><value>Крафта определенных предметов открывает еще больше для вас ремесло!</value></data>
 <data name="game_tip_15" xml:space="preserve"><value>Ставя факелы на соломенные стены могли установить ваши мечты в огне.</value></data>
 <data name="game_tip_16" xml:space="preserve"><value>Ледяные бомбы может охладить даже самые горячие бассейн из лавы!</value></data>
@@ -1675,7 +1675,7 @@
 <data name="item.hammer_pro" xml:space="preserve"><value>Про молоток</value></data>
 <data name="item.hardened_lava_item" xml:space="preserve"><value>Застывшая Лава</value></data>
 <data name="item.healing_beacon" xml:space="preserve"><value>Исцеление Маяк</value></data>
-<data name="item.hearthstone_white_item" xml:space="preserve"><value>Оселок</value></data>
+<data name="item.hearthstone_white_item" xml:space="preserve"><value>Камень телепортации</value></data>
 <data name="item.helmet_diamond" xml:space="preserve"><value>Алмаз Наплечник</value></data>
 <data name="item.helmet_iron" xml:space="preserve"><value>Железный Наплечник</value></data>
 <data name="item.helmet_leather" xml:space="preserve"><value>Кожаный Наплечник</value></data>
@@ -2187,7 +2187,7 @@
 <data name="item.torch_holiday_yellow" xml:space="preserve"><value>Желтый Свет Праздника</value></data>
 <data name="item.torch_mayan" xml:space="preserve"><value>Скрытый мая Факел</value></data>
 <data name="item.torch_medieval" xml:space="preserve"><value>Средневековый Факел</value></data>
-<data name="item.touchstone_help" xml:space="preserve"><value>{0}'ы Оселок</value></data>
+<data name="item.touchstone_help" xml:space="preserve"><value>{0}'ы Камень телепортации</value></data>
 <data name="item.trap_door_mayan" xml:space="preserve"><value>Скрытый Храм Люк</value></data>
 <data name="item.trap_door_stone" xml:space="preserve"><value>Каменный Люк</value></data>
 <data name="item.trap_door_wood" xml:space="preserve"><value>Деревянная Дверь</value></data>
@@ -2633,7 +2633,7 @@
 <data name="item_description.hammer_pro" xml:space="preserve"><value>Вы никогда не видели молотком так профессионально. Он всегда заканчивает работу в срок и по разумным ценам! Сделано в Разделителье.</value></data>
 <data name="item_description.hardened_lava_item" xml:space="preserve"><value>Отламывать кусочки, чтобы положить в свой карман в холодный день.</value></data>
 <data name="item_description.healing_beacon" xml:space="preserve"><value>Он обладает целебными свойствами и это Маяк! Но ждите, есть больше: ждать... ладно, я забыл, что это было.</value></data>
-<data name="item_description.hearthstone_white_item" xml:space="preserve"><value>Отличный способ найти ваш дом, когда ты удалился слишком далеко. Нажмите клавишу T, чтобы перейти ощутимое. Размещение оселок удаляет последний один вы разместили.</value></data>
+<data name="item_description.hearthstone_white_item" xml:space="preserve"><value>Отличный способ найти ваш дом, когда ты удалился слишком далеко. Нажмите клавишу T, чтобы перейти ощутимое. Размещение Камень телепортации удаляет последний один вы разместили.</value></data>
 <data name="item_description.helmet_diamond" xml:space="preserve"><value>Вы можете плечом оперативной памяти большинство вещей в подчинение, но не потому, что она все еще побаливает.</value></data>
 <data name="item_description.helmet_iron" xml:space="preserve"><value>Вы узнали трудный путь, чтобы держаться подальше от магнетита при ношении.</value></data>
 <data name="item_description.helmet_leather" xml:space="preserve"><value>Делает грубые влажный звук, когда вы слезаете его плечо.</value></data>
@@ -3331,8 +3331,8 @@
 <data name="message.accepted_invite" xml:space="preserve"><value>Принято приглашать в другой мир.</value></data>
 <data name="message.afk_kicked" xml:space="preserve"><value>Вы были отключены из-за неактивности.</value></data>
 <data name="message.awaken" xml:space="preserve"><value>Вы будите</value></data>
-<data name="message.delete_touchstone.body" xml:space="preserve"><value>Удалить игрока "{0}"'ы Оселок?</value></data>
-<data name="message.delete_touchstone.title" xml:space="preserve"><value>Удалить Оселок</value></data>
+<data name="message.delete_touchstone.body" xml:space="preserve"><value>Удалить игрока "{0}"'ы Камень телепортации?</value></data>
+<data name="message.delete_touchstone.title" xml:space="preserve"><value>Удалить Камень телепортации</value></data>
 <data name="message.feature_disabled" xml:space="preserve"><value>В настоящее время эта функция отключена.</value></data>
 <data name="message.forced_logout" xml:space="preserve"><value>Вынужден выйти.</value></data>
 <data name="message.in_bed_waiting" xml:space="preserve"><value>Ждем других игроков, чтобы спать</value></data>
@@ -3344,10 +3344,10 @@
 <data name="message.pro_create_worlds" xml:space="preserve"><value>Обновить [ffc026]Creativerse про [FFFFFF], чтобы разблокировать возможность [ffc026]создавать собственные миры [FFFFFF]и другие эксклюзивные преимущества!</value></data>
 <data name="message.pro_default" xml:space="preserve"><value>Обновление [ffc026]Creativerse про [FFFFFF], чтобы разблокировать эксклюзивные [ffc026]преимущества и способности!</value></data>
 <data name="message.pro_world_modifiers" xml:space="preserve"><value>Обновить [ffc026]Creativerse про [FFFFFF], чтобы разблокировать [ffc026]мир модификаторов, таких как низкая гравитация, или легкий режим для вашего мира [FFFFFF], а также другие исключительные преимущества!</value></data>
-<data name="message.reclaim_touchstone" xml:space="preserve"><value>Истребовать Оселок</value></data>
-<data name="message.reclaim_touchstone.body" xml:space="preserve"><value>Вы уверены, что хотите вернуть свой оселок? Это позволит удалить свой оселок в мире и добавить его в свой инвентарь.</value></data>
-<data name="message.reclaim_touchstone.noroom" xml:space="preserve"><value>Не вернуть Оселок нет места в инвентаре</value></data>
-<data name="message.reclaim_touchstone.title" xml:space="preserve"><value>Истребовать Оселок?</value></data>
+<data name="message.reclaim_touchstone" xml:space="preserve"><value>Истребовать Камень телепортации</value></data>
+<data name="message.reclaim_touchstone.body" xml:space="preserve"><value>Вы уверены, что хотите вернуть свой Камень телепортации? Это позволит удалить свой Камень телепортации в мире и добавить его в свой инвентарь.</value></data>
+<data name="message.reclaim_touchstone.noroom" xml:space="preserve"><value>Не вернуть Камень телепортации нет места в инвентаре</value></data>
+<data name="message.reclaim_touchstone.title" xml:space="preserve"><value>Истребовать Камень телепортации?</value></data>
 <data name="message.sleeping" xml:space="preserve"><value>Спать</value></data>
 <data name="message.teleportation_canceled" xml:space="preserve"><value>Телепортация отменяется</value></data>
 <data name="message.teleporting_in_x" xml:space="preserve"><value>Телепортироваться в {0} секунд</value></data>
@@ -3671,7 +3671,7 @@
 <data name="status.connection_failure" xml:space="preserve"><value>Подключение Не Удалось {0}</value></data>
 <data name="status.creating_account" xml:space="preserve"><value>Создание учетной записи...</value></data>
 <data name="status.joining_instance_x" xml:space="preserve"><value>{0}</value></data>
-<data name="status.joining_world_x" xml:space="preserve"><value>Вступление Мира "{0}"...</value></data>
+<data name="status.joining_world_x" xml:space="preserve"><value>подключение к Миру "{0}"...</value></data>
 <data name="status.loading_instance_x" xml:space="preserve"><value>{0}</value></data>
 <data name="status.loading_world_x" xml:space="preserve"><value>Входя В Мир "{0}"...</value></data>
 <data name="status.teleporting" xml:space="preserve"><value>Телепортация...</value></data>
@@ -3765,7 +3765,7 @@
 <data name="task.place_name_quantity" xml:space="preserve"><value>Место {количество} {item_name}</value></data>
 <data name="task.plant_name_quantity" xml:space="preserve"><value>Завод {количество} {block_name}</value></data>
 <data name="task.plant_quantity_generic" xml:space="preserve"><value>Завод {количество} культур</value></data>
-<data name="task.process_name_quantity" xml:space="preserve"><value>Процесс {количество} {item_name}</value></data>
+<data name="task.process_name_quantity" xml:space="preserve"><value>Сделать {количество} {item_name}</value></data>
 <data name="task.pull_name" xml:space="preserve"><value>Выкопать {block_name}</value></data>
 <data name="task.pull_name_quantity" xml:space="preserve"><value>Тянуть {количество} {block_name}</value></data>
 <data name="task.rootquest_a" xml:space="preserve"><value>Тянуть {Количество} блоков</value></data>
@@ -3969,7 +3969,7 @@
 <data name="used.tnt_stalactite" xml:space="preserve"><value>[FFFFFF]используется для [FFD700]взорвать слоя сталактит[FFFFFF] или слабее блоки[FFFFFF]место и активировать, чтобы использовать</value></data>
 <data name="used.tnt_stone" xml:space="preserve"><value>[FFFFFF]используется для [FFD700]взорвать камень[FFFFFF] или слабее блоки[FFFFFF]место и активировать, чтобы использовать</value></data>
 <data name="used.tnt_surface" xml:space="preserve"><value>[FFFFFF]для [FFD700]взорвать поверхность[FFFFFF] блоки[FFFFFF]место и активировать, чтобы использовать</value></data>
-<data name="used.touchstone" xml:space="preserve"><value>[FFFFFF]нажмите T, чтобы [FFD700]телепортироваться [FFFFFF]возвращаясь к вашему размещен оселок</value></data>
+<data name="used.touchstone" xml:space="preserve"><value>[FFFFFF]нажмите T, чтобы [FFD700]телепортироваться [FFFFFF]возвращаясь к вашему размещен Камень телепортации</value></data>
 <data name="used.wash" xml:space="preserve"><value>[FFFFFF]используется для [FFD700]мыть грязную прирученных существ</value></data>
 <data name="used.wire" xml:space="preserve"><value>[FFFFFF]для [FFD700]создать соединения [FFFFFF]между wireables</value></data>
 <data name="user.creating_account" xml:space="preserve"><value>Пытаюсь создать учетную запись</value></data>
