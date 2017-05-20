@@ -310,7 +310,7 @@
 <data name="block.diamond_block" xml:space="preserve"><value>Алмазный Узел</value></data>
 <data name="block.dirt" xml:space="preserve"><value>Грязь</value></data>
 <data name="block.dirt_corrupted" xml:space="preserve"><value>Повреждены Грязи</value></data>
-<data name="block.dirt_tilled" xml:space="preserve"><value>Возделывали Землю</value></data>
+<data name="block.dirt_tilled" xml:space="preserve"><value>пашня</value></data>
 <data name="block.door_bungalow" xml:space="preserve"><value>Бунгало Дверь</value></data>
 <data name="block.door_diamond" xml:space="preserve"><value>Алмаз Двери</value></data>
 <data name="block.door_iron" xml:space="preserve"><value>Железная Дверь</value></data>
