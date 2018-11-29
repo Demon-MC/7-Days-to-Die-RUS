@@ -1,0 +1,13 @@
+<configs>
+<remove xpath="/styles/style[@type='label']/style_entry[@name='font_face']"/>
+	<append xpath="/styles/style[@type='label']">
+ <style_entry name="font_face" value="font"/>
+	</append>
+
+
+
+	
+
+
+
+</configs>
