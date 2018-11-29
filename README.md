@@ -1,5 +1,5 @@
-# 7-Days-To-Die---Russian-Localization
-7 Days To Die - Russian Localization By FreeLAN Group
+--Russian-Localization
+ Russian Localization By FreeLAN Group
 Инструкция для участия в переводе(редактировании переведенного текста) Игры 7 Days To Die
 1. Установите клиент TortoiseSVN-1.9.5.27581-x64-svn-1.9.5.msi
 2. Установите рускоязычный пакет LanguagePack_1.9.5.27581-win32-ru.msi
