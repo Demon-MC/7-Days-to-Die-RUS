@@ -793,9 +793,9 @@
 		<rect depth="2" name="searchControls" width="327" height="43" pos="0,-46">
 		<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" pos="0,0" width="327" height="43" color="[black]" type="sliced" fillcenter="false" />
 			<sprite depth="1" color="[mediumGrey]" type="sliced" globalopacity="true" />
-			<button depth="4" name="characterButton" style="icon30px, press" pos="22,-22" sprite="ui_game_symbol_character" pivot="center" tooltip="Description" sound="[paging_click]" selected="true" />
-			<button depth="4" name="statButton" style="icon30px, press" pos="65,-22" sprite="ui_game_symbol_ping" pivot="center" tooltip="Stats" sound="[paging_click]" />
-			<button depth="4" name="coreStatButton" style="icon30px, press" pos="108,-22" sprite="ui_game_symbol_trophy" pivot="center" tooltip="Stats" sound="[paging_click]" />
+			<button depth="4" name="characterButton" style="icon30px, press" pos="22,-22" sprite="ui_game_symbol_character" pivot="center" tooltip="ОДЕЖДА" sound="[paging_click]" selected="true" />
+			<button depth="4" name="statButton" style="icon30px, press" pos="65,-22" sprite="ui_game_symbol_ping" pivot="center" tooltip="ИНФОРМАЦИЯ" sound="[paging_click]" />
+			<button depth="4" name="coreStatButton" style="icon30px, press" pos="108,-22" sprite="ui_game_symbol_trophy" pivot="center" tooltip="ХАРАКТЕРИСТИКИ" sound="[paging_click]" />
 
 
 			<!-- <panel pos="220,0" width="104" height="43" disableautobackground="true"> -->
@@ -834,13 +834,13 @@
 			<rect pos="0,0" height="33">
 				<sprite depth="8" sprite="menu_empty3px" height="33" color="[black]" type="sliced" fillcenter="false" />
 				<sprite depth="1" color="[darkestGrey]" pos="0,-1" height="31" type="sliced" />
-				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerhealthtitle|once}" justify="left" color="[white]" />
+				<label depth="3" pos="15,-3" width="290" font_size="26" text="ЗДОРОВЬЕ" justify="left" color="[white]" />
 				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerhealth}/{playermaxhealth}" justify="right" color="[selectedColor]" />
 			</rect>
 			<rect pos="0,-30" height="33">
 				<sprite depth="8" sprite="menu_empty3px" height="33"  color="[black]" type="sliced" fillcenter="false" />
 				<sprite depth="1" color="[darkGrey]" type="sliced" />
-				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerstaminatitle|once}" justify="left" color="[white]" />
+				<label depth="3" pos="15,-3" width="290" font_size="26" text="ВЫНОСЛИВОСТЬ" justify="left" color="[white]" />
 				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerstamina}/{playermaxstamina}" justify="right" color="[selectedColor]" />
 			</rect>
 			<rect pos="0,-60" height="33">
