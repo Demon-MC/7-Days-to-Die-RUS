@@ -50,11 +50,10 @@
 				<SMXmainMenuBTN1 name="btnAccount" pivot="center" width="400" height="54" caption_key="xuiBtnOptionsAccount" visible="{notreleaseingame}" />
 				<rect><texture depth="1" pivot="${pivot|center}" name="redsep" texture="@file:Mods/SMXmainMenu/Textures/mainmenu/redsep.png" material="Materials\Transparent Colored" size="301,4" pos="-140,-24" visible="{ingame}" /></rect>
 				<SMXmainMenuBTN3 name="btnBack" pivot="center" width="400" height="54" caption_key="xuiBack" visible="{ingame}" />
+				<SMXmainMenuBTN3 name="btnBack" pivot="center" width="400" height="54" caption_key="xuiBack" visible="{notingame}" />
 			</grid>
 
-			<widget anchor_left="#cam,0,40" anchor_bottom="#cam,0,80" anchor_right="#cam,0,50" anchor_top="#cam,0,90" pivot="bottomleft">
-				<SMXmainMenuBTN3 name="btnBack" pivot="left" width="200" height="54" caption_key="xuiBack" visible="{notingame}" />
-			</widget>
+			
 		</window>
 
 	</append>
