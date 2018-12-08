@@ -4881,7 +4881,7 @@
 "lblContextActionSplit","UI","Item Context Menu","KgNone","РАЗДЕЛИТЬ"
 "lblContextActionStore","UI","Item Context Menu","KgNone","СОХРАНИТЬ"
 "lblContextActionTake","UI","Item Context Menu","KgNone","ВЗЯТЬ"
-"lblContextActionwear","UI","Item Context Menu","KgNone","НАДЕТЬ"
+"WEAR","UI","Item Context Menu","KgNone","НАДЕТЬ"
 "lblContextCraftAmmoWeapons","UI","Item Context Menu","KgNone","БОЕПРИПАСЫ/ОРУЖИЕ"
 "lblContextCraftBasics","UI","Item Context Menu","KgNone","ОБЫЧНОЕ"
 "lblContextCraftBrowse","UI","Item Context Menu","KgNone","ПРОСМОТР"
@@ -7078,4 +7078,6 @@
 "xuiBurntForest","UI","XUI","KgNone","СГОРЕВШИЙ ЛЕС",,,,,
 "xuiDesert","UI","XUI","KgNone","ЗАБРОШЕННЫЙ",,,,,
 "xuiWasteland","UI","XUI","KgNone","ПУСТЫНЯ",,,,,
-
+"xuiSharedQuests","UI","XUI","KgNone","ОБЩИЕ ЗАДАНИЯ"
+"lblCancelQuest","UI","Tooltip","KgNone","ОТМЕНИТЬ ЗАДАНИЕ"
+"lblAcceptQuest","UI","Tooltip","KgNone","ПРИНЯТЬ ЗАДАНИЕ"
