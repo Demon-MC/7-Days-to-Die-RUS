@@ -579,7 +579,11 @@
 						<gameoption name="GameDifficulty" title="goDifficulty" value_wrap="false" value_type="int" values="" display_names="goDifficulty1,goDifficulty2,goDifficulty3,goDifficulty4,goDifficulty5,goDifficulty6" value_localization_prefix="" />
 						<gameoption name="DayNightLength" title="goDayLength" value_wrap="false" value_type="int" values="10, 20, 30, 40, 50, 60, 90, 120" display_names="" value_localization_prefix="goMinute" />
 						<gameoption name="DayLightLength" title="goDayLightLength" value_wrap="false" value_type="int" values="12, 14, 16, 18" display_names="" value_localization_prefix="goDayLightLengthValue" />
-						<gameoption name="ZombiesRun" title="goZombiesRun" value_wrap="false" value_type="int" values="" display_names="goZRDefault,goZRNever,goZRAlways" value_localization_prefix="" />
+						<!--<gameoption name="ZombiesRun" title="goZombiesRun" value_wrap="false" value_type="int" values="" display_names="goZRDefault,goZRNever,goZRAlways" value_localization_prefix="" />-->
+						<gameoption name="ZombieMove" title="goZombieMove" value_wrap="false" value_type="int" values="" display_names="goZMWalk,goZMJog,goZMRun,goZMSprint,goZMNightmare" value_localization_prefix="" />
+						<gameoption name="ZombieMoveNight" title="goZombieMoveNight" value_wrap="false" value_type="int" values="" display_names="goZMWalk,goZMJog,goZMRun,goZMSprint,goZMNightmare" value_localization_prefix="" />
+						<gameoption name="ZombieFeralMove" title="goZombieFeralMove" value_wrap="false" value_type="int" values="" display_names="goZMWalk,goZMJog,goZMRun,goZMSprint,goZMNightmare" value_localization_prefix="" />
+						<gameoption name="ZombieBMMove" title="goZombieBMMove" value_wrap="false" value_type="int" values="" display_names="goZMWalk,goZMJog,goZMRun,goZMSprint,goZMNightmare" value_localization_prefix="" />
 						<gameoption name="PersistentPlayerProfiles" title="goPersistentCharacters" value_wrap="false" value_type="bool" values="" display_names="" value_localization_prefix="" />
 					</grid>
 				</rect>
