@@ -1474,7 +1474,7 @@
 
 		<rect visible="{buttonsVisible}" pos="0,40" >
 			<panel name="header" pos="0,0" height="43" depth="2" createuipanel="true" backgroundspritename="ui_game_panel_header" bordercolor="[black]" borderthickness="3" >
-				<label style="header.name" pos="550,-6" width="550" text_key="respawnTitleMessage" />
+				<label style="header.name" pos="6,-6" width="550" text_key="respawnTitleMessage" />
 			</panel>
 			
 			<simplebutton name="btnSpawnOnBedroll" depth="3" pos="200,-70" pivot="center" width="400" height="42" font_size="36" caption_key="lblSpawnOnBedroll" />
