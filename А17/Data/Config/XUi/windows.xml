@@ -172,7 +172,7 @@
 
 		</texture>
 		<sprite pos="240,-60" sprite="" color="255,255,255,255" globalopacitymod="1.8">
-			<label depth="2" width="300" height="30" text="{daytitle}: {day|always}  {timetitle}: {time|always}" font_size="28" pivot="center" effect="outline" upper_case="true" justify="center"/>
+			<label depth="2" width="300" height="30" text="{daytitle}: [{daycolor|always}]{day|always}[-] {timetitle}: {time|always}" font_size="28" pivot="center" effect="outline" upper_case="true" justify="center"/>
 		</sprite>
 	</window>
 
@@ -834,26 +834,26 @@
 			<rect pos="0,0" height="33">
 				<sprite depth="8" sprite="menu_empty3px" height="33" color="[black]" type="sliced" fillcenter="false" />
 				<sprite depth="1" color="[darkestGrey]" pos="0,-1" height="31" type="sliced" />
-				<label depth="3" pos="15,-3" width="290" font_size="26" text="ЗДОРОВЬЕ" justify="left" color="[white]" />
+				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerhealthtitle|once}" justify="left" color="[white]" />
 				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerhealth}/{playermaxhealth}" justify="right" color="[selectedColor]" />
 			</rect>
 			<rect pos="0,-30" height="33">
 				<sprite depth="8" sprite="menu_empty3px" height="33"  color="[black]" type="sliced" fillcenter="false" />
 				<sprite depth="1" color="[darkGrey]" type="sliced" />
-				<label depth="3" pos="15,-3" width="290" font_size="26" text="ВЫНОСЛИВОСТЬ" justify="left" color="[white]" />
+				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerstaminatitle|once}" justify="left" color="[white]" />
 				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerstamina}/{playermaxstamina}" justify="right" color="[selectedColor]" />
 			</rect>
 			<rect pos="0,-60" height="33">
 				<sprite depth="8" sprite="menu_empty3px" height="33" color="[black]" type="sliced" fillcenter="false" />
 				<sprite depth="1" color="[darkestGrey]" pos="0,-1" height="31" type="sliced" />
 				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerfoodtitle|once}" justify="left" color="[white]" />
-				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerfood}%" justify="right" color="[selectedColor]" />
+				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playermodifiedcurrentfood}/{playerfoodmax}" justify="right" color="[selectedColor]" />
 			</rect>
 			<rect pos="0,-90" height="33">
 				<sprite depth="8" sprite="menu_empty3px" height="33"  color="[black]" type="sliced" fillcenter="false" />
 				<sprite depth="1" color="[darkGrey]" type="sliced" />
 				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerwatertitle|once}" justify="left" color="[white]" />
-				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerwater}%" justify="right" color="[selectedColor]" />
+				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playermodifiedcurrentwater}/{playerwatermax}" justify="right" color="[selectedColor]" />
 			</rect>
 			<rect pos="0,-120" height="33">
 				<sprite depth="8" sprite="menu_empty3px" height="33" color="[black]" type="sliced" fillcenter="false" />
@@ -3859,7 +3859,7 @@
 	</window>
 
 	<window name="chatoutput" pos="20, -250" depth="100" width="500" height="250" anchor="LeftTop" controller="ChatOutput" fadeout_wait_time="5" fadeout_duration="2">
-		<textlist name="txtOutput" pos="8,-214" width="484" height="210" list_style="chat" pivot="bottomleft" depth="2" font_size="26" />
+		<textlist name="txtOutput" pos="8,-214" width="484" height="210" list_style="chat" pivot="bottomleft" depth="2" font_size="26" font_face="AgencyB" crispness="Never" />
 	</window>
 
 	<window name="chat" pos="20, -250" width="500" height="250" anchor="LeftTop" controller="Chat" cursor_area="true">
@@ -3870,7 +3870,7 @@
 			<sprite depth="8" name="border" sprite="menu_empty2px" color="[black]" type="sliced" fillcenter="false" />
 
 			<combobox name="cbxTarget" type="ComboBoxList`1[EChatType]" value_max="party" pos="2, -6" width="100" height="22" font_size="22" localization_prefix="xuiChatTarget" />
-			<textfield name="txtInput" backgroundcolor="[transparent]" depth="2" pos="110,-2" width="386" height="28" justify="left" overflow="ClampContent" max_line_count="1" />
+			<textfield name="txtInput" backgroundcolor="[transparent]" depth="2" pos="110,-16" width="386" height="28" pivot="left" justify="left" overflow="ClampContent" max_line_count="1" font_face="AgencyB" crispness="Never" />
 		</rect>
 	</window>
 
