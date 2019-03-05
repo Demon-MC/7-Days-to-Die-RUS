@@ -834,19 +834,19 @@
 			<rect pos="0,0" height="33">
 				<sprite depth="8" sprite="menu_empty3px" height="33" color="[black]" type="sliced" fillcenter="false" />
 				<sprite depth="1" color="[darkestGrey]" pos="0,-1" height="31" type="sliced" />
-				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerhealthtitle|once}" justify="left" color="[white]" />
+				<label depth="3" pos="15,-3" width="290" font_size="26" text="Health" text_key="lblHealth" justify="left" color="[white]" />
 				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerhealth}/{playermaxhealth}" justify="right" color="[selectedColor]" />
 			</rect>
 			<rect pos="0,-30" height="33">
 				<sprite depth="8" sprite="menu_empty3px" height="33"  color="[black]" type="sliced" fillcenter="false" />
 				<sprite depth="1" color="[darkGrey]" type="sliced" />
-				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerstaminatitle|once}" justify="left" color="[white]" />
+				<label depth="3" pos="15,-3" width="290" font_size="26" text="Stamina" text_key="lblStamina" justify="left" color="[white]" />
 				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerstamina}/{playermaxstamina}" justify="right" color="[selectedColor]" />
 			</rect>
 			<rect pos="0,-60" height="33">
 				<sprite depth="8" sprite="menu_empty3px" height="33" color="[black]" type="sliced" fillcenter="false" />
 				<sprite depth="1" color="[darkestGrey]" pos="0,-1" height="31" type="sliced" />
-				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerfoodtitle|once}" justify="left" color="[white]" />
+				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playerfoodtitle|once}" justify="left" color="[white]" localization_prefix="xui"/>
 				<label depth="3" pos="15,-3" width="290" font_size="26" text="{playermodifiedcurrentfood}/{playerfoodmax}" justify="right" color="[selectedColor]" />
 			</rect>
 			<rect pos="0,-90" height="33">
