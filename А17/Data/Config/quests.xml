@@ -2932,8 +2932,8 @@
 	</quest_list>
 
 	<quest_items max_count="100">
-		<quest_item id="1" name="White River Supplies" icon="questWhiteRiverSupplies" icon_color="255,255,255" />
-		<quest_item id="2" name="Cassadore Supplies" icon="questCassadoreSupplies" icon_color="255,255,255" />
+		<quest_item id="1" name="Припасы «Белой реки»" icon="questWhiteRiverSupplies" icon_color="255,255,255" />
+		<quest_item id="2" name="Припасы Кассадоров" icon="questCassadoreSupplies" icon_color="255,255,255" />
 	</quest_items>
 
 	<quest_tier_rewards>
