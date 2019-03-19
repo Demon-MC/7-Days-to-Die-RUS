@@ -1,5 +1,7 @@
---Russian-Localization
+Russian-Localization 7 Days to Die
+
 Свн репозиторий проекта по переводу игры 7 Days to Die
+
 Комманда переводчиков:
 fenymak (Ma3oK)
 VaLeRo
